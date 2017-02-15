@@ -207,7 +207,7 @@ public class MainGui implements Runnable {
       }
 
       private ViewNode checkSelection(ViewNode node, int xPos, int yPos) {
-        if (node.contains(xPos, yPos))
+        if (node == null || node.contains(xPos, yPos))
           return node;
         for (ViewNode viewNode : node.getViewNodes()) {
           ViewNode tmp = checkSelection(viewNode, xPos, yPos);
