@@ -1,92 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ed0f04c8-68f2-4bea-807e-36aff488bc31" name="Default" comment="Added  a number files/classes related to some support classes suh as a Parser. These classes does not represent finished functionallity.">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/annotations/TermAlias.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/PleGroupNode.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/PleNode.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/codes/CarBrands.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/contactpoint/Account.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/contactpoint/ContactInfoType.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/contactpoint/ContactPoint.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/contactpoint/ContatInfo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/contactpoint/Country.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/contactpoint/Device.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/contactpoint/Email.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/contactpoint/ISOkod.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/contactpoint/InvoiceSpecifics.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/contactpoint/OrgPreference.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/contactpoint/PersonPreferences.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/contactpoint/PhoneDevice.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/contactpoint/PostalAddress.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/contactpoint/PreferenceSpecifics.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/contactpoint/Preferences.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/contactpoint/QualityAspect.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/contactpoint/Restriction.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/contactpoint/State.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/party/Claim.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/party/InsuranceItem.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/party/InsuranceItemRelation.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/party/InsuredObject.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/party/OrgRelation.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/party/Organisation.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/party/OrganisationRole.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/party/Party.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/party/PartyRelation.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/party/PartyRole.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/party/Person.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/party/PersonRelation.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/party/PersonRole.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/party/Policy.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/party/Saving.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/product/Coverage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/product/LineOfBusiness.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/product/Peril.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/product/Product.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/product/ProductLine.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/rule/AccountingRule.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/rule/AgreementRule.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/rule/ClaimRule.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/rule/CompositeRule.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/rule/Rule.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/parser/ASTChangeItem.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/parser/ASTCoefficienter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/parser/ASTDataDictionary.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/parser/ASTDocumentation.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/parser/ASTLagret.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/parser/ASTLob.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/parser/ASTProduct.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/parser/ASTProductLine.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/parser/ASTRule.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/parser/ASTValue.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/parser/ASTValueString.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/parser/ASTValueble.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/parser/ASTVariable.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/parser/IdentifyableNode.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/parser/JJTPLE_ParserState.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/parser/Node.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/parser/PLE_Parser.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/parser/PLE_ParserConstants.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/parser/PLE_ParserDefaultVisitor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/parser/PLE_ParserTokenManager.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/parser/PLE_ParserTreeConstants.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/parser/PLE_ParserVisitor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/parser/ParseException.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/parser/SemanticException.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/parser/SimpleCharStream.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/parser/SimpleNode.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/parser/Token.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/parser/TokenMgrError.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/parser/helper/LobReference.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/parser/helper/ProductLineReference.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/parser/helper/Reference.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/parser/helper/RuleReference.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/parser/ple_parser.jj" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/parser/ple_parser.jjt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/se/kaskware/q10/ruler/gui/MainGui$4.class" afterPath="$PROJECT_DIR$/target/classes/se/kaskware/q10/ruler/gui/MainGui$4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+    <list default="true" id="ed0f04c8-68f2-4bea-807e-36aff488bc31" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/ruler/gui/MainGui.java" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/ruler/gui/MainGui.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/PleGroupNode.java" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/PleGroupNode.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/PleNode.java" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/PleNode.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/contactpoint/ContactInfoType.java" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/contactpoint/ContactInfoType.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/contactpoint/ContactPoint.java" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/contactpoint/ContactPoint.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/contactpoint/ContatInfo.java" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/contactpoint/ContatInfo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/contactpoint/Country.java" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/contactpoint/Country.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/contactpoint/Device.java" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/contactpoint/Device.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/contactpoint/Email.java" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/contactpoint/Email.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/contactpoint/InvoiceSpecifics.java" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/contactpoint/InvoiceSpecifics.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/contactpoint/OrgPreference.java" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/contactpoint/OrgPreference.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/contactpoint/PersonPreferences.java" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/contactpoint/PersonPreferences.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/contactpoint/PhoneDevice.java" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/contactpoint/PhoneDevice.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/contactpoint/PostalAddress.java" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/contactpoint/PostalAddress.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/contactpoint/PreferenceSpecifics.java" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/contactpoint/PreferenceSpecifics.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/contactpoint/Preferences.java" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/contactpoint/Preferences.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/contactpoint/QualityAspect.java" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/contactpoint/QualityAspect.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/contactpoint/Restriction.java" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/contactpoint/Restriction.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/contactpoint/State.java" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/contactpoint/State.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/party/Claim.java" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/party/Claim.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/party/InsuranceItem.java" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/party/InsuranceItem.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/party/InsuranceItemRelation.java" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/party/InsuranceItemRelation.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/party/InsuredObject.java" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/party/InsuredObject.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/party/OrgRelation.java" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/party/OrgRelation.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/party/Organisation.java" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/party/Organisation.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/party/OrganisationRole.java" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/party/OrganisationRole.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/party/Party.java" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/party/Party.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/party/PartyRelation.java" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/party/PartyRelation.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/party/PartyRole.java" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/party/PartyRole.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/party/Person.java" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/party/Person.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/party/PersonRelation.java" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/party/PersonRelation.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/party/PersonRole.java" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/party/PersonRole.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/party/Policy.java" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/party/Policy.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/party/Saving.java" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/party/Saving.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/parser/SemanticException.java" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/parser/SemanticException.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/parser/ple_parser.jj" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/parser/ple_parser.jj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/parser/ple_parser.jjt" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/parser/ple_parser.jjt" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -1169,12 +1121,20 @@
       <option name="presentableId" value="Default" />
       <updated>1487084784125</updated>
       <workItem from="1487084788044" duration="1646000" />
-      <workItem from="1487183549210" duration="2726000" />
+      <workItem from="1487183549210" duration="2908000" />
     </task>
+    <task id="LOCAL-00001" summary="Added  a number files/classes related to some support classes suh as a Parser. These classes does not represent finished functionallity.">
+      <created>1487186384796</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1487186384796</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4372000" />
+    <option name="totallyTimeSpent" value="4554000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="873" extended-state="6" />
