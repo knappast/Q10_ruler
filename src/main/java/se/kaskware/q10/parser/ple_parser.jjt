@@ -1,0 +1,550 @@
+
+options {
+  MULTI = true;
+  VISITOR = true;
+  NODE_DEFAULT_VOID = true;
+//  NODE_SCOPE_HOOK = true;
+  NODE_USES_PARSER = true;
+  IGNORE_CASE = true;
+  JAVA_UNICODE_ESCAPE = false;
+
+  UNICODE_INPUT = false;
+//  COMMON_TOKEN_ACTION = true;
+  STATIC = false;
+//  DEBUG_PARSER = true;
+//  DEBUG_LOOKAHEAD = true;
+//  DEBUG_TOKEN_MANAGER = true;
+//  FORCE_LA_CHECK = true;
+}
+
+PARSER_BEGIN(PLE_Parser)
+
+package se.kaskware.ruler.parser;
+
+import se.kaskware.ruler.parser.helper.LobReference;
+import se.kaskware.ruler.parser.helper.ProductLineReference;
+import se.kaskware.ruler.parser.helper.RuleReference;
+
+import java.io.*;
+import java.util.List;
+import java.util.Properties;
+
+/** This is the grammar for HPL, written in 'jtt'. */
+public class PLE_Parser {
+
+  public static Properties s_parserProperties;
+
+  private boolean attemptErrorRecovery = false;
+
+  public boolean getAttemptErrorRecovery() {
+    return attemptErrorRecovery;
+  }
+  public void setAttemptErrorRecovery(boolean val) {
+    attemptErrorRecovery = val;
+  }
+
+  private void handleParseError(ParseException e) throws ParseException {
+    System.out.println("========================================================================================");
+    System.out.println("Error at line " + getToken(1).beginLine + ": " + getToken(1).image );
+    System.out.println("Statement not recognised");
+    e.printStackTrace();
+//    error_skiptobefore(EOL);
+  }
+
+  public String dropCitaionMarks(String str) {
+    int start = 0, end = str.length();
+    boolean doIt = false;
+
+    if (str.charAt(0) == '"') { start = 1; doIt = true; }
+    if (str.charAt(end-1) == '"') { end--; doIt = true; }
+    return doIt ? str.substring(start, end): str;  // drop citationmarks if any
+  }
+
+  public String getProperty(String varName) {
+    String propValue = s_parserProperties.getProperty(varName);
+    return System.getProperty(varName, propValue);  // overrides propertiesfile
+  }
+
+  public static void loadProperties(String buildProps, String targetProps) {
+    try {
+      if (s_parserProperties == null) {
+        s_parserProperties = new Properties();
+        s_parserProperties.load(new FileInputStream(buildProps));
+        s_parserProperties.load(new FileInputStream(targetProps));
+      }
+    }
+    catch (IOException e) {
+      System.out.println("No hpl.properties file found. Great chance for none functional genarated files.");
+    }
+  }
+
+  protected boolean checkItemIdentifier(String prefix, String id) {
+    int start = id.indexOf('_');
+    if (start < 0) return false;
+    return prefix.equalsIgnoreCase(id.substring(0, start));
+  }
+
+  public static void main(String args[]) throws ParseException, SemanticException {
+    PLE_Parser parser;
+
+/*    String args[] = {
+      "-spec", m_specFile,
+      "-buildprops", m_targetenv,
+      "-targetprops", m_properties
+    }; */
+
+    if (args.length == 1) {
+      String parseFile = null, buildProps = null, targetProps = null;
+      try {
+        parseFile = args[0];
+//        buildProps  = args[1];
+//        targetProps = args[2];
+
+        System.out.println("PLE_Parser: Reading product specification from file " + parseFile);
+
+//        loadProperties(buildProps, targetProps);
+        parser = new PLE_Parser(new FileInputStream(parseFile));
+      } catch (FileNotFoundException e) {
+        System.out.println("PLE_Parser:  File " + parseFile + " or " + buildProps  + " or " + targetProps + " not found.");
+        return;
+      }
+    }
+    else
+      throw new ParseException("PLE_Parser: Usage is"
+                               + " 'java PLE_Parser <inputfile> -doWsdl <bool> -doService <bool> -doBuild <bool>"
+                               + " -buildProps <propFile> -targetProps <propFile>'");
+
+    try {
+      parser.setAttemptErrorRecovery(true);
+      long start = System.currentTimeMillis();
+      ASTLagret node = parser.lagret();
+      System.out.println("parsing took: " + ((System.currentTimeMillis() - start) / 1000.0 ) + " seconds");
+      start = System.currentTimeMillis();
+      node.resolveReferences();
+      System.out.println("resolvning references took: " + ((System.currentTimeMillis() - start) / 1000.0 ) + " seconds");
+      node.dump("");
+
+      System.out.println("PLE_Parser:  Parsing completed successfully.");
+    } catch (ParseException pe) {
+      System.out.println("PLE_Parser:  Encountered errors during parse.");
+      pe.printStackTrace();
+      throw pe;
+    }
+//    catch (SemanticException se) {
+//      System.out.println("PLE_Parser:  Encountered errors during parse.");
+//      se.printStackTrace();
+//      throw se;
+//    }
+  }
+}
+
+PARSER_END(PLE_Parser)
+
+SKIP : {
+     " "
+  |  "\t"
+  |  "\n"
+  |  "\r"
+  |  <"//" (~["\n","\r"])* ("\n" | "\r" | "\r\n")>
+  |  <"/*" (~["*"])* "*" ("*" | ~["*","/"] (~["*"])* "*")* "/">
+}
+
+
+TOKEN : {
+   <INTEGER_LITERAL: <DECIMAL_LITERAL> (["l","L"])?
+                   | <HEX_LITERAL> (["l","L"])?
+                   | <OCTAL_LITERAL> (["l","L"])?>
+  |  <#DECIMAL_LITERAL: ["1"-"9"] (["0"-"9"])*>
+  |  <#HEX_LITERAL: "0" ["x","X"] (["0"-"9","a"-"f","A"-"F"])+>
+  |  <#OCTAL_LITERAL: "0" (["0"-"7"])*>
+  |  <FLOATING_POINT_LITERAL: (["0"-"9"])+ "." (["0"-"9"])* (<EXPONENT>)? (["f","F","d","D"])?
+                        | "." (["0"-"9"])+ (<EXPONENT>)? (["f","F","d","D"])?
+                        |     (["0"-"9"])+ <EXPONENT> (["f","F","d","D"])?
+                        |     (["0"-"9"])+ (<EXPONENT>)? ["f","F","d","D"]>
+  |  <#EXPONENT: ["e","E"] (["+","-"])? (["0"-"9"])+>
+  |  <CHARACTER_LITERAL: "\'" (~["\'","\\","\n","\r"]
+                       | "\\" (["n","t","b","r","f","\\","\'","\""]
+                       | ["0"-"7"] (["0"-"7"])?
+                       | ["0"-"3"] ["0"-"7"] ["0"-"7"])) "\'">
+  |  <STRING_LITERAL: "\"" (~["\"","\\","\n","\r"]
+                    | "\\" (["n","t","b","r","f","\\","\'","\""]
+                    | ["0"-"7"] (["0"-"7"])?
+                    | ["0"-"3"] ["0"-"7"] ["0"-"7"]))* "\"">
+  | <NUMBER: <INTEGER_LITERAL> | <FLOATING_POINT_LITERAL>>
+}
+
+TOKEN : /* RESERVED WORDS AND LITERALS */
+{
+      < PRODUCT:       "Product" >
+    | < DOCUMENTATION: "Documentation" >
+    | < VERSION:       "Version" >
+    | < SLOGAN:        "Slogan" >
+    | < DESCRIPTION:   "Description" >
+    | < CHANGEITEMS:   "ChangeItems" >
+    | < AUTHOR:        "Author" >
+    | < WHEN:          "When" >
+    | < LOB:           "LOB" >
+    | < PRODLINE:      "Productline" >
+    | < RULE:          "Rule" >
+    | < DATADICTION:   "DataDictionary" >
+    | < COEFFICIENT:   "Coefficient" >
+    | < LAGRET:        "Lagret" >
+}
+
+TOKEN : /* SEPARATORS */
+{
+      < COM: "," >
+    | < GTT: ">>" >
+    | < LB: "[" >
+    | < LC: "{" >
+    | < LP: "(" >
+    | < LT: "<" >
+    | < LTT: "<<" >
+    | < RB: "]" >
+    | < RC: "}" >
+    | < RP: ")" >
+    | < SEM: ";" >
+    | < AT: "@" >
+    | < DOL: "$" >
+    | < DOT: "." >
+    | < UL: "_" >
+}
+
+TOKEN : /* OPERATORS */
+{
+      < AND: "&&" >
+    | < COL: ":" >
+    | < EQ: "=" >
+    | < EQEQ: "==" >
+    | < GEQ: ">=" >
+    | < GT: ">" >
+    | < LEQ: "<=" >
+    | < NEQ: "!=" >
+    | < NOT: "!" >
+    | < MINUS: "-" >
+    | < OR: "||" >
+    | < PLUS: "+" >
+    | < Q: "?" >
+    | < SLASH: "/" >
+    | < STAR: "*" >
+}
+
+TOKEN : {
+     <IDENTIFIER: <LETTER> (<LETTER> | <DIGIT>)*>
+  |  <#LETTER: ["A"-"Z","_","a"-"z"]>
+  |  <#DIGIT: ["0"-"9"]>
+}
+
+/* grammer rules and actions follow */
+  ASTLagret lagret() #Lagret : {
+  }
+  {
+     <LP> <LAGRET>
+       (
+           LOOKAHEAD(2) product()        { jjtThis.register((ASTProduct)jjtree.popNode()); }
+         | LOOKAHEAD(2) lob()            { jjtThis.register((ASTLob)jjtree.popNode()); }
+         | LOOKAHEAD(2) productLine()    { jjtThis.register((ASTProductLine)jjtree.popNode()); }
+         | LOOKAHEAD(2) rule()           { jjtThis.register((ASTRule)jjtree.popNode()); }
+         | LOOKAHEAD(2) dataDictionary()
+         | LOOKAHEAD(2) coefficienter()
+       ) *
+      <RP> <EOF>
+     {
+       return jjtThis;
+     }
+  }
+
+  void lob() #Lob : {
+     ASTDocumentation doc;
+     String lobID;
+  }
+  {
+      <LP> <LOB> lobID = itemIdentifier("lob")
+        doc = documentation()
+      <RP>
+     {
+       jjtThis.setIdentifier(lobID);
+       jjtThis.setDocumentation(doc);
+     }
+  }
+
+  void productLine() #ProductLine : {
+     ASTDocumentation doc;
+     String prodLineID;
+  }
+  {
+      <LP> <PRODLINE> prodLineID = itemIdentifier("prodLine")
+        doc = documentation()
+      <RP>
+     {
+       jjtThis.setIdentifier(prodLineID);
+       jjtThis.setDocumentation(doc);
+     }
+  }
+
+/*
+(#rule rule_id
+  (#if (rule_id) ( list+ )  [ ( list* ) ])
+  (#mandatory (list))
+  (#optional (list))
+  (#documentation text))
+
+(#value value_id key type)
+(#expression expr
+(#list (rule_id | value_id) [, (rule_id | value_id)* ])
+
+(#type (basictype | choice | array))
+(#basictype (string | text | number [ unit ] | dateTime)
+(#choice "enum" "[" string [, string ]* "]")
+(#array "array" "[" basictype [, basictype ]* "]")
+(#unit ("kr" | "euro" | "%" | "år" | string))
+*/
+  void rule() #Rule : {
+     ASTDocumentation doc;
+     String ruleID;
+  }
+  {
+      <LP> <RULE> ruleID = itemIdentifier("rule")
+        doc = documentation()
+      <RP>
+     {
+       jjtThis.setIdentifier(ruleID);
+       jjtThis.setDocumentation(doc);
+     }
+  }
+
+  ASTDataDictionary dataDictionary() #DataDictionary : {
+     ASTDocumentation doc;
+     String ddID;
+  }
+  {
+      <LP> <DATADICTION> ddID = itemIdentifier("dd")
+        doc = documentation()
+      <RP>
+     {
+       jjtThis.setIdentifier(ddID);
+       jjtThis.setDocumentation(doc);
+       return jjtThis;
+     }
+  }
+
+  ASTCoefficienter coefficienter() #Coefficienter : {
+     ASTDocumentation doc;
+     String coffID;
+  }
+  {
+      <LP> <COEFFICIENT> coffID = itemIdentifier("coff")
+        doc = documentation()
+      <RP>
+     {
+       jjtThis.setIdentifier(coffID);
+       jjtThis.setDocumentation(doc);
+       return jjtThis;
+     }
+  }
+
+  /*
+    (PRODUCT product_2323
+      (DOCUMENTATION
+        (VERSION "12" "24")
+        (SLOGAN "bla bla bla")
+        (DESCRIPTION "bla bla bla")
+        (CHANGEITEM (((AUTHOR "Per Leander")(WHEN "20170102 18:18")))))
+      (LOB lob_353)
+      (PRODUCTLINE prodLine_6878)
+      (RULE rule_1231))
+  */
+  void product() #Product : {
+     ASTDocumentation doc;
+     String prodID, lobId, prodLineId, ruleId;
+  }
+  {
+     <LP> <PRODUCT> prodID = itemIdentifier("product")
+        doc = documentation()
+        <LP> <LOB> lobId = itemIdentifier("lob") <RP>
+        <LP> <PRODLINE> prodLineId = itemIdentifier("prodline") <RP>
+        <LP> <RULE> ruleId = itemIdentifier("rule") <RP>
+      <RP>
+     {
+       jjtThis.setIdentifier(prodID);
+       jjtThis.setDocumentation(doc);
+       jjtThis.setReference(new LobReference(lobId));
+       jjtThis.setReference(new ProductLineReference(prodLineId));
+       jjtThis.setReference(new RuleReference(ruleId));
+     }
+  }
+
+/*
+  (DOCUMENTATION
+    (VERSION "12" "24")
+    (SLOGAN "bla bla bla")
+    (DESCRIPTION "bla bla bla")
+    (CHANGEITEMS (((AUTHOR "Per Leander")(WHEN "20170102 18:18")))))
+ */
+  ASTDocumentation documentation() #Documentation : {
+     ASTDocumentation doc;
+     String text;
+  }
+  {
+     <LP> <DOCUMENTATION> version(jjtThis) slogan(jjtThis) description(jjtThis) changeItems(jjtThis) <RP>
+     {
+       return jjtThis;
+     }
+  }
+
+  /* (VERSION "12" "24")  */
+  void version(ASTDocumentation doc) : {
+     int major, minor;
+  }
+  {
+     <LP> <VERSION> major = integer() minor = integer() <RP>
+     {
+        doc.setVersion(major, minor);
+     }
+  }
+
+  /* (SLOGAN "bla bla bla") */
+  void slogan(ASTDocumentation doc) : {
+     String text;
+  }
+  {
+     <LP> <SLOGAN> text = string() <RP>
+     {
+        doc.setSlogan(text);
+     }
+  }
+
+  /* (DESCRIPTION "bla bla bla") */
+  void description(ASTDocumentation doc) : {
+     String text;
+  }
+  {
+     <LP> <DESCRIPTION> text = string() <RP>
+     {
+        doc.setDescription(text);
+     }
+  }
+
+  /* (CHANGEITEM (((AUTHOR "Per Leander")(WHEN "20170102 18:18"))))) */
+  void changeItems(ASTDocumentation doc) : {
+     ASTChangeItem item;
+  }
+  {
+     <LP> <CHANGEITEMS>
+       <LP> ( changeItem() { doc.addChangeItem((ASTChangeItem)jjtree.popNode()); } )* <RP>
+     <RP>
+     {
+     }
+  }
+
+  /* (CHANGEITEM (((AUTHOR "Per Leander")(WHEN "20170102 18:18"))))) */
+  void changeItem() #ChangeItem : {
+     String name, date;
+  }
+  {
+     <LP> <LP> <AUTHOR> name = string() <RP> <LP> <WHEN> date = string() <RP>  <RP>
+     {
+        jjtThis.setChange(name, date);
+     }
+  }
+
+//   ASTValueString description() : {
+//      ASTValueString doc;
+//   }
+//   {
+//      <DESCRIPTION> doc = valueString() { return doc; }
+//   }
+
+   ASTValueble valueble() #Valueble : {
+      ASTValue val;
+      ASTVariable var;
+   }
+   {
+     (  val = value()    { jjtThis.setValue(val); return jjtThis; }
+      | var = variable() { jjtThis.setVariable(var); return jjtThis; }
+     )
+     {
+       return jjtThis;
+     }
+   }
+
+   ASTValue value() #Value : {
+      ASTValueString strValue;
+      int intValue;
+      ASTVariable var;
+   }
+   {
+     (  strValue = valueString() { jjtThis.setValue(strValue); }
+      | intValue = integer()     { jjtThis.setValue(intValue); }
+     )
+     {
+       return jjtThis;
+     }
+   }
+
+   ASTValueString valueString() #ValueString : {
+      String str;
+   }
+   {
+      str = string() { jjtThis.setValue(str); jjtree.popNode(); return jjtThis; }
+   }
+
+   ASTVariable variable() #Variable : {
+      String idName, func, key;
+      ASTValueble val;
+   }
+   {
+     (
+       LOOKAHEAD(2)
+        <DOL> <LC> idName = identifier() <RC>  { jjtThis.setVariable(idName); }
+      | <DOL> func = identifier() <LP> key = string() <COM> val = valueble() <RP>
+        {
+         jjtThis.setFunction(func, key, val);
+        }
+     )
+     {
+       return jjtThis;
+     }
+
+   }
+
+   String itemIdentifier(String prefix)  : {
+      Token id;
+      String idName;
+   }
+   {
+     id = <IDENTIFIER>
+     {
+       idName = id.image;
+       if (! checkItemIdentifier(prefix, idName))
+         throw new Error(String.format("Not a valid item identifier: %s. Should include: %s", idName, prefix));
+       return idName;
+     }
+   }
+
+   String identifier()  : { // do I need a specific class? For checking with a symtable ...
+      Token id, part;
+      String idName;
+   }
+   {
+     id = <IDENTIFIER> { idName = id.image; } ( <DOT> part = <IDENTIFIER> { idName += "." + part.image; } )*
+     {
+        return idName;
+     }
+   }
+
+   String string() : {
+      Token tok; String str;
+   }
+   {
+       tok = <STRING_LITERAL> { str = dropCitaionMarks(tok.image); }
+     ( <PLUS> tok = <STRING_LITERAL> { return str += dropCitaionMarks(tok.image); })*
+     { return str; }
+   }
+
+   int integer() : {
+      Token num;
+   }
+   {
+      num = <INTEGER_LITERAL> { return Integer.parseInt(num.image); }
+   }
