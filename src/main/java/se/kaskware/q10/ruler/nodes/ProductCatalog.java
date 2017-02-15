@@ -14,14 +14,15 @@ public class ProductCatalog extends PleMongoObject {
 
   private ArrayList<SetupBook> m_setupBooks = new ArrayList<>();
 
-  public ProductCatalog(Document doc) {
+  public ProductCatalog(Document doc, SetupBook setupBook) {
     super(doc);
 
-    m_created = getDateFromString("Created");
-    m_updated = getDateFromString("Updated");
+    m_created = getDateFromString("created");
+    m_updated = getDateFromString("updated");
     ArrayList<Document> catalog = (ArrayList<Document>) get("Product Catalog");
     for (Document document : catalog) {
-      m_setupBooks.add(new SetupBook(document));
+      setupBook.loadRules(document);
+      m_setupBooks.add(setupBook);
     }
   }
 
