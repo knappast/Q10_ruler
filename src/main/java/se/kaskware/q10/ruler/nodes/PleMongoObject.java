@@ -1,5 +1,7 @@
 package se.kaskware.q10.ruler.nodes;
 
+import com.mongodb.BasicDBObject;
+import com.mongodb.DBObject;
 import org.bson.Document;
 
 import java.text.ParseException;
@@ -23,6 +25,7 @@ public class PleMongoObject {
   protected String  getString(String key)       { return m_dbo.getString(key); }
   protected Date    getDate(String key)         { return m_dbo.getDate(key); }
   protected int     getInt(String key)          { return m_dbo.getInteger(key); }
+  protected long    getLong(String key)         { return m_dbo.getLong(key); }
   protected double  getDouble(String key)       { return m_dbo.getDouble(key); }
   protected boolean getBoolean(String key)      { return m_dbo.getBoolean(key); }
 
@@ -30,9 +33,9 @@ public class PleMongoObject {
   protected void put(String key, String value)  {  m_dbo.put(key, value); }
   protected void put(String key, Date value)    {  m_dbo.put(key, value); }
   protected void put(String key, int value)     {  m_dbo.put(key, value); }
+  protected void put(String key, long value)    {  m_dbo.put(key, value); }
   protected void put(String key, double value)  {  m_dbo.put(key, value); }
   protected void put(String key, boolean value) {  m_dbo.put(key, value); }
-
 
   protected Date getDateFromString(String dateStr) {
     try {
@@ -45,5 +48,4 @@ public class PleMongoObject {
     }
     return null;
   }
-
 }

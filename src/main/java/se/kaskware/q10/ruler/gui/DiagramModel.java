@@ -2,9 +2,12 @@ package se.kaskware.q10.ruler.gui;
 
 import se.kaskware.gui.PleGroupNode;
 import se.kaskware.gui.PleNode;
+import se.kaskware.q10.ruler.nodes.RuleNode;
 
 import javax.swing.event.TreeModelEvent;
 import javax.swing.event.TreeModelListener;
+import javax.swing.event.TreeSelectionEvent;
+import javax.swing.event.TreeSelectionListener;
 import javax.swing.tree.TreeModel;
 import javax.swing.tree.TreePath;
 import java.util.ArrayList;
@@ -51,7 +54,7 @@ public class DiagramModel implements TreeModel {
 
   @Override
   public void valueForPathChanged(TreePath path, Object newValue) {
-    ViewNode node = (ViewNode) path.getLastPathComponent();
+    PleNode node = (PleNode) path.getLastPathComponent();
     if (node != m_currentNode) {
       System.out.println("Should not happen");
       return;
@@ -80,6 +83,6 @@ public class DiagramModel implements TreeModel {
 
   public void setRuleRoot(ViewNode node) {
     m_ruleRoot = node;
-    m_ruleRoot.computePosition();
+    if (node != null) m_ruleRoot.computePosition();
   }
 }

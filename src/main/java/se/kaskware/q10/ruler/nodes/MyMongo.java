@@ -1,10 +1,15 @@
 package se.kaskware.q10.ruler.nodes;
 
+import com.mongodb.DB;
+import com.mongodb.DBCollection;
 import com.mongodb.MongoClient;
 import com.mongodb.client.MongoCollection;
 import com.mongodb.client.MongoDatabase;
 import com.mongodb.client.MongoIterable;
 import org.bson.Document;
+
+import java.net.UnknownHostException;
+import java.util.Set;
 
 /** Created by User: per on: 2014-04-20 at: 20:51 */
 public class MyMongo {
