@@ -21,17 +21,17 @@ public class ApplicationGui {
         UIManager.setLookAndFeel(UIManager.getSystemLookAndFeelClassName());
       }
       else {
-        UIManager.setLookAndFeel("com.sun.java.swing.plaf.nimbus.NimbusLookAndFeel");
         try {
+          UIManager.setLookAndFeel("com.sun.java.swing.plaf.nimbus.NimbusLookAndFeel");
+        }
+        catch (Exception e) {
+          // If Nimbus is not available, you can set the GUI to another look and feel.
           for (UIManager.LookAndFeelInfo info : UIManager.getInstalledLookAndFeels()) {
             if ("Metal".equals(info.getName())) {
               UIManager.setLookAndFeel(info.getClassName());
               break;
             }
           }
-        }
-        catch (Exception e) {
-          // If Nimbus is not available, you can set the GUI to another look and feel.
         }
       }
     }
@@ -111,7 +111,8 @@ public class ApplicationGui {
 
   }
 
-  protected static void setupAboutPane(JFrame m_mainFrame) {AboutPilsner about = new AboutPilsner(m_mainFrame);
+  protected static void setupAboutPane(JFrame m_mainFrame) {
+    AboutPilsner about = new AboutPilsner(m_mainFrame);
     Rectangle bounds = about.getParent().getBounds();
     Rectangle abounds = about.getBounds();
 
