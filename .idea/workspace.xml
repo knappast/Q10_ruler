@@ -2,23 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed0f04c8-68f2-4bea-807e-36aff488bc31" name="Default" comment="Added  a number files/classes related to some support classes suh as a Parser. These classes does not represent finished functionallity.">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/bakaxel/nodes/SystemNode.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/se/kaskware/gui/ApplicationGui.class" afterPath="$PROJECT_DIR$/target/classes/se/kaskware/gui/ApplicationGui.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/se/kaskware/q10/ruler/gui/MainGui$SettingsPane.class" afterPath="$PROJECT_DIR$/target/classes/se/kaskware/q10/ruler/gui/MainGui$SettingsPane.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/se/kaskware/q10/ruler/nodes/Persister.class" afterPath="$PROJECT_DIR$/target/classes/se/kaskware/q10/ruler/nodes/Persister.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/product/Coverage.java" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/product/Coverage.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/product/LineOfBusiness.java" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/product/LineOfBusiness.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/product/Peril.java" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/product/Peril.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/product/Product.java" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/product/Product.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/product/ProductLine.java" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/product/ProductLine.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/rule/AccountingRule.java" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/rule/AccountingRule.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/rule/AgreementRule.java" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/rule/AgreementRule.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/rule/ClaimRule.java" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/rule/ClaimRule.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/rule/CompositeRule.java" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/rule/CompositeRule.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/rule/Rule.java" afterPath="$PROJECT_DIR$/src/main/java/se/kaskware/q10/navigator/nodes/rule/Rule.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -278,38 +265,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="target" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Q10_ruler" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Q10_ruler" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="target" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="classes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Q10_ruler" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Q10_ruler" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -355,6 +310,48 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="se" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kaskware" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Q10_ruler" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Q10_ruler" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="se" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kaskware" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bakaxel" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -932,7 +929,7 @@
       <workItem from="1487322888170" duration="3797000" />
       <workItem from="1487335921632" duration="2653000" />
       <workItem from="1487602941387" duration="1266000" />
-      <workItem from="1487668551871" duration="18624000" />
+      <workItem from="1487668551871" duration="18914000" />
     </task>
     <task id="LOCAL-00001" summary="Added  a number files/classes related to some support classes suh as a Parser. These classes does not represent finished functionallity.">
       <created>1487186384796</created>
@@ -941,11 +938,18 @@
       <option name="project" value="LOCAL" />
       <updated>1487186384796</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added  a number files/classes related to some support classes such as a Parser. These classes does not represent finished functionallity.">
+      <created>1487752581274</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1487752581274</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32230000" />
+    <option name="totallyTimeSpent" value="32520000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1" y="1" width="1678" height="1048" extended-state="0" />
@@ -1009,7 +1013,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added  a number files/classes related to some support classes suh as a Parser. These classes does not represent finished functionallity." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added  a number files/classes related to some support classes suh as a Parser. These classes does not represent finished functionallity." />
+    <MESSAGE value="Added  a number files/classes related to some support classes such as a Parser. These classes does not represent finished functionallity." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added  a number files/classes related to some support classes such as a Parser. These classes does not represent finished functionallity." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

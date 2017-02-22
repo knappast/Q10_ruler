@@ -1,0 +1,255 @@
+##;Från System;Tillhörande aktivitet (den med mest interaktioner);Till System;Tillhörande aktivitet (huvud);Info som överförs;Övrig kommentar;;System med oklara /saknade kopplingar
+2;S70;Civilförsäkring;Avtalshantering;H40;Provision Sak;Försäljning och Marknadsföring;statistik;;;H20 Djur;betalning
+;;;;;;;;H20 Djur;nyteckn.
+8;L97;Avtalshantering;Avtalshantering;O36;Grupp skadesystem;Ekonomi;produktuppgifter;;;L35 Liv;skadereglering
+9;O01/02;Anlutningsavtal;Avtalshantering;O36;Grupp skadesystem;Ekonomi;;;;
+11;L87;Liv underhåll;Avtalshantering;Q08;Liv skadereglering;Försäkringsfallsrelgering;Försärkingsfall, livsfall;Delvis manuellt moment;;
+14;L00;Liv Generellt;Avtalshantering;Q08;Liv skadereglering;Försäkringsfallsrelgering;;;;
+16;L90;Gruppavtal;Avtalshantering;L25;Liv utskrift;Utskrift;utskrift;;;
+18;L87;Liv underhåll;Avtalshantering;L35;Liv ;Ekonomi;förutbestämda utbetalningar;;;
+25;O01/02;Anlutningsavtal;Avtalshantering;G52;Erbjudande;Försäljning och Marknadsföring;Info om erbjudande;;;
+28;L87;Liv underhåll;Avtalshantering;L89;Aktuarie beräkning;Produkt & Prissättning;anropning i behov av beräkning;;;
+31;S70;Civilförsäkring;Avtalshantering;Y02;Fint;Försäljning och Marknadsföring;Engagemangsuppgifter (gällande kunden och dess avtal och skador);;;
+36;S70;Civilförsäkring;Avtalshantering;O63;Khem / målgrupp;Försäljning och Marknadsföring;Stämma av medlemsregistret;;;
+38;O01/02;Anlutningsavtal;Avtalshantering;O21;MTH Erbjud/ Målgrupp;Försäljning och Marknadsföring;;;;
+46;L97;Avtalshantering;Avtalshantering;L82;Liv Avi / Redovisning;Ekonomi;?;;;
+47;S70;Civilförsäkring;Avtalshantering;Y30;Betaln förys;Ekonomi;betalning;;;
+48;S70;Civilförsäkring;Avtalshantering;Y80;Apios;Utskrift;Utskrift;
+49;O01/02;Anlutningsavtal;Avtalshantering;O24;Gruppavtal;Ekonomi;info om erbjudande;
+53;O01/02;Anlutningsavtal;Avtalshantering;SAP FI;Bokföring;Ekonomi;bokföring;
+54;D77;Transaktionssystem;Avtalshantering;L35;Liv ;Ekonomi;skadetransaktioner;
+55;S70;Civilförsäkring;Avtalshantering;Y05;kundinfo;Försäljning och Marknadsföring;Ny kundinfo, adressändring mm;
+63;L81;Liv utfärda;Avtalshantering;L73;Liv provision;Försäljning och Marknadsföring;provisionsunderlag;
+64;L86;Liv ändra;Avtalshantering;L73;Liv provision;Försäljning och Marknadsföring;provisionsunderlag;
+67;D77;Transaktionsystem;Avtalshantering;O36;Grupp skadesystem;Ekonomi;Skadeinfo;
+69;L00;SLiv Generellt;Avtalshantering;L82;Liv Avi / Redovisning;Ekonomi;avtal;
+73;L81;Liv utfärda;Avtalshantering;L82;Liv Avi / Redovisning;Ekonomi;Betalning;
+74;L81;Liv utfärda;Avtalshantering;E32;SAP CD;Betalning;Ekonomi;Betalning;
+76;L81;Liv utfärda;Avtalshantering;L25;Liv utskrift;Utskrift;utskrift;
+77;L81;Liv utfärda;Avtalshantering;Y80;Apios;Utskrift;utskrift;
+80;L87;Liv underhåll;Avtalshantering;L73;Liv provision;Försäljning och Marknadsföring;provisionsunderlag;
+81;O45/O46;Licensförsäkringar;Avtalshantering;D90;Inbetalningar;Ekonomi;inbetalning;Manuellt moment!
+86;L86;Liv ändra;Avtalshantering;Y05;kundinfo;Försäljning och Marknadsföring;;
+87;L86;Liv ändra;Avtalshantering;L90;Gruppavtal;Avtalshantering;
+88;L86;Liv ändra;Avtalshantering;L89;Aktur beräkn. ;Produkt & Prissättning;
+89;L86;Liv ändra;Avtalshantering;L88;Fondavtal;Kapitalförsäkring;
+90;L86;Liv ändra;Avtalshantering;L82;Liv Avi / Redovisning;Ekonomi;
+91;L86;Liv ändra;Avtalshantering;L25;Liv utskrift;Utskrift;
+92;L86;Liv ändra;Avtalshantering;L00;Liv generellt;Avtalshantering;
+93;L86;Liv ändra;Avtalshantering;D77;Transaktionssystem;Avtalshantering;
+94;O01/02;Anlutningsavtal;Avtalshantering;D21;Tabellhantering;Försäljning och Marknadsföring;
+95;O01/02;Anlutningsavtal;Avtalshantering;Y05;kundinfo;Försäljning och Marknadsföring;
+;S70;Civilförsäkring;Avtalshantering;D21;Tabellhantering;Försäljning och Marknadsföring;
+;S70;Civilförsäkring;Avtalshantering;K60;Försäkringsfall;Försäkringsfallsrelgering;Försäkringsuppgifter
+;L90;Gruppavtal;Avtalshantering;L00;Liv generellt;Avtalshantering;
+;;;;;
+;L00;Liv Generellt;Avtalshantering;L81;Liv utfärda;Avtalshantering;avtal för nyteckning / avtal som ska täcknas hämtas
+;L97;Avtalshantering;Avtalshantering;L81;Liv utfärda;Avtalshantering;avtal
+;L86;Liv ändra;Avtalshantering;L81;Utfärda;Avtalshantering;
+;L81;Liv utfärda;Avtalshantering;L86;Liv ändra;Avtalshantering;
+;L97;Avtalshantering;Avtalshantering;L86;Liv ändra;Avtalshantering;?
+;L00;Liv Generellt;Avtalshantering;L87;Liv underhåll;Avtalshantering;provisionsbevakning
+;L81;Liv utfärda;Avtalshantering;L87;Liv underhåll;Avtalshantering;registera / lagra avtal
+;L90;Gruppavtal;Avtalshantering;L87;Liv underhåll;Avtalshantering;
+;L86;Liv ändra;Avtalshantering;L87;Liv-underhåll;Avtalshantering;
+;L87;Liv underhåll;Avtalshantering;L90;Gruppavtal;Avtalshantering;
+;L97;Avtalshantering;Avtalshantering;L90;Gruppavtal;Avtalshantering;avtalsinfo, parmetrar för grupperna
+;L00;Liv Generellt;Avtalshantering;L97;Avtalshantering;Avtalshantering;provisionsbevakning
+;L81;Liv utfärda;Avtalshantering;L97;Avtalshantering;Avtalshantering;avtal
+;L86;Liv ändra;Avtalshantering;L97;Avtalshantering;Avtalshantering;?
+;L90;Gruppavtal;Avtalshantering;L97;Avtalshantering;Avtalshantering;avtalsinfo, parmetrar för grupperna
+;O45/O46;Licensförsäkringar;Avtalshantering;O01/02;Anslutningsavtal;Avtalshantering;
+;O01/02;Anlutningsavtal;Avtalshantering;O45/O46;Licensförsäkringar;Avtalshantering;beskriver produkten 
+;S70;Civilförsäkring;Avtalshantering;Y05;kundinfo;Försäljning och Marknadsföring;
+4;Y30;Betaln förys;Ekonomi;H40;Provsion sak;Försäljning och Marknadsföring;betalningslogg
+6;O24;Gruppavtal;Ekonomi;Y05;kundinfo;Försäljning och Marknadsföring;
+10;O36;Grupp skadesystem;Ekonomi;V02;Arvoden tf anställda;HR;
+12;E32;SAP;CD;Betalning;Ekonomi;Q08;Liv skadereglering;Försäkringsfallsrelgering;ej utförda betalningar
+15;L35;Liv ;Ekonomi;Y80;Apios;Utskrift;Utskrift
+18;L35;Liv ;Ekonomi;L87;Liv underhåll;Avtalshantering;förutbestämda utbetalningar
+20;L82;Liv avi / Redovisning;Ekonomi;L73;Liv provision;Försäljning och Marknadsföring;provisionsunderlag
+30;O24;Gruppavtal;Ekonomi;Y02;Fint;Försäljning och Marknadsföring;Engagemangsuppgifter (gällande kunden och dess avtal och skador)
+39;D90;Betalningar;Ekonomi;L90;Gruppavtal;Avtalshantering;
+40;E32;SAP;CD;Betalning;Ekonomi;H50;Fordon;Försäkringsfallsrelgering;adressändring
+46;L82;Liv avi / Redovisning;Ekonomi;L97;Avtalshantering;Avtalshantering;?
+51;D90;Betalningar;Ekonomi;O01/02;Anslutningsavtal;Avtalshantering;betalningar
+54;L35;Liv ;Ekonomi;D77;Transaktionssystem;Avtalshantering;skadetransaktioner
+57;L82;Liv Avi / Redovisning;Ekonomi;L89;Aktuarie beräkning;Produkt & Prissättning;?
+58;L82;Liv Avi / Redovisning;Ekonomi;Y80;Apios;Utskrift;utskrift
+59;L82;Liv Avi / Redovisning;Ekonomi;L25;Liv utskrift;Utskrift;utskrift
+60;L82;Liv Avi / Redovisning;Ekonomi;L88;Fondavtal;Kapitalförsäkring;Lagring / registrering av avtal
+61;L82;Liv Avi / Redovisning;Ekonomi;L87;Liv underhåll;Avtalshantering;Lagring / registrering av avtal;
+62;L82;Liv Avi / Redovisning;Ekonomi;L97;Avtalshantering;Avtalshantering;Lagring / registrering av avtal;
+66;E33;MVS SAP;Ekonomi;Y80;Apios;Utskrift;fakturautskrift;
+67;O36;Grupp skadesystem;Ekonomi;D77;Transaktionssystem;Avtalshantering;Skadeinfo;
+79;Y30;Betaln förys;Ekonomi;O24;Gruppavtal;Ekonomi;betaluppdrag / återrapporttering;
+79;O24;Gruppavtal;Ekonomi;Y30;Betaln förys;Ekonomi;betaluppdrag / återrapporttering;
+;E66;Reg. inbetalning;Ekonomi;D90;Inbetalningar;Ekonomi;inbetalning;Manuellt moment!
+;L35;Liv ;Ekonomi;E06;utbetalningar;Ekonomi;Genomföra utbetalningar (betaluppdrag);
+;O36;Grupp skadesystem;Ekonomi;E06;utbetalningar;Ekonomi;betalningsuppdrag;
+;E32;SAP;CD;Betalning;Ekonomi;E33;MVS SAP;Ekonomi;faktura ;
+;D90;Betalningar;Ekonomi;L82;Liv Avi / Redovisning;Ekonomi;Betalningar;
+;E32;SAP;CD;Betalning;Ekonomi;L82;Liv Avi / Redovisning;Ekonomi;Betalningar;
+;Y30;Betaln förys;Ekonomi;L82;Liv Avi / Redovisning;Ekonomi;Återrapport;
+;Y30;Betaln förys;Ekonomi;L82;Liv Avi / Redovisning;Ekonomi;betaluppdrag / återrapporttering;
+;D90;Betalningar;Ekonomi;O24;Gruppavtal;Ekonomi;betalning;
+;E32;SAP;CD;Betalning;Ekonomi;O24;Gruppavtal;Ekonomi;återrapport;
+;L82;Liv Avi / Redovisning;Ekonomi;E32;SAP;CD;Betalning;Ekonomi;premieuppgift;
+;O24;Gruppavtal;Ekonomi;E32;SAP;CD;Betalning;Ekonomi;Autogiro;
+;SAP FI;Bokföring;Ekonomi;E32;SAP;CD;Betalning;Ekonomi;konton och koder;
+;Y25;Betalförmedling;Ekonomi;E32;SAP;CD;Betalning;Ekonomi;Återrapportering från bank;
+;Y30;Betaln förys;Ekonomi;E32;SAP;CD;Betalning;Ekonomi;betaluppdrag (stora volymer samt enkla transaktioner);
+;O36;Grupp skadesystem;Ekonomi;SAP FI;Bokföring;Ekonomi;bokföring;
+;O36;Grupp skadesystem;Ekonomi;Y05;kundinfo;Försäljning och Marknadsföring;Kundengagemang;
+;O24;Gruppavtal;Ekonomi;Y10;Ekon. transaktioner;Ekonomi;;
+;E32;SAP;CD;Betalning;Ekonomi;Y25;Betalförmedling;Ekonomi;Utbetalningar, Autogiro-utdrag, Autogiro-fråga;
+;L82;Liv Avi / Redovisning;Ekonomi;Y30;Betaln förys;Ekonomi;premieuppgift;
+;L82;Liv Avi / Redovisning;Ekonomi;Y30;Betaln förys;Ekonomi;betaluppdrag / återrapporttering;
+;E32;SAP;CD;Betalning;Ekonomi;Y30;Betaln förys;Ekonomi;Återrapportering;
+;Y40;Medgivande;Ekonomi;Y30;Betaln förys;Ekonomi;betaluppdrag / återrapporttering;
+;Postgiro + Bankgiro;Extern;D90;Inbetalningar;Ekonomi;;
+3;H40;Provsion sak;Försäkringsfallsrelgering;M11;Mäklare;Försäljning och Marknadsföring;;
+5;H40;Provsion sak;Försäkringsfallsrelgering;P05;Personalförsys.;HR;;
+11;Q08;Liv skadereglering;Försäkringsfallsrelgering;L87;Liv underhåll;Avtalshantering;utbetalningsbelopp
+12;Q08;Liv skadereglering;Försäkringsfallsrelgering;E32;SAP;CD;Betalning;Ekonomi;utbetalningsuppdrag
+13;Q08;Liv skadereglering;Försäkringsfallsrelgering;Y80;Apios;Utskrift;Utskrift
+41;H50;Fordon;Försäkringsfallsrelgering;SAP FI;Bokföring;Ekonomi;bokföring & Redovisning
+42;H50;Fordon;Försäkringsfallsrelgering;E32;SAP CD;Betalning;Ekonomi;betalning
+43;Q70;Verkstadswebben;Försäkringsfallsrelgering;Y05;kundinfo;;
+65;H50;Fordon;Försäkringsfallsrelgering;H40;Provision Sak;Försäljning och Marknadsföring;provision
+82;H82;Folksam företag;Försäkringsfallsrelgering;Y05;Kundinfo;Försäljning och Marknadsföring;
+83;H82;Folksam företag;Försäkringsfallsrelgering;D21;Tabellhantering;Försäljning och Marknadsföring;
+84;H82;Folksam företag;Försäkringsfallsrelgering;Y80;Apios;Utskrift;
+96;H80;Sv Konsument;Försäkringsfallsrelgering;Y80;Apios;Utskrift;
+97;H84;Tre kronor;Försäkringsfallsrelgering;Y80;Apios;Utskrift;
+;H50;Fordon;Försäkringsfallsrelgering;H20;Djur;Försäkringsfallsrelgering;
+;H50;Fordon;Försäkringsfallsrelgering;H20;Djur;Försäkringsfallsrelgering;
+;K60;Försäkringsfall;Försäkringsfallsrelgering;H50;Fordon;Försäkringsfallsrelgering;skadenummer
+;H50;Fordon;Försäkringsfallsrelgering;K60;Försäkringsfall;Försäkringsfallsrelgering;skadenummer
+;K60;Försäkringsfall;Försäkringsfallsrelgering;S70;Civilförsäkring;Avtalshantering;
+;K60;Försäkringsfall;Försäkringsfallsrelgering;SAP FI;Bokföring;Ekonomi;Utbetalningsuppdrag
+;H50;Fordon;Försäkringsfallsrelgering;Y02;Fint;Försäljning och Marknadsföring;engagemangsuppgift
+;H50;Fordon;Försäkringsfallsrelgering;Y02;Fint;Försäljning och Marknadsföring;Engagemangsuppgifter (gällande kunden och dess avtal och skador)
+;H20;Djur;Försäkringsfallsrelgering;Y05;kundinfo;Försäljning och Marknadsföring;Kundengagemang
+;H50;Fordon;Försäkringsfallsrelgering;Y05;kundinfo;Försäljning och Marknadsföring;engagemangsuppgift
+;H50;Fordon;Försäkringsfallsrelgering;Y05;kundinfo;Försäljning och Marknadsföring;Kundengagemang
+;K60;Försäkringsfall;Försäkringsfallsrelgering;Y05;kundinfo;Försäljning och Marknadsföring;Kundengagemang
+;Q70;Verkstadswebben;Försäkringsfallsrelgering;H50;Fordon;;
+;Q70;Verkstadswebben;Försäkringsfallsrelgering;H80;Sv Konsument;;
+;Q70;Verkstadswebben;Försäkringsfallsrelgering;H82;Folksam Ftg;;
+17;Y50;VTR;Försäkringsfallsrelgering;H50;Fordon;Försäkringsfallsrelgering;
+1;L50/Q50;Statistiksystem;Försäljning och Marknadsföring;L89;Aktur beräkn. ;Produkt & Prissättning;
+6;Y05;Kundinfo;Försäljning och Marknadsföring;O24;Gruppavtal;Ekonomi;kundinfo
+7;Y05;Kundinfo;Försäljning och Marknadsföring;O36;Grupp skadesystem;Ekonomi;Engagemangsuppgift
+;L50/Q50;Statistiksystem;Försäljning och Marknadsföring;M11;Mäklare;Försäljning och Marknadsföring;
+19;L73;Liv Provision;Försäljning och Marknadsföring;P05;personalförsyst.;HR;utbetalningsunderlag
+21;Y05;Kundinfo;Försäljning och Marknadsföring;H20;Djur;Försäkringsfallsrelgering;veckofil? Fråga vidare om detta
+22;Y05;Kundinfo;Försäljning och Marknadsföring;E32;SAP CD;Betalning;Ekonomi;veckofil? Fråga vidare om detta
+;;;;;
+24;O21;MTH Erbjud/Målgrupp;Försäljning och Marknadsföring;G52;Erbjudande;Försäljning och Marknadsföring;målgrupp (kunder)
+26;G52;Erbjudande;Försäljning och Marknadsföring;O24;Gruppavtal;Ekonomi;avtal att teckna
+27;G52;Erbjudande;Försäljning och Marknadsföring;Y80;Apios;Utskrift;erbjudande till kund
+30;Y02;Fint;Försäljning och Marknadsföring;O24;Gruppavtal;Ekonomi;Engagemangsuppgifter (gällande kunden och dess avtal och skador)
+31;Y02;Fint;Försäljning och Marknadsföring;S70;Civilförsäkring;Avtalshantering;Engagemangsuppgifter (gällande kunden och dess avtal och skador)
+32;Y02;Fint;Försäljning och Marknadsföring;L88;Fondavtal;Kapitalförsäkring;Engagemangsuppgifter (gällande kunden och dess avtal och skador)
+33;Y09;Fullmakt;Försäljning och Marknadsföring;L00;Liv generellt;Avtalshantering;
+34;M51;Ombudsweb);Försäljning och Marknadsföring;H40;Provision Sak;Försäljning och Marknadsföring;bonuspoäng
+36;O63;Khem/Målgrupp;Försäljning och Marknadsföring;S70;Civilförsäkring;Avtalshantering;stämma av medlemsregistret
+37;O21;MTH Erbjud/Målgrupp;Försäljning och Marknadsföring;O24;Gruppavtal;Ekonomi;erbjudanden för vissa avtal att annullera
+45;Y05;kundinfo;Försäljning och Marknadsföring;L00;Liv generellt;Avtalshantering;
+52;Y05;kundinfo;Försäljning och Marknadsföring;O01/02;Anslutningsavtal;Avtalshantering;
+56;Y05;kundinfo;Försäljning och Marknadsföring;L82;Liv Avi / Redovisning;Ekonomi;
+68;L85;Liv Offert;Försäljning och Marknadsföring;L89;Aktuarie beräkning;Produkt & Prissättning;anropning i behov av beräkning
+71;D21;Tabellhantering;Försäljning och Marknadsföring;O24;Gruppavtal;Ekonomi;Bla permiefaktorer
+72;Y05;kundinfo;Försäljning och Marknadsföring;L81;Liv utfärda;Avtalshantering;kundinfo
+78;Y05;kundinfo;Försäljning och Marknadsföring;Y30;Betaln förys;Ekonomi;
+85;G50;Kampanj;Försäljning och Marknadsföring;D90;Inbetalningar;Ekonomi;
+98;L85;Liv Offert;Försäljning och Marknadsföring;L81;Utfärda;Avtalshantering;
+99;L50/Q50;Statistiksystem;Försäljning och Marknadsföring;L82;Liv Avi / Redovisning;Ekonomi;
+;Cognos;Försäljning och Marknadsföring;[Rapporter];Externt;
+;DW DB2;Datastage;Försäljning och Marknadsföring;Cognos;Försäljning och Marknadsföring;
+;M51;Ombudsweb);Försäljning och Marknadsföring;Cognos;Försäljning och Marknadsföring;Statistik
+;G50;Kampanj;Försäljning och Marknadsföring;D21;Tabellhantering;Försäljning och Marknadsföring;
+;G71;Ensamble;Försäljning och Marknadsföring;Dailer;Försäljning och Marknadsföring;
+;G73;Epiphany;Försäljning och Marknadsföring;Dailer;Försäljning och Marknadsföring;
+;G74;Aprimo;Försäljning och Marknadsföring;Dailer;Försäljning och Marknadsföring;
+;G71;Ensamble;Försäljning och Marknadsföring;DW DB2;Datastage;Försäljning och Marknadsföring;
+;G72;Smartpath;Försäljning och Marknadsföring;DW DB2;Datastage;Försäljning och Marknadsföring;
+;G73;Epiphany;Försäljning och Marknadsföring;DW DB2;Datastage;Försäljning och Marknadsföring;
+;G74;Aprimo;Försäljning och Marknadsföring;DW DB2;Datastage;Försäljning och Marknadsföring;
+;G52;Erbjudande;Försäljning och Marknadsföring;G50;Kampanj;Försäljning och Marknadsföring;målgrupp  
+;G52;Erbjudande;Försäljning och Marknadsföring;G50;Kampanj;Försäljning och Marknadsföring;Skickar över målgrupp
+;G73;Epiphany;Försäljning och Marknadsföring;G50;Kampanj;Försäljning och Marknadsföring;
+;G74;Aprimo;Försäljning och Marknadsföring;G50;Kampanj;Försäljning och Marknadsföring;
+;Y05;Kundinfo;Försäljning och Marknadsföring;G50;Kampanj;Försäljning och Marknadsföring;kampanjuppgift
+;G50;Kampanj;Försäljning och Marknadsföring;G52;Erbjudande;Försäljning och Marknadsföring;Hämtar kampanjer
+;Dailer;Försäljning och Marknadsföring;G71;Ensamble;Försäljning och Marknadsföring;
+;DW DB2;Datastage;Försäljning och Marknadsföring;G71;Ensamble;Försäljning och Marknadsföring;
+;G72;Smartpath;Försäljning och Marknadsföring;G71;Ensamble;Försäljning och Marknadsföring;
+;G71;Ensamble;Försäljning och Marknadsföring;G72;Smartpath;Försäljning och Marknadsföring;
+;Dailer;Försäljning och Marknadsföring;G73;Epiphany;Försäljning och Marknadsföring;
+;DW DB2;Datastage;Försäljning och Marknadsföring;G73 Epiphany;Försäljning och Marknadsföring;
+;G74;Aprimo;Försäljning och Marknadsföring;G73 Epiphany;Försäljning och Marknadsföring;
+;Solidus;Försäljning och Marknadsföring;G73 Epiphany;Försäljning och Marknadsföring;;
+;Dailer;Försäljning och Marknadsföring;G74 Aprimo;Försäljning och Marknadsföring;;
+;DW DB2;Datastage;Försäljning och Marknadsföring;G74 Aprimo;Försäljning och Marknadsföring;;
+;G73;Epiphany;Försäljning och Marknadsföring;G74 Aprimo;Försäkringsfallsrelgering;;
+;Y02;Fint;Försäljning och Marknadsföring;H50;Fordon;Försäkringsfallsrelgering;engagemangsuppgift;
+;Y05;kundinfo;Försäljning och Marknadsföring;H50;Fordon;Försäkringsfallsrelgering;engagemangsuppgift;
+;Y02;Fint;Försäljning och Marknadsföring;H50;Fordon;Försäkringsfallsrelgering;Engagemangsuppgifter (gällande kunden och dess avtal och skador);
+;Y05;Kundinfo;Försäljning och Marknadsföring;K60;Försäkringsfall;Försäkringsfallsrelgering;kunduppgifter;
+;G80;Holger;Försäljning och Marknadsföring;M51;Ombudsweb);Försäljning och Marknadsföring;Försäljningsinfo;
+;Y05;Kundinfo;Försäljning och Marknadsföring;S70;Civilförsäkring;Avtalshantering;Ny kundinfo, adressändring mm;
+;G73;Epiphany;Försäljning och Marknadsföring;Solidus;Försäljning och Marknadsföring;;Osäkert samband
+;Y05;kundinfo;Försäljning och Marknadsföring;Y02;Fint;Försäljning och Marknadsföring;Engagemangsuppgifter (gällande kunden och dess avtal och skador);
+;G50;Kampanj;Försäljning och Marknadsföring;Y05;kundinfo;Försäljning och Marknadsföring;kampanjuppgift;
+;Y02;Fint;Försäljning och Marknadsföring;Y05;kundinfo;Försäljning och Marknadsföring;Engagemangsuppgifter (gällande kunden och dess avtal och skador);
+;Y05;kundinfo;Försäljning och Marknadsföring;Y09;Fullmakt;Försäljning och Marknadsföring;;
+44;L50/Q50;Statistiksystem;Försäljning och Marknadsföring;L00;Liv generellt;Avtalshantering;;
+50;L50/Q50;Statistiksystem;Försäljning och Marknadsföring;L90;Gruppavtal;Avtalshantering;
+75;L50/Q50;Statistiksystem;Försäljning och Marknadsföring;L97;Avtalshantering;Avtalshantering;
+;G51;Enkätsvar;Försäljning och Marknadsföring;G50;Kampanj;Försäljning och Marknadsföring;
+;G50;Kampanj;Försäljning och Marknadsföring;G51;Enkätsvar;Försäljning och Marknadsföring;
+;G51;Enkätsvar;Försäljning och Marknadsföring;D21;Tabellhantering;Försäljning och Marknadsföring;
+;G51;Enkätsvar;Försäljning och Marknadsföring;Y05;kundinfo;;
+;G11;Försäljningsstatistik;Försäljning och Marknadsföring;Cognos;Försäljning och Marknadsföring;Statistik
+;D70/D73;Adressändring mm;Försäljning och Marknadsföring;Y05;kundinfo;Försäljning och Marknadsföring;
+;Y05;kundinfo;Försäljning och Marknadsföring;D70/D73;Adressändring mm;Försäljning och Marknadsföring;
+35;Q00;tabeller;IT;M51;Ombudsweb);Försäljning och Marknadsföring;oklart?
+29;L88;Fondavtal;Kapitalförsäkring;L89;Aktuarie beräkning;Produkt & Prissättning;anropning i behov av beräkning
+32;L88;Fondavtal;Kapitalförsäkring;Y02;Fint;Försäljning och Marknadsföring;Engagemangsuppgifter (gällande kunden och dess avtal och skador)
+28;L89;Aktuarie beräkning;Produkt & Prissättning;L87;Liv underhåll;Avtalshantering;paramterar (kostnader, värden..)
+29;L89;Aktuarie beräkning;Produkt & Prissättning;L88;Fondavtal;Kapitalförsäkring;paramterar (kostnader, värden..)
+68;L89;Aktuarie beräkning;Produkt & Prissättning;L85;Liv Offert;Försäljning och Marknadsföring;paramterar (kostnader, värden..)
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;

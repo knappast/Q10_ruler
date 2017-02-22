@@ -1,0 +1,279 @@
+AKTUARIERNA-SYS (Dummy);SYSTEM;;
+ANTICIMEX-SYS (Dummy);SYSTEM;;
+A15-SYS ;SYSTEM;VIP-Notes Projektstyrning;TEST
+A30-SYS ;SYSTEM;VD-stab, forskning - div program;PROD
+BANKGIRO-SYS (Dummy);SYSTEM;;
+BASUN-SYS (Dummy);SYSTEM;;
+BG-SYS (Dummy);SYSTEM;;
+BGC-SYS (Dummy);SYSTEM;;
+B16-SYS ;SYSTEM;Inspektionsuppgifter Bilskador;PROD
+B40-SYS ;SYSTEM;Adm. system för bilförsäkring;TEST
+B47-EUR (Dummy);SYSTEM;;
+B49-EUR (Dummy);SYSTEM;;
+CALLCENT-SYS (Dummy);SYSTEM;;
+CBR-SYS (Dummy);SYSTEM;;
+C01-SYS ;SYSTEM;Beståndsinformation - bilförsäkring;TEST
+C02-SYS ;SYSTEM;Beståndsinformation - övrig sak;TEST
+C03-SYS ;SYSTEM;Skadeinformation - sakförsäkring;TEST
+C04-SYS ;SYSTEM;Riskstatistik - Födas;TEST
+C10-SYS ;SYSTEM;FOKUS;TEST
+C30-SYS ;SYSTEM;Beståndsstatistik, sammanställning för PC-bearbetning;PROD
+DAFA-SYS (Dummy);SYSTEM;;
+D01-SYS ;SYSTEM;360 Operating system;PROD
+D02-SYS ;SYSTEM;Arbeten rörande programmeringsteknik;PROD
+D03-SYS ;SYSTEM;CICS;TEST
+D05-SYS ;SYSTEM;Bandarkivrutin och planeringsrutin;PROD
+D06-SYS ;SYSTEM;Produktionsbatch;PROD
+D09-SYS ;SYSTEM;Memo;TEST
+D11-SYS ;SYSTEM;Maskinavdelningen, 360-program;PROD
+D12-SYS ;SYSTEM;RACF;TEST
+D14-SYS ;SYSTEM;Tömning och spridning av inkodartransaktioner;TEST
+D21-SYS ;SYSTEM;Tabellhantering av postnr/LKF/FK-adresser;TEST
+D22-SYS ;SYSTEM;LDAP-SERVER Z/OS;PROD
+D23-SYS ;SYSTEM;MICS;TEST
+D24-SYS ;SYSTEM;Intern debitering;TEST
+D25-SYS ;SYSTEM;MQ series for OS/390;PROD
+D26-SYS ;SYSTEM;Db2-test;PROD
+D27-SYS ;SYSTEM;Utgångna program och macros;PROD
+D28-SYS ;SYSTEM;TSO;PROD
+D30-SYS ;SYSTEM;TP-statistik;PROD
+D31-SYS ;SYSTEM;CICS valmenyer, totalt försäkringsinnehav;PROD
+D34-SYS ;SYSTEM;Trycksakssystem;PROD
+D37-SYS ;SYSTEM;DB2 - kringprodukter;PROD
+D38-SYS ;SYSTEM;T/M id-system;TEST
+D39-SYS (Dummy);SYSTEM;;
+D42-SYS ;SYSTEM;;TEST
+D44-SYS ;SYSTEM;CICS - Kringprodukter;PROD
+D46-SYS ;SYSTEM;APPLIKATIONSPROGRAM TM VERSION 2;TEST
+D50-SYS ;SYSTEM;Gentran:Server;TEST
+D51-SYS ;SYSTEM;Endevor, versionshantering;PROD
+D52-SYS ;SYSTEM;Ny debiteringsrutin;PROD
+D53-SYS ;SYSTEM;Ny debiteringsrutin;PROD
+D54-SYS ;SYSTEM;Repository;PROD
+D59-SYS ;SYSTEM;SUPRA V2.7;PROD
+D63-SYS ;SYSTEM;PÄR - Problem- och ärendehantering;PROD
+D68-SYS ;SYSTEM;Tivoli, System management;PROD
+D69-SYS ;SYSTEM;IVORY-LYSSNAREN (IVAS/IVRV) FÖR TJÄNSTER UTVECKLADE MHA IVORY.;PROD
+D70-SYS ;SYSTEM;Adressrutin;TEST
+D71-SYS ;SYSTEM;Endevor versionshantering;PROD
+D73-SYS ;SYSTEM;Infotorg fakturering;TEST
+D75-SYS ;SYSTEM;Applikationsprogram CICS;TEST
+D76-SYS ;SYSTEM;Task/Master;TEST
+D77-SYS ;SYSTEM;Tömning och spridning av TP-transar;TEST
+D79-SYS ;SYSTEM;Övriga program ej placerade under systemidentitet;TEST
+D80-SYS ;SYSTEM;Maskinell framställning av dokumentation;PROD
+D81-SYS ;SYSTEM;Face-arkitekturen - generella moduler, FEPI;TEST
+D82-SYS ;SYSTEM;Face Hubarkitektur för AIX;PROD
+D84-SYS ;SYSTEM;WebService-plattform;PROD
+D89-SYS ;SYSTEM;Generella applik för produktionsplattformar;PROD
+D90-SYS ;SYSTEM;Inbetalningar;TEST
+D91-SYS ;SYSTEM;Autogiro;TEST
+D92-SYS ;SYSTEM;AUTOGIRO, BETALKONTO, TP-SYSTEM;TEST
+D98-SYS ;SYSTEM;Samvirke;PROD
+D99-SYS ;SYSTEM;Maskinavdelningen systemslask;PROD
+EDI-SYS (Dummy);SYSTEM;;
+E06-SYS ;SYSTEM;Utbetalningar;TEST
+E08-SYS ;SYSTEM;Bokföringsprogram SICS till R/3;TEST
+E10-SYS ;SYSTEM;Avgiven affär;TEST
+E15-SYS ;SYSTEM;Kontoplaner m.m;TEST
+E21-SYS ;SYSTEM;Kapitalförvaltnings trattsystem;PROD
+E31-SYS ;SYSTEM;ITIM IT:s system för hantering av tjänster, servkomp. & kalk. av IT's verksamhet;PROD
+E33-SYS ;SYSTEM;Gränssnittssystem mellan MVS och UNIX (R/3);TEST
+E43-SYS ;SYSTEM;SAP RI ÅTERFÖRSÄKRING;PROD
+E45-SYS ;SYSTEM;BESTÄLLNING VID PERSONALFÖRÄNDRING;PROD
+E66-SYS ;SYSTEM;Ekonomisystem;TEST
+E70-SYS ;SYSTEM;Ekonomisystem Sparliv;PROD
+E99-SYS ;SYSTEM;CONTROLLERENHETEN STATISTIK. E99 AVSER ENDAST FILER SOM LEVERERAS, INGA PROGRAM FINNS.;TEST
+FOL-SYS (Dummy);SYSTEM;;
+FOLKSAM-SYS (Dummy);SYSTEM;;
+FOLKSAMINKASSO-SYS (Dummy);SYSTEM;;
+FS-SYS (Dummy);SYSTEM;;
+FSB-SYS (Dummy);SYSTEM;;
+FSBSIS-SYS (Dummy);SYSTEM;;
+F02-SYS ;SYSTEM;Allm. begravningsfonden;PROD
+G01-SYS ;SYSTEM;FAKTA-försäljning;TEST
+G11-SYS ;SYSTEM;Nytt system för FAKTA försäljning (ersätter G01);PROD
+G50-SYS ;SYSTEM;Kampanjsystemet;TEST
+G51-SYS ;SYSTEM;Enkät-system (Skadeenkäter, utskick+statistik);PROD
+G52-SYS ;SYSTEM;ERBJUDANDE OCH SVARSHANTERINGSSYSTEM;PROD
+G60-SYS ;SYSTEM;STOR-FOKUS , Marknadsdatasystem;TEST
+G70-SYS ;SYSTEM;CRM-SYSTEM, DATABAS;PROD
+G71-SYS ;SYSTEM;Kampanjverktyget Ensamble från DoubleClick;PROD
+G72-SYS ;SYSTEM;Kampanjplaneringsverktyget SmartPath;PROD
+G80-SYS ;SYSTEM;Holger, säljuppföljningssystem;PROD
+G99-SYS ;SYSTEM;Sas och Cobol II, testprogram;PROD
+H10-SYS ;SYSTEM;Kontrolluppgifter räntor (inkomst- och utgiftsräntor);TEST
+H20-SYS ;SYSTEM;WinSure (CU-Försäkringar AB);TEST
+H30-SYS ;SYSTEM;Avisering - SAK;TEST
+H39-SYS ;SYSTEM;Avisering Skadekonto;TEST
+H40-SYS ;SYSTEM;Provisionsbevakningssystemet.;TEST
+H50-SYS ;SYSTEM;Sakförsäkringssystem;TEST
+H60-SYS ;SYSTEM;WinFodak - Gateway;TEST
+H70-SYS ;SYSTEM;Försäljningsstatistik - System;PROD
+H80-SYS ;SYSTEM;SAK400;PROD
+H82-SYS ;SYSTEM;FÖRETAGSFÖRSÄKRING FOLKSAM;PROD
+H84-SYS ;SYSTEM;SAK PARTNERFÖRSÄKRING FOLKSAM;PROD
+I21-SYS ;SYSTEM;;TEST
+I63-SYS ;SYSTEM;IAM Effektiv behörighetsadministration;PROD
+I84-SYS ;SYSTEM;CONTAINER FÖR JSP-SIDOR OCH SERVLETS PÅ FOLKSAM.SE;TEST
+J01-SYS ;SYSTEM;Utdatas system;TEST
+J02-SYS ;SYSTEM;Central utskrift från ASF;TEST
+J03-SYS ;SYSTEM;Styrtecken för konvertering;TEST
+J04-SYS ;SYSTEM;DM - aktiviteter MOU;PROD
+J05-SYS ;SYSTEM;Debiteringssystem för print och kuvertering;TEST
+J10-SYS ;SYSTEM;Digitala Arkivet;TEST
+J15-SYS ;SYSTEM;Grafisk beställningsportal;TEST
+J50-SYS ;SYSTEM;Utskriftsredigering - AUTOGRAPH för projekt APIOS;PROD
+J90-SYS ;SYSTEM;Körningar för KPA genom APIOS;PROD
+K01-SYS ;SYSTEM;Anläggningsregister;PROD
+K60-SYS ;SYSTEM;Skadesystem SAK;TEST
+K70-SYS ;SYSTEM;Skadekonto;TEST
+K80-SYS ;SYSTEM;WinBygg2000;TEST
+LF-SYS (Dummy);SYSTEM;;
+L00-SYS ;SYSTEM;Gemensamma livfunktioner;TEST
+L13-SYS ;SYSTEM;Saklivräntor;TEST
+L25-SYS ;SYSTEM;Utskriftssystem, Gemensamma funktioner;TEST
+L25-00 (Dummy);SYSTEM;;
+L33-SYS ;SYSTEM;Riskbedömning;TEST
+L34-SYS ;SYSTEM;Personaktuariell registerhantering;TEST
+L35-SYS ;SYSTEM;Utbetalningssystemet;TEST
+L36-SYS ;SYSTEM;Personnummer som förs.nr;TEST
+L40-SYS ;SYSTEM;Personaktuariell registervård;TEST
+L42-SYS ;SYSTEM;Personaktuariell fondstatistik;TEST
+L50-SYS ;SYSTEM;Gemensamma funktioner;TEST
+L60-SYS ;SYSTEM;Pensionsbolaget;TEST
+L66-SYS ;SYSTEM;System för andelsreskontra;TEST
+L67-SYS ;SYSTEM;Systemid L67 för systemet ADN fond.;PROD
+L68-SYS ;SYSTEM;Folksam Fondkontor (ADNFond);PROD
+L69-SYS ;SYSTEM;Folksam Spars Fondkontor;PROD
+L70-SYS ;SYSTEM;KPA fondkontor (ADNFond);PROD
+L73-SYS ;SYSTEM;Provision (LIV);TEST
+L80-SYS ;SYSTEM;CREG;TEST
+L81-SYS ;SYSTEM;L81 (Nyteckning), L86 (Ändring) Uppgifterna avser både L81 och L86.;TEST
+L82-SYS ;SYSTEM;Avisering och redovisning liv;TEST
+L85-SYS ;SYSTEM;Livoffert BraLiv på Internet;TEST
+L86-SYS ;SYSTEM;LIV;TEST
+L87-SYS ;SYSTEM;Avtalsunderhåll;TEST
+L88-SYS ;SYSTEM;Fondunika Funktioner;TEST
+L89-SYS ;SYSTEM;Beräkningssystem för Liv;TEST
+L90-SYS ;SYSTEM;kollektivavtalad tjänstepension;TEST
+L91-SYS ;SYSTEM;Pensionsplan;PROD
+L96-SYS ;SYSTEM;Vitals Transaktionshistorik;PROD
+L97-SYS ;SYSTEM;Livspars avtalsdatabas.;PROD
+M11-SYS ;SYSTEM;Provisionssystem för juridiska personer;TEST
+M51-SYS ;SYSTEM;Registrering av ombudsersättning;PROD
+NB-SYS (Dummy);SYSTEM;;
+N10-SYS ;SYSTEM;Födas;PROD
+N15-SYS ;SYSTEM;Premieberäkningssnurra med offertdel för företagsförsäkring;PROD
+N20-SYS ;SYSTEM;Födas - Ansvarsförbindelser;PROD
+N30-SYS ;SYSTEM;Födas Huvudsystem TP;PROD
+N40-SYS ;SYSTEM;Födas - Ansvarsförbindelser BP;PROD
+N50-SYS ;SYSTEM;Födas;PROD
+N60-SYS ;SYSTEM;Födas;TEST
+N70-SYS ;SYSTEM;Födas huvudsystem - BP;PROD
+N80-SYS ;SYSTEM;Vital - företagsförsäkringssystem;TEST
+OMN-SYS (Dummy);SYSTEM;;
+O01-SYS ;SYSTEM;Avtalsregistret;TEST
+O02-SYS ;SYSTEM;Utdata avtalsregister;TEST
+O03-SYS ;SYSTEM;Dokumentarkiv;TEST
+O17-SYS ;SYSTEM;Ers.- och invalidreserv kollektiv sjuk G;TEST
+O18-SYS ;SYSTEM;Ombudsprovisioner;TEST
+O21-SYS ;SYSTEM;Erbjudande system för gruppförsäkringar;TEST
+O22-SYS ;SYSTEM;Kollektiv redovisning;TEST
+O24-SYS ;SYSTEM;Redovisning gruppförsäkring;TEST
+O32-SYS ;SYSTEM;Olycksfallsförsäkring för barn och ungdom;TEST
+O34-SYS ;SYSTEM;Utbet. av skadeersättning för AGS;PROD
+O35-SYS ;SYSTEM;UTBET.SYSTEM FÖR GRUPPLIVSUTBET.;TEST
+O36-SYS ;SYSTEM;KISO (Kollektiv, Individuell, Sjuk och Olycksfallsförskring);TEST
+O37-SYS ;SYSTEM;Reserutin AGS-K;PROD
+O40-SYS ;SYSTEM;Föreningsförsäkringar;TEST
+O41-SYS ;SYSTEM;Fortsättningsförsäkring;TEST
+O45-SYS ;SYSTEM;LISA, REGISTER ÖVER LICENSIERADE IDROTTSUTÖVARE;TEST
+O46-SYS ;SYSTEM;LISA Licenssystemet;TEST
+O60-SYS ;SYSTEM;Khem;PROD
+O63-SYS ;SYSTEM;Förbundsrutiner;TEST
+O66-SYS ;SYSTEM;Hantering av verksamhetsregler i O36;PROD
+O80-SYS ;SYSTEM;Försäkringsrådgivare;PROD
+O83-SYS ;SYSTEM;Informationssystem AMF;PROD
+O84-SYS ;SYSTEM;Skaderutin-AGS;PROD
+O86-SYS ;SYSTEM;Skaderutin-TFA;PROD
+O96-SYS ;SYSTEM;AMF Livräntor;PROD
+O97-SYS ;SYSTEM;AMF-S Premiebefrielse;PROD
+O99-SYS ;SYSTEM;Diverse AMF;PROD
+PÄR-SYS (Dummy);SYSTEM;;
+PG-SYS (Dummy);SYSTEM;;
+POSTGIRO-SYS (Dummy);SYSTEM;;
+P01-SYS ;SYSTEM;Nya lönesystemet;PROD
+P05-SYS ;SYSTEM;Försystem till PA;TEST
+P10-SYS ;SYSTEM;PA-systemet;TEST
+P25-SYS ;SYSTEM;Eftersystem till PA;TEST
+P70-SYS ;SYSTEM;Ombudsbelönings-system;PROD
+P91-SYS ;SYSTEM;E-learning;PROD
+Q00-SYS ;SYSTEM;GEMENSAMMA SYSTEMDELAR INOM IT-A;PROD
+Q08-SYS ;SYSTEM;Personförsäkringsutbetalningssystem;PROD
+Q10-SYS ;SYSTEM;InternetLiv;PROD
+Q50-SYS ;SYSTEM;Gemensamt statistiksystem för Liv/Spar & Grupp;PROD
+Q70 (Dummy);SYSTEM;;
+Q70-SYS ;SYSTEM;Gemensamt skadesystem;PROD
+Q73-SYS ;SYSTEM;Provision Liv/Spar & Grupp;PROD
+Q80-SYS ;SYSTEM;Leverantörswebben (Q80) är en utveckling av tidigare verkstadswebb (Q70) avsedd för våra leverantörer.;PROD
+RSV-SYS (Dummy);SYSTEM;;
+R05-SYS ;SYSTEM;Systeminformation och meddelandesystem;TEST
+R3-SYP (Dummy);SYSTEM;;
+R3-SYS ;SYSTEM;Ekonomisystem;TEST
+R50-SYS ;SYSTEM;Tillverkningsstöds Testprogram;PROD
+R51-SYS ;SYSTEM;Endevor-miljö för administratörer;PROD
+R52-SYS ;SYSTEM;;TEST
+R53-SYS ;SYSTEM;;TEST
+R55-SYS ;SYSTEM;Repositoryts egna program;TEST
+R58-SYS ;SYSTEM;Test Arkitektur;PROD
+R60-SYS ;SYSTEM;Hjälpprogram under Folksam - ISPF;PROD
+R61-SYS ;SYSTEM;Generella program;TEST
+R80-SYS ;SYSTEM;DBA-gruppen hjälpprogram;PROD
+R90-SYS ;SYSTEM;DBA-gruppen testprogram;PROD
+SEMAGROUP-SYS (Dummy);SYSTEM;;
+SICS-SYS (Dummy);SYSTEM;;
+SIS-SYS (Dummy);SYSTEM;;
+SKANDIA-SYS (Dummy);SYSTEM;;
+SOLIDITET-SYS (Dummy);SYSTEM;;
+SPADAB-SYS (Dummy);SYSTEM;;
+SPAR-SYS (Dummy);SYSTEM;;
+SPV-SYS (Dummy);SYSTEM;;
+SSF-SYS (Dummy);SYSTEM;;
+SVERIGE-SYS (Dummy);SYSTEM;;
+S50-SYS ;SYSTEM;Civilförsäkring;TEST
+S70-SYS ;SYSTEM;Civilförsäkring.;PROD
+S71-SYS ;SYSTEM;Subsystem till S70 innehållande Motor;PROD
+S72-SYS ;SYSTEM;Civilförsäkring - statistik;PROD
+TELIA-SYS (Dummy);SYSTEM;;
+TFF-SYS (Dummy);SYSTEM;;
+TMS2000-SYS (Dummy);SYSTEM;;
+V01-SYS ;SYSTEM;Personalsystem - månadsbearbetning;PROD
+V02-SYS ;SYSTEM;Uppdragstagare;TEST
+V03-SYS ;SYSTEM;Personalsystem uppdat. budget;PROD
+V20-SYS ;SYSTEM;Reseräkn system;PROD
+V30-SYS ;SYSTEM;Kursadministration;PROD
+V40-SYS ;SYSTEM;Personal brevsystem (en kopia av ASF);TEST
+WINCABAS-SYS (Dummy);SYSTEM;;
+Y02-SYS ;SYSTEM;FINT,KUNDENS HEMSIDA,KUNDENS ENGAGEMANG VIA INTERNET;PROD
+Y03-SYS ;SYSTEM;ADMINISTRATION AV FINT (Y02);PROD
+Y04-SYS ;SYSTEM;Levererar info till externa Partners;PROD
+Y05-SYS ;SYSTEM;Kundinformationssystemet;TEST
+Y08-SYS ;SYSTEM;Utgivning och administration av lösenord för Internet;PROD
+Y09-SYS ;SYSTEM;Mäklarfullmakter;PROD
+Y10-SYS ;SYSTEM;Ekonomisk transaktion;TEST
+Y12-SYS ;SYSTEM;Gemensam skattemodul;TEST
+Y14-SYS ;SYSTEM;Applikation för premieberäkning (Windows & Pocket PC);PROD
+Y22-SYS ;SYSTEM;Tabellhantering för landskoder;TEST
+Y30-SYS ;SYSTEM;Betalningshanterare;PROD
+Y40-SYS ;SYSTEM;Folksamgenerellt medgivandehanteringssystem;PROD
+Y45-SYS ;SYSTEM;Partnersamarbete Bolån;PROD
+Y50-SYS ;SYSTEM;SYST FÖR OPTIMERING AV TRAFIK T O R FRÅN CBR(VÄGV.);PROD
+Y60-SYS ;SYSTEM;Folksams lokala gemensamma skadeanmälningsregister;PROD
+Y70-SYS ;SYSTEM;Gemensamt datalager.;PROD
+Y80-SYS ;SYSTEM;Generell utskrift;TEST
+Y90-SYS ;SYSTEM;Sambandsobjekt (= Beskriver hur två olika eller två av samma typ av verksamhetsobjekt förhåller sig till varandra.);PROD
+Z01-SYS ;SYSTEM;IC-System;TEST
+Z03-SYS ;SYSTEM;ASF;TEST
+Z04-SYS ;SYSTEM;Behörighetsystem;PROD
+Z11-SYS ;SYSTEM;Hjälpprogram under Folksam - ISPF(IC-Miljön);TEST

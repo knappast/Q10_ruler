@@ -1,0 +1,884 @@
+System;Beskrivning;Ansvarig IT;Ansvarig VH;URL
+A0001;Projektdatabas VIP;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/f8f69f5a664614e7c1257be800160c79?OpenDocument
+A0002;Dokumentmallen;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/a15d71cb3053dfaac1257be800160cb1?OpenDocument
+A0003;Diskussionsforum;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/cf05589d13c0a1d3c1257be800160cf1?OpenDocument
+A0003_2;Användarkonfigurering;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/d23a052935b57704c1257be800160d0c?OpenDocument
+A0005;Projektdatabas v 1.0 VIP;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/6adbc5780998680ac1257be800160d26?OpenDocument
+A0006;Db Drift;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/ee8424174d8a1c75c1257be800160d2b?OpenDocument
+A0007;Standardmall för Idélåda/Uppdragskatalog;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/2d7da9cbfa471387c1257be800160d33?OpenDocument
+A0008;Div blanketter;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/edba6ccb069bbd3bc1257be800160d3a?OpenDocument
+A0012;Planeringsdatabas - Vårt jobb;Ulf Svensson/FOL/SE;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/8f22b08f06259d25c1257be800160d6c?OpenDocument
+A0013;Vända Pengar;Susanne Källén;Susan Krüger;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/423813b2dcf099d0c125784d0029380a?OpenDocument
+A0016;Temporär Adressbok;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/e65741a2fdc58cccc1257be800160dd5?OpenDocument
+A0017;Change HTTP password;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/4280d549c73dbd51c1257be800160dd8?OpenDocument
+A0018;Förtäring;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/397698a25df15fe1c125784d002937c0?OpenDocument
+A0019;Behörighet och lösenordsbeställning;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/c33b5165e8b83626c1257bf60015fd79?OpenDocument
+A0019_01;Behörighet och lösenordsbeställning Konfigurering;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/01a07d72cd84991bc1257bf60015fe9a?OpenDocument
+A0028;Kundsupport;Pia Johnsson/Konsult/FOL/SE;Tomas Remmelg;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/9b49faa7c789636ec125784d002937b1?OpenDocument
+A0029;Batch larm;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/5bfb3e747dc53df9c1257be800160e05?OpenDocument
+A0031;Förvaltning Kundhandlingar;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/d44a9d4fc82d1239c1257be800160e1d?OpenDocument
+A0046;Ärendelogg - Affärsstöd;Ulf Svensson;Cecilia Brick;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/647d0edbdc5fd001c125784d0029385e?OpenDocument
+A0053;Boden;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/7b33febfb750e31fc125784d002937b2?OpenDocument
+A0065;Serviceanmälan;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/67122907af68c3a0c125784d002937c1?OpenDocument
+A0066;Nyckelregistret Intern Service;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/843f1b7b6144f073c125784d002937c2?OpenDocument
+A0067;Produktansvariga;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/da6d0c97079349edc1257be80016107b?OpenDocument
+A0068;ServerTeknik;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/98b48fd22e655ccbc1257be800161086?OpenDocument
+A0069;Avtalsregister;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/f8264d2656e0dda3c125784d00293886?OpenDocument
+A0071;Termkatalog H50;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/d4961a1142d8c812c125784d0029382a?OpenDocument
+A0074_2;Verksamhetstelefoni;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/e1f471a1c660adcbc1257bf60015ff28?OpenDocument
+A0075;Fritid;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/024033460b3ec83dc125784d002937ec?OpenDocument
+A0090;H80;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/e349de7dd5470496c125784d00293798?OpenDocument
+A0094;Nyheter;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/41f628cc3238fef6c125784d00293800?OpenDocument
+A0095;Idélådan;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/18da0a67250b1bf8c1257be800161121?OpenDocument
+A0098;Mindre Notes;;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/0754a2dbc6d6c90dc1257be800161130?OpenDocument
+A0102;Kundstrategi;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/3eca1217cc776b17c125784d002937b3?OpenDocument
+A0104;Bil-97.2 & FACE Projektet;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/8fc4491324b06ca8c1257be80016117e?OpenDocument
+A0105;Bil-97.2 & FACE Rättn & Ändring;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/7a3ee4ce2175093cc1257be800161194?OpenDocument
+A0158;Erfarenhetsdatabas;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/a20b941a53a084f6c125784d00293860?OpenDocument
+A0167;Utfärda Liv;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/489763041ea10a5ac125797b003456d9?OpenDocument
+A0169;DBA Info;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/25812cd0ac3c6327c1257be8001612a5?OpenDocument
+A0179;Masterdata;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/0d4738f5466d7b40c1257be8001612b5?OpenDocument
+A0182;G50 Dokumentdatabas;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/46b0ce64973e2d90c125796e0030130b?OpenDocument
+A0183;Driftregler/Rutiner IT;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/8f9685f088bfdcdbc1257c20001b8ae6?OpenDocument
+A0187;Felrapporter Utvecklingsmiljön;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/68e712f2862e8005c1257be800161309?OpenDocument
+A0198;IT-ledning;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/be6c5c6d08383165c1257be800161320?OpenDocument
+A0202;Kosmos;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/fa30c15bf10b84d5c125784d00293842?OpenDocument
+A0216;Målstyrd KUT;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/f1b0e280654789bcc1257be80016138c?OpenDocument
+A0219;Windows Drift;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/b7664c039a9985a6c1257be8001613e0?OpenDocument
+A0227;Brevbäraren;;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/de2eb6c5e5754920c1257be800161407?OpenDocument
+A0229;PS-processen;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/6982a5bcd8c9e3d0c1257be80016141a?OpenDocument
+A0236;SAP Projekt;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/f958d33efa62adbdc125784d002937e1?OpenDocument
+A0238;SAP Lådan;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/c47178c4afc3d254c125784d002937e2?OpenDocument
+A0241;Repository;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/1fc294c640b9d9c2c1257be800161444?OpenDocument
+A0247;SPARK - arkitekturforum;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/1a4b76c3e92fefc8c1257be80016145d?OpenDocument
+A0268;Värde och register;;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/c83ca58293f6622fc1257be80016147c?OpenDocument
+A0275;Lotus Notes Självstudiekurs;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/e469520eb2303cb5c1257be8001614a0?OpenDocument
+A0302;Testdokument APIOS;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/e1898d18beb110cec1257be80016151d?OpenDocument
+A0316;Incidentrapportering;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/5e694414c5506227c125784d00293889?OpenDocument
+A0329;Besöksanmälan;Oscar Unemo;Robert Radda;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/547b4c28d659f0fdc125784d002937c3?OpenDocument
+A0330;Debiteringsunderlag;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/fe2479ffe259a1a5c1257be800161555?OpenDocument
+A0331;Testdatabas IT-A SF;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/2c830e5b767bab84c1257be80016155a?OpenDocument
+A0345;Konstregister;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/42b7805bfedcca12c125784d002937c4?OpenDocument
+A0349;Notesärenden;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/ca93cd26b7b7a4c3c1257be8001615b8?OpenDocument
+A0355;Intresseanmälan Semesterlägenheter;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/9864df063de86e5bc125784d002937c5?OpenDocument
+A0392;Admin Stuff;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/2d24bdb4fa8f5462c1257be800161634?OpenDocument
+A0446;Gruppbrevlåda med ärendehantering- MO Idrott;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/4ec7e63a81e376ccc125784d00293799?OpenDocument
+A0521;Systemid register;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/258ce452e419e5dcc1257be80016171d?OpenDocument
+A0525;PDF Utskick;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/201f683e9dce924ec1257be800161731?OpenDocument
+A0546;Arkivsystem;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/099399bc2d000518c125784d002937c6?OpenDocument
+A0580;Beställning av tcp/ip port;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/3fed0a0b88c3be5ec1257be800161760?OpenDocument
+A0586;Stulna båtar;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/572da07165455f9dc125784d0029386c?OpenDocument
+A0596;Instruktionsdatabas vd-staben;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/2ee0f725fa71f854c125784d0029388b?OpenDocument
+A0598;Webbfilterundantag;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/1f24314b09e1c193c125784d0029388c?OpenDocument
+A0608;J05 - inläsning Apios;Ulf Pettersson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/530ceb0ff6c033cdc1257be800161793?OpenDocument
+A0610;Kvalitetsverifiering skador;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/e23f731b40ed7134c125784d0029386d?OpenDocument
+A0619;J05 - Inläsning print;Ulf Pettersson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/c17013c679d66fb6c1257be8001617c7?OpenDocument
+A0620;J05 - Historik;Ulf Pettersson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/fd2efcba2c1f77b4c1257be8001617e6?OpenDocument
+A0621;J05 - Uppdragsgivare;Ulf Pettersson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/d316e1f9aa428eeec1257be8001617fa?OpenDocument
+A0622;J05 - Debitering;Ulf Pettersson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/1a484771f1f0efa1c1257be800161816?OpenDocument
+A0646;Centrala IPDT utskrifter;Jörgen A Larsson/FOL/SE;Agnetha Lönnroos/FOL/SE;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/a1eb7438a1000be2c125784d0029386e?OpenDocument
+A0662;Telebeställningar 2;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/30e7eb945dd3e73ac125784d002937ad?OpenDocument
+A0666;Webbskadeanmälan;Anders Knutsson/Konsult/FOL/SE;Mikael Nyström;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/256d27f6a4e4932cc125784d0029386f?OpenDocument
+A0680;Kurshantering;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/30184f9f60841d62c1257be80016189e?OpenDocument
+A0698;Styrande dokument;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/99033204bb7fd838c1257be8001618ec?OpenDocument
+A0711;Användarbarometern;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/e1a42811d4083c18c1257be80016195c?OpenDocument
+A0720;Inköpsbegäran;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/97eb5451d9d24fd4c125797a002b7b62?OpenDocument
+A0728;J05 - kostnadsställen;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/99f3c24cbc7ef35bc1257be80016196f?OpenDocument
+A0732;Centrala brevutskrifter - testmiljö;Anders Knutsson/Konsult/FOL/SE;Mikael Nyström;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/4750ecfd5c2985f4c125784d00293871?OpenDocument
+A0742;Utredarstöd;Anders Knutsson/Konsult/FOL/SE;Mikael Nyström;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/b50a86359f8c8daec125784d00293872?OpenDocument
+A0753;Blombeställningar;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/7af7ea5834d9db8ec125784d002937c9?OpenDocument
+A0756;Centrala Brevutskrifter CBU förvaltning;Anders Knutsson/Konsult/FOL/SE;Mikael Nyström;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/1c4662b0f8afe1c2c125784d00293873?OpenDocument
+A0765;Test Uppdragskatalog;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/19b66e82108fcd81c1257be8001619e7?OpenDocument
+A0771;Domino mail forms;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/a7cf06dfcefe9974c125784d002937b8?OpenDocument
+A0776;Databas uppdragskatalog;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/b66de9b14a3899dcc1257be8001619fa?OpenDocument
+A0782;Attestbeställning DK-faktura;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/b70cd6886f7c9c18c125784d002937e5?OpenDocument
+A0796;J05 - Kuvertering och följesedel;Ulf Pettersson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/d5ce3bb35815b528c1257be800161a74?OpenDocument
+A0801;Riskbedömning;Susanne Källén;Susan Krüger;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/bddea2b3c3596413c125797b00353d0f?OpenDocument
+A0814;J05 - Historik 2006;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/8822c4defb406f93c1257be800161ad3?OpenDocument
+A0838;SU Portalen PROD;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/4bcf3db95b128327c1257be800161b38?OpenDocument
+A0842;Matsedel;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/0c4a4211b8e7e6dcc125784d002937ca?OpenDocument
+A0848;Beställning HK;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/88e1cb5bde415bf6c1257be800161b5b?OpenDocument
+A0862;Gruppbrevlåda - Vidareförmedling;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/147a9dd35090cedbc125784d002937b9?OpenDocument
+A0869;ITIL-portalen;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/731e33d301ce5de3c1257be800161b86?OpenDocument
+A0898;Folksam Webb;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/88d7b63aaf5d954bc125784d002937fb?OpenDocument
+A0903;sFTP;Ulf Pettersson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/9438cb31a1018f0bc1257be800161be8?OpenDocument
+A0962;Ekorren;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/9aa7f90f7fa2aa1ec1257c20001b8caf?OpenDocument
+A0964;LEAF projektet;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/01f441b28c6f53b2c1257c20001b8cb4?OpenDocument
+A0968;Prövningsgruppen;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/f24c0b631a006087c1257c3c001b8c82?OpenDocument
+A0970;Two;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/8786cf448993f638c1257c20001b8cb7?OpenDocument
+A1000;Testapplikation - DARE;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/ad1a9589ef0f6014c1257bf6001603c9?OpenDocument
+A1004;Gruppbrevlåda - Vidareförmedling TM-projekt;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/3f5b7d0ed1a4f67bc125784d002937ba?OpenDocument
+A1008;Beställning IT-Drift - Server & Applikation;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/a713feaebd3fec81c1257be800161c30?OpenDocument
+A1018;Folksam-it-ledning;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/3129dae9313e989ac1257be800161c38?OpenDocument
+A1036;SysDok;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/62d45263b388adcdc1257be800161c56?OpenDocument
+A1053;Användarnöjdhet;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/1cddfc5d3cdb2f85c1257be800161c6d?OpenDocument
+A1070;Gruppbrevlåda - Vidareförmedling Sak TM;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/9b3573219381b748c125784d002937bb?OpenDocument
+A1071;Beläggningsapplikation IT;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/c7213f6a52e86643c1257be800161c7e?OpenDocument
+A1109;Knodden;Oscar Unemo/FOL/SE;Robert Radda;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/b4015baab56efe09c125784d00293891?OpenDocument
+A1133;Notesvolymer;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/fc91024f777a1e3dc1257be800161c91?OpenDocument
+A1145;RFC - Ändringsbegäran;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/9359456cc5790369c1257be800161caa?OpenDocument
+A1169;Behörighetsbeställning;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/f438f4924715ca00c1257be800161d24?OpenDocument
+A1175;Systeminventarie;Ulf Svensson;Leif Blomqvist;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/0e42694aeb69e843c1257b6a00482013?OpenDocument
+A1183;Flyttlista;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/ac52cbea6472960dc125796e0034611b?OpenDocument
+A1188;Förvaltning kampanj;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/e5de828a5824523bc125796e00308ef3?OpenDocument
+A1197;Beräkningsfrågor;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/ab38f042e28c4648c1257c20001b8d3a?OpenDocument
+A1198;Driftplan;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/615c9034f925e778c1257c20001b8d3d?OpenDocument
+A1199;FoD Dokumentation;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/c2f35549380cf926c1257be800161d59?OpenDocument
+A1203;KP-skruven;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/ad29034362f40cd4c1257bef0016019b?OpenDocument
+A1204;Handböcker & Åtgärdskatalog;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/21da86a31d97371cc1257c20001b8d4d?OpenDocument
+A1208;Produktavtal & Pensionsreglementen;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/7a7a09f34887a79fc1257bfd00160c90?OpenDocument
+A1209;Produktregler;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/b7fd73f02d2da2d2c1257c20001b8d51?OpenDocument
+A1210;Regelverk för KP;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/e974e24fc0db887cc1257c20001b8d54?OpenDocument
+A1212;Blanketter/Trycksaker LPS;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/66efe66d29457c3dc1257c20001b8d59?OpenDocument
+A1224;Riskhantering;Anders Knutsson/Konsult/FOL/SE;Mikael Nyström;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/dccd6a7a45b6c513c1257be800161d5f?OpenDocument
+A1245;Vidareförmedling Kramfors;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/340ec277ad8ecab2c1257be800161d78?OpenDocument
+A1250;Folk1 - statistik 2011;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/ffc13ff8f42341d0c1257be800161d81?OpenDocument
+A1251;Beställning - IT-interna objekt;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/4f350fa758b536cec1257be800161dad?OpenDocument
+A1264;KAVT dokumentdatabas;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/510fbabd350741d3c1257be800161dbb?OpenDocument
+A1280;Försättsblad Dokumenttjänst;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/38432db12d217da4c1257b5d0037f7b0?OpenDocument
+A1284;Holger;Pia Johnsson/Konsult/FOL/SE;Tomas Remmelg;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/ae98b83d882fdafcc1257be800161dc6?OpenDocument
+A1287;SC Personal;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/f704d796bb621001c1257be800161df5?OpenDocument
+A1302;AktivitetsDb;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/e6b227e922e45f32c1257be800161e04?OpenDocument
+A1303;LPS ledning;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/cbf1fdb16cab1adfc1257be800161e3b?OpenDocument
+A1304;Regelverk SPP/HLP;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/733d58572303b558c1257be800161e40?OpenDocument
+A1309;ActivityLog;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/04ad71b4deec8126c1257be800161e41?OpenDocument
+A1312;TM Liv;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/ce7ea24354a4fb04c1257be800161e4a?OpenDocument
+A1317;Kundklagomål;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/f598c49b56db7021c1257be800161e5d?OpenDocument
+A1323;Beställning TT / Brandvägg / Stordator;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/7e9894e066064da5c1257be800161e68?OpenDocument
+A1328;Dominoregister;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/7a91bd9900bcb02dc1257be800161e73?OpenDocument
+A1336;TM VP;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/c821b319a50df318c1257c2e001b8e1a?OpenDocument
+A1368;Template library J11/CBU;;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/078f8168f9d61664c125804f0015fe95?OpenDocument
+A1369;CBU för Pensionsservice;;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/7afafb61ab7ebb08c125805d001b890a?OpenDocument
+A1370;CBU för PS;;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/f7df76ca860d008cc12580cd001b8853?OpenDocument
+A31;Crisis Commander;Oscar Unemo/FOL/SE;Robert Radda;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/89c86eadcba5e189c125784d00293892?OpenDocument
+A32;Trafikforskning;Oscar Unemo/FOL/SE;Robert Radda;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/1fc9e5f5686e2f75c125792d0044b6e1?OpenDocument
+A50;Penningtvätt;Oscar Unemo/FOL/SE;Robert Radda;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/7800c68a4d39b13cc125784d00293893?OpenDocument
+A51;BWise;Oscar Unemo/FOL/SE;Robert Radda;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/11f62bade9294bb4c1257d5f0043efd1?OpenDocument
+A60;WebSense;;Robert Radda;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/a84bd50aa7f38f86c125784d00293894?OpenDocument
+A70;Tidsserieanalys och kurshistorik;Oscar Unemo/FOL/SE;Robert Radda;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/a22e87bb32591b93c12579f7004ca65c?OpenDocument
+A71;Finansiell information och analys;Oscar Unemo/FOL/SE;Robert Radda;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/fca2b7f387893255c12579fe002a4409?OpenDocument
+A72;Finansiell information och analys;Oscar Unemo/FOL/SE;Robert Radda;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/56420366de2c63b1c12579fe002af01e?OpenDocument
+A73;Handel med aktie och räntefutures;Oscar Unemo/FOL/SE;Robert Radda;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/38f66997b5cef456c12579fe002b28a6?OpenDocument
+A74;Riskberäkning;Oscar Unemo/FOL/SE;Robert Radda;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/1c46cbbe193a9ba3c12579fe002b99b9?OpenDocument
+A75;Kurs- och indexinformation;Oscar Unemo/FOL/SE;Robert Radda;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/2423122741f58a37c12579fe002bb917?OpenDocument
+A76;Kurs- och indexinformation;Oscar Unemo/FOL/SE;Robert Radda;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/c48ce3d9fabebcecc12579fe002c175d?OpenDocument
+A77;Robur;Oscar Unemo/FOL/SE;Robert Radda;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/0346d252fd755dc7c1257a76002190b3?OpenDocument
+A78;Analysverktyg finansiell-ekonomisk data;Oscar Unemo/FOL/SE;Robert Radda;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/ce26cf3a53201385c1257cd90046760e?OpenDocument
+A79;Tjänsten Macrobond;Oscar Unemo/FOL/SE;Robert Radda;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/a5477c0002d53881c1257d38003f2f50?OpenDocument
+A80;Hitta lärande;Oscar Unemo;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/e44862b638a7a7f1c1258060004df1b0?OpenDocument
+A81;Styrande Regelverk;Oscar Unemo;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/ba3f467035f598d0c125806b002f6074?OpenDocument
+A85;Intranät;Oscar Unemo;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/ec1b6c66b7cfaf09c125806b002eb23e?OpenDocument
+A90;SharePoint plattform;Oscar Unemo;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/542037a77d0ed6b6c1258060004e1831?OpenDocument
+A95;Försäkringsguiden;Oscar Unemo;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/e742555baf402ef4c1258060004e38ea?OpenDocument
+A96;Tre Kronor Supportguiden;Oscar Unemo;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/4e86a877ac6a5bd2c125806b002f0ef8?OpenDocument
+ASP;Systemstöd;Cecilia Nilsson;Magnus Lysén;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/9c0a651ebb720f30c1257cb3004be279?OpenDocument
+B40;Bilförsäkring;Anders Bergwall/FOL/SE;Jane Hultqvist Stenius;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/ba2a4eb89ddb2218c125784d0029382e?OpenDocument
+B41;Bilförsäkring;Anders Bergwall/FOL/SE;Jane Hultqvist Stenius;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/232cb6995f62b8f1c125797b0050620f?OpenDocument
+C01;Bilförsäkring;Anders Knutsson/Konsult/FOL/SE;Mikael Nyström;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/80c5de8883d8731ec1257a23002669fd?OpenDocument
+C03;Skadeinformation;Anders Knutsson/Konsult/FOL/SE;Mikael Nyström;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/4d88c7fc4cdeadf9c125784d00293877?OpenDocument
+C12;Frekvensor;Pia Johnsson/Konsult/FOL/SE;Tomas Remmelg;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/d45f11013f6836eac125784d0029391d?OpenDocument
+C40;Solvensrapportering;Yvonne Åström,Virpi Söderblom;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/ec1997ca37a3f66ac12578a8003de7da?OpenDocument
+D00;Tillfälliga JCL;Tommy Källkvist;Tommy Källkvist;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/93236d97c9fbf058c1257a230025f4c3?OpenDocument
+D01;360 Operating system;Tieto;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/e8e216dcc09e5f81c1257a230025d1ab?OpenDocument
+D02;Programeringsteknik;Tieto;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/74050c2ec45520b4c1257a230025816c?OpenDocument
+D03;CICS;Tieto;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/9fa38633d39e4ed6c1257a23002575f1?OpenDocument
+D06;Control-M;Tieto;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/826d2e98e6a719cac1257a23002551d5?OpenDocument
+D09;Mailintegration;Tommy Källkvist;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/a88930d12edb69c6c1257a2300251228?OpenDocument
+D11;360-program;Tieto;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/92c5568f6d114800c1257a230024faf5?OpenDocument
+D12;Sigill;Tommy Källkvist;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/0434b5e2a09e3723c1257a230024e3d3?OpenDocument
+D14;Inkodarrekord;Tieto;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/75cb773d2e248edcc1257a230024cc46?OpenDocument
+D15;Savers;Tieto;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/a723a8078306c2aec1257a230024bad7?OpenDocument
+D16;DB2;Tieto;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/2efe3c4264bef5cfc1257a230024abb3?OpenDocument
+D19DS01;Password manager;Niklas Fridell;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/574a30d1336d6655c1257a230024581c?OpenDocument
+D21;Postnummerhantering;Åsa Glavér;Åsa Glavér;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/3b0355c2899657cac125784d0029382f?OpenDocument
+D23;MICS;Pia Sonnerup;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/4a6a7cddd8383fdfc1257a2300240dc9?OpenDocument
+D24;MICS;Pia Sonnerup;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/4ba0f99b5b8c1721c1257a230023a151?OpenDocument
+D25;MQ;Maja Panova;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/e3f8c2c55ac09d1cc1257a23002389ad?OpenDocument
+D26;DB2 test;Tieto;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/5d18a8018a4c0dd5c1257a2300237b43?OpenDocument
+D28;Utbildningsidentitet;Tommy Källkvist;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/2f5342210448f5f4c1257a23002351b0?OpenDocument
+D31;CICS;Tieto;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/5b0c27f2e577f1a0c1257a2300232c11?OpenDocument
+D33;CICS;Tieto;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/6242eaf4ae11e3e2c1257a2300231912?OpenDocument
+D36;DB2 Test,Btes,Stst;Tieto;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/ba4906470bfea1c9c1257a23002302ed?OpenDocument
+D37;DB2;Tommy Källkvist;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/c0413b4113cd0b96c1257a230022f01f?OpenDocument
+D38;T/M ID-system;Tieto;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/49ba5cb1ff79adddc1257a230022d9c2?OpenDocument
+D41;Netspy;Tieto;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/0c59a28f234e9314c1257a230022ca49?OpenDocument
+D43;Info/MVS;Tieto;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/5b83058035a16b81c1257a230022b7cd?OpenDocument
+D44;CICS;Tieto;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/bd71a87d0d4cc86cc1257a230022a56c?OpenDocument
+D46;Applikationsprogram TM;Tieto;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/19060928bfcd999dc1257a22004f6ae9?OpenDocument
+D50;Regresshantering;Anders Knutsson/Konsult/FOL/SE;Mikael Nyström;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/b9723fc2841d4988c125784d00293878?OpenDocument
+D51;Endevor MCF-dataset;Tommy Källkvist;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/437d4bb46c2487d8c1257a2200408812?OpenDocument
+D54;Repository;Tommy Källkvist;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/317c079cc380c589c1257a220040597f?OpenDocument
+D56;DB2 ATST, JOUR, UTBI;Tieto;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/62e1b806c1472e98c1257a220040272e?OpenDocument
+D63;Pär - ärendehantering;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/43989c9ff6489c13c1257a1e00415528?OpenDocument
+D64;Compuware;Tommy Källkvist;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/21d3f4eb90fa5852c1257a1e00413bc3?OpenDocument
+D69;Ivorylyssnare;Maja Panova;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/f6bf078192d5fdb3c1257a1e0040cac2?OpenDocument
+D71;Endevor produktdataset;Tommy Källkvist;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/a01d95633f7b8023c1257b0f0052b92e?OpenDocument
+D74;Driftövervakning;Johanna Gisterå/Konsult/FOL/SE;Anna-Karin Tallsten;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/887105ca71e97c2dc12579f400256163?OpenDocument
+D74DS01;D74 övervakning;Johanna Gisterå/Konsult/FOL/SE;Anna-Karin Tallsten;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/f5e39c1646bffd41c1257ec8003fcd5d?OpenDocument
+D75;CICS;Tieto;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/59eed739c6ba4bedc1257a1e0040b311?OpenDocument
+D77;Tömningsrutiner;Anders Knutsson/Konsult/FOL/SE;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/12a98d58f5887b87c1257a1e00408c33?OpenDocument
+D78;Dynatrace programvara;Tommy Källkvist;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/f9ef389b1b22ff46c1257cc3004036ce?OpenDocument
+D79;Övriga program;Tommy Källkvist;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/c868b3c64d15d01ec1257a1e004079d2?OpenDocument
+D80;Dokumentation;Tommy Källkvist;Tommy Källkvist;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/42f18aa7a6c57d32c1257a1e003f1a9b?OpenDocument
+D81;Face;Tommy Källkvist;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/8856ef090fc01347c1257a1e003effac?OpenDocument
+D82;Face;Johan Zetterström;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/2fe219b62f7361b6c1257a1e003eebd6?OpenDocument
+D83;Face;Johan Zetterström;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/2c2fafe7f138f5fdc1257a1e003ed29d?OpenDocument
+D84;Integration SI;Maja Panova;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/f37d392949639b4bc1257a1e003ebd8b?OpenDocument
+D84DS01;SI Flöden;Maja Panova/FOL/SE;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/11d6cc201ee8192ac125805d00520a9a?OpenDocument
+D85;Marval;Anna Isenberg;Anan Isenberg;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/455c51c3a93c8900c1257a1e003e5a29?OpenDocument
+D86;DB2;Tieto;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/9bd11304ae5098d1c1257a1e003e3f3f?OpenDocument
+D87;DB2;Tieto;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/bb6ddb86cc11debec1257a1e003e1e65?OpenDocument
+D89;Produktionsplattformar;Tieto;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/963847cfbb97b1fbc1257a1e003df450?OpenDocument
+D90;Inbetalningar;Annsofi Viklund;Cecilia Brick;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/6d4aaf328ecdb354c125784d00293837?OpenDocument
+D93;Control-R;Tieto;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/3241e548feab9ba1c1257a1e003dded8?OpenDocument
+D96;Connect direct;Maja Panova;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/848f399179c6f603c1257a1e003d7fe4?OpenDocument
+D99;Drift;Tieto;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/155f841e92d436d3c1257a1e003c3aa7?OpenDocument
+DAA;Advanced Query Tool;Tommy Källkvist;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/23537921212f7bcfc1257c130053b438?OpenDocument
+DAB;JSP-Cobol;Tommy Källkvist;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/1278d7f8f27a4d2fc1257c13005406dd?OpenDocument
+DAD;XMLSpy;Tommy Källkvist;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/8733f6c0f18afeafc1257c14004d8f7d?OpenDocument
+DAE;XML Thunder;Tommy Källkvist;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/239b67116833dccdc1257c1300549864?OpenDocument
+DAF;Subversion;Tommy Källkvist;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/d54fb2fc95fd9b35c1257c14004dc98d?OpenDocument
+DAG;Enterprise Arhcitect;Tommy Källkvist;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/cdbe9238322d4d30c1257c14004df6f2?OpenDocument
+DAH;SDFII;Tommy Källkvist;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/a2cedff9d3a5042cc1257c750049805e?OpenDocument
+DAI;Culprit;Tommy Källkvist;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/8a49fb6b661d8fc9c1257c7500494b6a?OpenDocument
+DAK;SoapUI;Tommy Källkvist;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/f359197e4ed49a8ec1257d5d0031b279?OpenDocument
+DAL;Toad för DB2;Tommy Källkvist;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/db4863497d543de9c1257d5d00479827?OpenDocument
+DAM;Utvecklingsverktyg SQL/DBA för Oracle;Tommy Källkvist;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/b2df8a4389ff56abc1257d5d0030c4cf?OpenDocument
+E03DS01;Agresso;Pierre Söderkvist;Pierre Söderkvist;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/64569a7c6228e016c125784d002937d8?OpenDocument
+E06;Utbetalningar;Annsofi Viklund;Cecilia Brick;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/fd1dd943e53a4714c125784d00293839?OpenDocument
+E13;AdraMatch;Pär Elmqvist/FOL/SE;Mattias Soneby/FOL/SE;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/a3fd8edf1341f48ec125796d0040c162?OpenDocument
+E15;Kontoplaner R/3;Pär Elmqvist/FOL/SE;Mattias Soneby/FOL/SE;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/2da1ce497035c91bc125784d002937e8?OpenDocument
+E22;Lånesystemet;Ulf Norström;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/acb8e7d0f1404ba9c1257a1b00241fcb?OpenDocument
+E24;Driftsfakturor;Pär Elmqvist/FOL/SE;Mattias Soneby/FOL/SE;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/f8872935affe5f1fc125784d002937e9?OpenDocument
+E30;SAP ERP (Enterprise Resource Planning);Pär Elmqvist/FOL/SE;Mattias Soneby/FOL/SE;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/f3f5768cb5a9344ac125784d002937cd?OpenDocument
+E31;ITIM;Pia Sonnerup;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/4b1840c725b00364c1257a1e003b3019?OpenDocument
+E33;Gränssnitt CD/R3/Y25;Annsofi Viklund;Cecilia Brick;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/df9c49529e142c57c125784d0029383a?OpenDocument
+E34;SAP PI (Process Integration);Pär Elmqvist/FOL/SE;Mattias Soneby/FOL/SE;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/3a689e379c8d1749c125784d002937ce?OpenDocument
+E35;Avantra;Pär Elmqvist/FOL/SE;Mattias Soneby/FOL/SE;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/0aaa94311e6495ccc125784d002937bf?OpenDocument
+E36;SAP EP (Enterprise Portal);Pär Elmqvist/FOL/SE;Mattias Soneby/FOL/SE;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/9174d08fe6bfa6f7c125784d002937cf?OpenDocument
+E37;Användardriven BI;Pär Elmqvist/FOL/SE;Mattias Soneby/FOL/SE;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/0c7cf22b21aff260c1257935002cb0dc?OpenDocument
+E38;SAP NWDI;Pär Elmqvist/FOL/SE;Mattias Soneby/FOL/SE;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/c5d683cd4eaf0a32c12579f40024ded2?OpenDocument
+E39;SAK-Dok;Tomas Berkesten;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/d744d7840f5fe9b3c1257ed000485438?OpenDocument
+E43;SAP RI (Re-Insurance);Annsofi Viklund;Cecilia Brick;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/f816627121e299c5c125784d002937d0?OpenDocument
+E44;SAP SRM (Supplier Relationship Management);Pär Elmqvist/FOL/SE;Mattias Soneby/FOL/SE;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/4d09bd23c4a5f7ccc125784d002937d1?OpenDocument
+E46;SAP SOL (Solution Manager);Pär Elmqvist/FOL/SE;Mattias Soneby/FOL/SE;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/f3a62fe5ed5d7615c125784d002937d2?OpenDocument
+E47;SAP PSM (Solution Manager Central User Administration);Pär Elmqvist/FOL/SE;Mattias Soneby/FOL/SE;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/ce3756f70d8738a6c125784d002937d3?OpenDocument
+E48;SAP BW;Pär Elmqvist/FOL/SE;Mattias Soneby/FOL/SE;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/a8da40f5926d857fc1257c350051a684?OpenDocument
+E51;Content management;Tomas Berkesten;Robert Radda;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/89a9ac700476955cc1257a1e003b062e?OpenDocument
+E51DS01;Document routing;Tomas Berkesten;Robert Radda;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/46ebdc47ba3cda81c125784d00293866?OpenDocument
+E51DS02;Input management (Kofax);Tomas Berkesten;Robert Radda;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/2247f166e3351d84c125784d0029389b?OpenDocument
+E51DS03;Driftfakturor;Tomas Berkesten;Robert Radda;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/1ebf78570bde07f4c1257b5d002bc953?OpenDocument
+E55;Frankeringssystem;Tomas Berkesten;Robert Radda;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/7670c1b371728ba8c125784d002937cb?OpenDocument
+E60;Paketregistrering;Tomas Berkesten;Robert Radda;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/c7072a8df1550232c1257c1c002c7b52?OpenDocument
+E66;Manuell registrering;Annsofi Viklund;Cecilia Brick;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/1dfd31df8dd2acbdc125784d0029383b?OpenDocument
+E70;Manuell registrering;Annsofi Viklund;Cecilia Brick;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/4f18ed2af4a585cfc125797b002af83d?OpenDocument
+E75;Nyckelhantering;Tomas Berkesten;Robert Radda;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/4d902a6fbf55279fc125784d002937cc?OpenDocument
+E76;Varumottagningen;Tomas Berkesten;Robert Radda;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/22608b66d6aa1279c1257c47004bc90f?OpenDocument
+E84;Integration SI 2016;Maja Panova/FOL/SE;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/b54d99c769e398f6c125805a003d3bf5?OpenDocument
+E84DS01;Intergationsflöden Klustrade Intergationsplattformen 2016;Maja Panova/FOL/SE;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/45a8c0c58f1003f4c125805d00526d29?OpenDocument
+E91;Cognos;Pär Elmqvist/FOL/SE;Mattias Soneby/FOL/SE;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/287e86536fde60a7c125784d0029391f?OpenDocument
+E91DS01;Cognos BI;Johanna Gisterå/Konsult/FOL/SE;Anna-Karin Tallsten;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/7c25165686d6b139c125784d00293920?OpenDocument
+E91DS02;Cognos Controller;Pär Elmqvist/FOL/SE;Mattias Soneby/FOL/SE;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/4378ce448d1be49ac125784d00293921?OpenDocument
+E91DS03;Cognos Planning;Pär Elmqvist/FOL/SE;Mattias Soneby/FOL/SE;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/0f630a0041eac715c125784d00293922?OpenDocument
+E91DS04;Cognos CDM;Pär Elmqvist/FOL/SE;Mattias Soneby/FOL/SE;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/c14e50fa5b7e01eac12579ae00520675?OpenDocument
+E91DS05;Cognos TM1;Pär Elmqvist/FOL/SE;Mattias Soneby/FOL/SE;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/c5ecd8db49ec47eec1257b4b0049376d?OpenDocument
+E96;Cash Planning;Pär Elmqvist/FOL/SE;Mattias Soneby/FOL/SE;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/5452e88c1532fc08c1257e960040425c?OpenDocument
+E97;XL1;;Robert Radda;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/db6159893b0303f3c1257e440047a655?OpenDocument
+E99;Controllerstatistik;Pär Elmqvist/FOL/SE;Mattias Soneby/FOL/SE;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/04987b690b0263ecc125784d00293896?OpenDocument
+F05;Oliv;Radhika Åberg;Katja Andersson;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/798658f449db458ac1257abe003d6b16?OpenDocument
+F06;Förenade Liv Orion;Radhika Åberg;Katja Andersson;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/e58883d11e8a68e7c1257ed8002c4b54?OpenDocument
+F07;Infoscandic;Radhika Åberg;Katja Andersson;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/b69f6a45727ed02dc1257c75004116a5?OpenDocument
+F08;TFS versionshantering;Radhika Åberg;Katja Andersson;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/67b5aee9f0175e47c1257c750049040d?OpenDocument
+F10;FLinfo;Radhika Åberg;Katja Andersson;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/621329e6fd29a086c1257c75004098a6?OpenDocument
+F15;Förenade Liv Intranät;Radhika Åberg;Katja Andersson;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/234aff299e7f6492c1257c75003ec437?OpenDocument
+F23;Composition Center;Peter Gripstrand;Bengt Mortensen;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/1a9b1c75a0198447c1257c3500501b6d?OpenDocument
+F24;Collector;Peter Gripstrand;Bengt Mortensen;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/f37e14abe619fa77c1257c3500503a2f?OpenDocument
+F31;Puss;Peter Gripstrand;Bengt Mortensen;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/5a3282b6e6524224c1257c350051371b?OpenDocument
+F32;Rapportportalen;Peter Gripstrand;Bengt Mortensen;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/38bde6ff21d7c2fdc1257c35005151b5?OpenDocument
+F80;MEPS 1;Anders Knutsson/Konsult/FOL/SE;Mikael Nyström;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/6793daf1306bd07ac1257e6d0043ab38?OpenDocument
+F81;;Anders Knutsson/Konsult/FOL/SE;Mikael Nyström;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/232bae557c184a63c1257eee00341b1f?OpenDocument
+;Byggkalkylsystem och byggskadeärendehantering;;;
+G11;Cognos statistik;Pär Elmqvist/FOL/SE;Mattias Soneby/FOL/SE;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/e90df72ee2a4e29dc125784d00293897?OpenDocument
+G50;Kampanjsystem;Pia Johnsson/Konsult/FOL/SE;Tomas Remmelg;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/a5a07dde10dfb942c125784d002937a0?OpenDocument
+G51;Enkäthantering;Pia Johnsson/Konsult/FOL/SE;Tomas Remmelg;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/7af7fe31906fda54c125784d002937a1?OpenDocument
+G51DS01;Batchrutinen i G51;Pia Johnsson/Konsult/FOL/SE;Tomas Remmelg;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/e353594152f01a8dc1257d9a0046b09d?OpenDocument
+G52;Erbjudandesystem;Anneli Lindberg;Cecilia Nilsson;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/9132f7725a0e9259c125784d00293843?OpenDocument
+G53;Lokala säljbrev;Pia Johnsson/Konsult/FOL/SE;Tomas Remmelg;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/4303b769a9e32435c125784d002937a4?OpenDocument
+G65;Textbank till Produktutvecklarna;Jörgen A Larsson;Maria Beiron/FOL/SE;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/53566a232d3a8b49c1257cc30021f580?OpenDocument
+G70;DW-Mart;Johanna Gisterå/Konsult/FOL/SE;Anna-Karin Tallsten;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/e883f5e34636b903c125784d002937ac?OpenDocument
+G70DS01;DW-rapporter;Pia Johnsson/Konsult/FOL/SE;Tomas Remmelg;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/d8e4201bda77f954c125784d0029391e?OpenDocument
+G70DS02;G70 Säljmart;Johanna Gisterå/Konsult/FOL/SE;Anna-Karin Tallsten;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/9fd478482dac1963c1257e2900311445?OpenDocument
+G71;DW;Johanna Gisterå/Konsult/FOL/SE;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/c399531132ff1e9bc1257a1e003a85f9?OpenDocument
+G73;ESS;Pia Johnsson/Konsult/FOL/SE;Tomas Remmelg;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/12af52b5b34b0b77c125784d002937a7?OpenDocument
+G74;Aprimo;Pia Johnsson/Konsult/FOL/SE;Tomas Remmelg;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/0cfa749d8534a7d0c125784d002937a2?OpenDocument
+G75;Kundinteraktionshub;Pia Johnsson/Konsult/FOL/SE;Tomas Remmelg;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/0d343b896fd03d89c1257a59002fe5b4?OpenDocument
+G76;MRM Market Resource Management;Pia Johnsson/Konsult/FOL/SE;Tomas Remmelg;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/79e98ddce7d1b66fc1257bb700412420?OpenDocument
+G77;Voldemort;Pia Johnsson/Konsult/FOL/SE;Tomas Remmelg;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/8d2a1736ca7715b7c1257d570041d010?OpenDocument
+G80;Holger;Pia Johnsson/Konsult/FOL/SE;Tomas Remmelg;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/2dc78a4e0d35070ac125784d002937bc?OpenDocument
+H20;Djurförsäkring;Anders Knutsson/Konsult/FOL/SE;Mikael Nyström;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/4512b558ca980629c125784d0029385a?OpenDocument
+H30;Utskriftssystem;Anders Bergwall/FOL/SE;Jane Hultqvist Stenius;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/65c50ad6409c5b97c125784d00293830?OpenDocument
+H31;Utskriftssystem;Anders Bergwall/FOL/SE;Jane Hultqvist Stenius;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/141e360111384693c125797b00508eeb?OpenDocument
+H32;Utskriftssystem;Anders Bergwall/FOL/SE;Jane Hultqvist Stenius;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/bcf63a7e98af4d94c125797b00508f86?OpenDocument
+H33;Utskriftssystem;Anders Bergwall/FOL/SE;Jane Hultqvist Stenius;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/51b22d19d6a5a8b5c1257a1e0039ebea?OpenDocument
+H34;Utskriftssystem;Anders Bergwall/FOL/SE;Jane Hultqvist Stenius;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/1718fd86b670958dc1257a1e0039ba14?OpenDocument
+H35;Utskriftssystem;Anders Bergwall/FOL/SE;Jane Hultqvist Stenius;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/e342296e04ba03abc125797b00509030?OpenDocument
+H36;Engångsprogram;Anders Bergwall/FOL/SE;Jane Hultqvist Stenius;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/256941a9502b7349c1257a1e0039a2c3?OpenDocument
+H40;Provisioner Sak;Sören Hedlund;Ann-Christine Nessling;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/98afc0d59bf62e37c125784d00293850?OpenDocument
+H40DS01;Provisioner säljkanaler;Sören Hedlund;Ann-Christine Nessling;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/663676857d09d44cc1257a78002b916a?OpenDocument
+H41;Provisioner Sak;Sören Hedlund;Ann-Christine Nessling;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/cc9615eb62135c02c125797b004d6de9?OpenDocument
+H43;Provisioner Sak;Sören Hedlund;Ann-Christine Nessling;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/4069afebaa9beafec125797b004d6ed4?OpenDocument
+H50;Skadehantering/utbetalning Motor;Anders Knutsson/Konsult/FOL/SE;Mikael Nyström;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/7c674b6219e8d102c125784d00293831?OpenDocument
+H51;Skadehantering/utbetalning Motor;Anders Knutsson/Konsult/FOL/SE;Mikael Nyström;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/8f47cf53731683eec125797b0050b5d4?OpenDocument
+H52;Skadehantering/utbetalning Motor;Anders Knutsson/Konsult/FOL/SE;Mikael Nyström;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/71d6b39f536d968ec125797b0050b648?OpenDocument
+H53;Skadehantering/utbetalning Motor;Anders Knutsson/Konsult/FOL/SE;Mikael Nyström;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/f81c759149da9f67c1257a1e0038e04c?OpenDocument
+H54;Skadehantering/utbetalning Motor;Anders Knutsson/Konsult/FOL/SE;Mikael Nyström;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/ca411d6b160d16d2c1257a1e00384be6?OpenDocument
+H60;WinCabas (WinFodak/GPD);Anders Knutsson/Konsult/FOL/SE;Mikael Nyström;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/c29df3016a69bdc1c125784d00293879?OpenDocument
+H80;Sak- och företagsförsäkring;Anne Vainikainen;Bengt Mortensen;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/c6605e63f8166defc125784d00293883?OpenDocument
+H82;Sak- och företagsförsäkring;Anne Vainikainen;Karin Mild;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/dea6618135fbdd2cc125784d0029379a?OpenDocument
+H82DS02;SMÅFF;Roger Andersson;Selwa Bahram;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/26b9785d396571adc1257a2300222dd2?OpenDocument
+H84;Sakförsäkring;Lena Löfgren;Lena Löfgren;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/56ebe1055824b37dc125784d00293884?OpenDocument
+H84DS01;Datautsökning (Qlikview);Lena Löfgren;Lena Löfgren;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/a76833cb29f795e2c12579a000464eeb?OpenDocument
+H85;Testmiljö (H8T);Lena Löfgren;Lena Löfgren;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/3a59b5454724f67dc1257c08004afad7?OpenDocument
+H90;Diverse hushåll;Johanna Gisterå/Konsult/FOL/SE;Johnny Junegard;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/2d39dcb80d56bb43c125784d00293857?OpenDocument
+H90DS01;Hkanalys;Johanna Gisterå/Konsult/FOL/SE;Johnny Junegard;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/911d42bbb3d8b026c125784d00293858?OpenDocument
+I01;Centralt informationslager;Roger Andersson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/883a813f971f0d3ec1257dc6002fb42c?OpenDocument
+I01DS01;Nya Mina Sidor;Roger Andersson;Selwa Bahram;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/722592a92b45559fc1257f8800283057?OpenDocument
+I01DS09;Delfinens uppgifter i påloggat läge;Roger Andersson;Björn Blomberg;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/d032115671e91a3bc1257e52004bccdb?OpenDocument
+I02;Unixplattformen;Tieto;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/ba2fc23b62b66442c1257a1e00383498?OpenDocument
+I03;Graylog;Tommy Källkvist;Tommy Källkvist;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/ec85a38ae0a0f6c8c1257e22002efd6c?OpenDocument
+I04;Datakrafts systemID;Michael Sahlström;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/9108b781ce695900c1257a1e0038240f?OpenDocument
+I05;Folkbus;Maja Panova;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/23d954df5cb8eaf8c1257a1e00380610?OpenDocument
+I06;Nät;Tieto;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/9328584d1a6ebd8bc1257a1e0037f8f5?OpenDocument
+I07;Säkerhet;Tieto;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/25774beb298d5aa8c1257a1e0037def1?OpenDocument
+I08;Lagring;Tieto;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/244917e77de9f379c1257a1e0037d1fe?OpenDocument
+I09;Tele;;Christian Lindgren,Anders Pettersson;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/29e24aa29e57a1cbc1257a1e0037c5ad?OpenDocument
+I09DS01;Nummerregister (CMG);;Anders Pettersson,Christian Lindgren;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/9f0a81dca3c1f9d6c125784d002937b0?OpenDocument
+I09DS02;Teleopti;;Christian Lindgren,Anders Pettersson;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/3ff84acc093996d0c1257aa2004fd274?OpenDocument
+I09DS03;Ciceronen;;Anders Pettersson Christian Lindgren;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/f9c849fb8d798139c1257b5d00384e5e?OpenDocument
+I09DS04;Dialern;Per Sundell;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/2863c94962c69908c1257b98002ec3fd?OpenDocument
+I10;Applikation-Utvecklingsplattform .Net Java;Roger Andersson;Selwa Bahram;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/f02bb5fb7177b740c1257de4004f3fa5?OpenDocument
+I10DS01;Admin Klient för FUP-plattformen;Roger Andersson;Selwa Bahram;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/946bd7297feefb02c1257ec200288feb?OpenDocument
+I10DS02;Trafikbarometern;Roger Andersson;Selwa Bahram;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/311a9e508d768ca0c1257ec2002a4b47?OpenDocument
+I10DS03;Documents;Roger Andersson;Selwa Bahram;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/15aadd66bf1bc240c1257ec2002ae422?OpenDocument
+I10DS04;Party;Roger Andersson;Selwa Bahram;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/086ffc48ddf3b053c1257ec2002cf819?OpenDocument
+I10DS06;QA;Roger Andersson;Selwa Bahram;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/6f86e3b8ff88d34ac1257efa002bfa76?OpenDocument
+I10DS07;Shell;Roger Andersson;Selwa Bahram;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/30d9c17e85aef0b8c1257efa002c6554?OpenDocument
+I10DS08;Search;Roger Andersson;Selwa Bahram;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/9281906c007e93f5c1257efb00270c3e?OpenDocument
+I10DS09;External dependencies (intert);Roger Andersson;Selwa Bahram;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/063b50b5606c5c68c1257efa002ed48c?OpenDocument
+I10DS10;Notification (sms,email);Roger Andersson;Selwa Bahram;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/6ca681b40c3b000fc1257efa002e8bb0?OpenDocument
+I10DS11;Security;Roger Andersson;Selwa Bahram;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/9571a54fae4084b1c1257efa002e45d6?OpenDocument
+I10DS12;Integration (ut externa system);Roger Andersson;Selwa Bahram;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/315daded170e48afc1257efa002d8ded?OpenDocument
+I10DS13;Domain;Roger Andersson;Selwa Bahram;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/575aa84b6eef3abac1257efa002ccc26?OpenDocument
+I10DS14;Sysop;Roger Andersson;Selwa Bahram;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/a1b07a08c79fc055c1257efa002d2fb2?OpenDocument
+I10DS15;Common;Roger Andersson;Selwa Bahram;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/080ac38fccdafecac1257f01004ad6c5?OpenDocument
+I10DS16;Monitor;Roger Andersson;Selwa Bahram;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/d07cfcba762ac01dc1257f01004b516a?OpenDocument
+I10DS21;Anbudsadm;Roger Andersson;Selwa Bahram;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/9ab371d2aabe0f54c1257fc500396796?OpenDocument
+I10DS22;Anbudshubb;Roger Andersson;Selwa Bahram;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/64379b0f31641268c1257fc500390e38?OpenDocument
+I11;WAS-hotellet;Tommy Källkvist;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/cf23c1d20452570dc1257a1e0037b1a1?OpenDocument
+I12;Domino;Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/8c17dcf67d72547cc1257a1e0037a2f7?OpenDocument
+I13;Domino (DMZ);Ulf Svensson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/f24cf5caceee180fc1257a1e0037924d?OpenDocument
+I14;Nya Holger;Pia Johnsson/Konsult;Tomas Remmelg;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/aaff0f481b2d5e19c1257fda002d0b18?OpenDocument
+I15;Unix;Tieto;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/36191225cbca39c1c1257a1e003776c0?OpenDocument
+I15DS01;GPFS;Michael Sahlström;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/46e4d02d2c234d73c1257a7600237eac?OpenDocument
+I15DS02;SAP Dokumentation;Michael Sahlström;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/8f577701bdacbe7ec1257a7d0023a349?OpenDocument
+I16;Windows databas;Tieto;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/aeb201be00daa6e0c1257a1e00375a49?OpenDocument
+I19;Stöd- och utvecklingsverktyg;Tieto;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/7bb0f8a80412e42bc1257a1e003741a7?OpenDocument
+I21;Edok;Tomas Berkesten;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/73421d89eee098e7c125784d00293923?OpenDocument
+I21DS01;Edok webservices;Tomas Berkesten;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/830135f9672dd8c6c1257a1e003702d4?OpenDocument
+I21DS02;Batchimport;Tomas Berkesten;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/b521550cb8c578b5c1257a1e00371ac0?OpenDocument
+I21DS03;Dokumentbearbetning;Tomas Berkesten;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/24ba6e0243d320dfc1257a77003902d3?OpenDocument
+I21DS04;Y75-klienttjänster;Tomas Berkesten;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/64b1b8553cf8ad49c1257cc4002e7134?OpenDocument
+I21DS06;EJB för eDok;Tomas Berkesten/FOL/SE;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/ef274485cc56057fc12580960037682f?OpenDocument
+I21DS07;IBM Content Navigator;Tomas Berkesten;Agnetha Lönnroos;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/127153ca10b20d04c1257e960046d8b9?OpenDocument
+I21DS08;Nyttofunktioner för I21;Tomas Berkesten;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/712d393b56327d41c1257f49003e89d5?OpenDocument
+I25;Webload;Tommy Källkvist;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/c75e54cbea3365f3c1257935002ce457?OpenDocument
+I30;Epost;Joakim Jernberg;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/f4886914072e5c99c1257a1e0036e571?OpenDocument
+I32;Behörighets- och lösenordsbeställning;Jörgen A Larsson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/b46b0e7e336f2ab5c1257a1e0036a7d9?OpenDocument
+I40;Arbetsplatsen;Joakim Jernberg;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/afebae4c95b8717bc1257a1e003669a2?OpenDocument
+I41;Folksamförsäkring, Livoffert, KSS;Niklas Fridell;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/6f5724f0df81794bc125784d00293863?OpenDocument
+I42;Microsoft Office;Joakim Jernberg;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/276f319aeeafe3f2c1257afb00350f73?OpenDocument
+I42DS01;Wordmallar;Roger Andersson;Linda Lindwall;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/8acf39fbfb275fb8c1257b270026e441?OpenDocument
+I42DS06;Wordmallar - rättskydd;Anders Knutsson/Konsult/FOL/SE;Mikael Nyström;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/12577b021ec9d2fac1257b27002729b5?OpenDocument
+I42DS07;PSS Wordmallar - Tre Kronor;Anders Knutsson/Konsult/FOL/SE;Mikael Nyström;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/f2549dc27b1efe3bc1257b2700278ead?OpenDocument
+I50;Netround;Joakim Jernberg;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/bd9f6df34fb6a5c0c125805600207f1c?OpenDocument
+I61;Sysark;Tommy Källkvist;Tommy Källkvist;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/18b885d348ccd465c1257a1e0035dd8b?OpenDocument
+I61DS01;Ramverk Servlet;Tommy Källkvist;Tommy Källkvist;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/8466bbfdcf5eac74c1257ec300275623?OpenDocument
+I61DS02;Folksams Springramverk;Tommy Källkvist;Tommy Källkvist;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/5eb99b14d459e013c1257eec0053454e?OpenDocument
+I61DS03;FIK-klienter (Java);Tommy Källkvist;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/08be31c2c85b937fc1257fa9003b6674?OpenDocument
+I61DS04;Java Batch - gemensamma komponenter;Tommy Källkvist/FOL/SE;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/65c810502b801de6c1257fb500294be7?OpenDocument
+I62;Utvecklingsmiljö Java;Tommy Källkvist;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/b559c1a6276c1bcfc1257b3a0036a0ef?OpenDocument
+I62DS01;Maven;Tommy Källkvist;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/8aa97e9aa9eb5c29c1257b3a0036deb3?OpenDocument
+I62DS02;Nexus Repository Manager;Tommy Källkvist;Tommy Källkvist;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/ec01209ed4cd06c6c1257e650049750d?OpenDocument
+I62DS03;jRebel;Tommy Källkvist;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/9a553681dd35c4c4c1257d5d002fbe2d?OpenDocument
+I62DS04;Central Jenkins;Tommy Källkvist;Tommy Källkvist;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/3a99d81388b5482ec1257ea700257669?OpenDocument
+I62DS05;Foldeploy;Tommy Källkvist;Tommy Källkvist;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/99888c6560aba890c1257eb600367c40?OpenDocument
+I62DS06;RAD - Rational Application Developer;Tommy Källkvist;Tommy Källkvist;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/ea2b8c3463ea8b60c1257c130054430c?OpenDocument
+I62DS10;Systemutvecklingsportalen;Tommy Källkvist;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/a005906b49f288b6c1257b4b00498195?OpenDocument
+I63;IAM;Niklas Fridell;Gunnar Fröderberg;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/84c6149f9df51a76c1257a1e0035bce0?OpenDocument
+I63DS01;IAM Generisk modul;Niklas Fridell;Gunnar Fröderberg;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/ff255020c04a8df3c1257a1e003595ff?OpenDocument
+I63DS02;IAM Externt webbskalskydd;Niklas Fridell;Gunnar Fröderberg;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/2af61cae7914ab95c125799600360fdd?OpenDocument
+I63DS03;IAM Intern identitetshantering;Niklas Fridell;Gunnar Fröderberg;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/551f5943d7c741afc125799600364d09?OpenDocument
+I63DS04;IAM Single Sign On;Niklas Fridell;Gunnar Fröderberg;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/b15cae76dc673a5ac125799600365c71?OpenDocument
+I63DS05;IAM Internt Webbskalsskydd;Niklas Fridell;Gunnar Fröderberg;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/3e65b1c080fffd6ac12579d70043e2b8?OpenDocument
+I64;SignApp inloggade kunder;Niklas Fridell;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/8406c0eb6f6d42b8c1257e2200266dcc?OpenDocument
+I66;Kodgranskning (Fortify);Tommy Källkvist;Tommy Källkvist;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/16b1a02f607b3f76c12579c2002c1234?OpenDocument
+I67;Backend-tjänst;Niklas Fridell;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/97ee6cdffb70209dc1257e2100489115?OpenDocument
+I69;Middleware (Notesmail);Tommy Källkvist;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/24c26348912a2b40c1257a1e00350b8a?OpenDocument
+I69DS02;Middleware för notesmail från Z/OS via JMS o WEBSPHERE/MQ;Tommy Källkvist;Tommy Källkvist;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/3a0badc58ed67516c1257ed800407b43?OpenDocument
+I70;Siteseeker;Roger Andersson;Selwa Bahram;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/3525bbb809ffcb3ec1257bc900471186?OpenDocument
+I70DS01;Elastic Search;Roger Andersson;Björn Blomberg;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/a97e291568b0d690c1257e5a003a3c33?OpenDocument
+I70DS02;Testfall för elastic search I70DS01;Roger Andersson;Björn Blomberg;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/19a04bac894a850ec1257ea6002d8e87?OpenDocument
+I71;Självservice Lösenord;Niklas Fridell;Amela Selmanovic Eriksson/FOL/SE;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/a00f38dbaf94cec3c1257f72003c0826?OpenDocument
+I73;Fasmodul mot IAM;Roger Andersson/FOL/SE;Selwa Bahram/FOL/SE;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/5c02f31a096aade5c125808200369940?OpenDocument
+I73DS01;Fasmodul mot IAM;Roger Andersson/FOL/SE;Selwa Bahram/FOL/SE;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/d368ec1d1f0d2e5ec125808200376bd2?OpenDocument
+I80;Folksam.se (Ramverk);Roger Andersson;Selwa Bahram;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/810f57bbef71cc7bc1257a1e0034f346?OpenDocument
+I80DS01;Dobermans koncept utveckling;Roger Andersson;Björn Blomberg;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/5fdbab22d0c1f6d3c1257e6d0042196b?OpenDocument
+I81;Clearcase;Tommy Källkvist;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/17353e9486cddc62c1257a1e0034b6b2?OpenDocument
+I82;Internetkontoret (Mina sidor);Roger Andersson;Selwa Bahram;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/626d6febee04e32ac125784d0029391a?OpenDocument
+I82DS05;Teckna motorförsäkring;Roger Andersson;Selwa Bahram;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/ee6036df0788fbedc125788500429a5f?OpenDocument
+I82DS06;Teckna djurförsäkring;Roger Andersson;Selwa Bahram;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/5449b323d9dec86ac12578850042ce05?OpenDocument
+I82DS07;Core Tecknaflödena;Roger Andersson;Selwa Bahram;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/0a1d5d0c1fcbb725c12578850042d675?OpenDocument
+I82DS08;Teckna boendeförsäkring;Roger Andersson;Selwa Bahram;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/b30517e065c277c0c1257895003d632a?OpenDocument
+I82DS10;Tecknaflöde Personförsäkring - Risk;Roger Andersson;Selwa Bahram;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/481c8424209d88f1c12578f40029645e?OpenDocument
+I82DS50;Textadministration;Roger Andersson;Selwa Bahram;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/e3e282b3971d32aac12579f7004c6591?OpenDocument
+I82DS51;Signering (e-leg);Roger Andersson;Selwa Bahram;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/939fd59a86f38520c1257bd500495b49?OpenDocument
+I83;APSIS;Roger Andersson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/00b7c0ba7ae4e3bcc1257da100498857?OpenDocument
+I84;Webbdatabas;Roger Andersson;Selwa Bahram;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/cdfa3a78da7948a5c125784d002937fd?OpenDocument
+I84DS02;Mobila skadewebben;Roger Andersson;Selwa Bahram;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/c7d21e631f074e16c1257b50004f16e4?OpenDocument
+I84DS03;Webbanmälan för cykelskador;Roger Andersson;Selwa Bahram;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/548e5d5975855b51c1257d720038bfaa?OpenDocument
+I84DS04;Nya Skadeingången;Roger Andersson;Selwa Bahram;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/b42f9f7224c2e58fc1257f34003462bc?OpenDocument
+I84DS05;Accessa karta till närmsta verkstad;Roger Andersson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/401856bfb7477739c1257dda0040d1ce?OpenDocument
+I84DS06;Webbanmälan för försenat bagage;Roger Andersson;Selwa Bahram;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/98a339fbbb6d44afc1257f3400398d26?OpenDocument
+I84DS07;Webbanmälan för mobilskador;Roger Andersson;Selwa Bahram;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/1316b9e466f5e2c7c1257f34003aadf3?OpenDocument
+I84DS08;Generell enskild sakskadeanmälan;Roger Andersson;Selwa Bahram;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/1428e13fadb49598c1257f34003cfe64?OpenDocument
+I84DS09;Generell flersakskadeanmälan;Roger Andersson;Selwa Bahram;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/67dbd07227b4e6fbc1257f34003c5ecc?OpenDocument
+I84DS10;Generella backend-komponenter för Webbskadeanmälningar;Roger Andersson;Selwa Bahram;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/2e64e1cea5cef6a7c1257f34003b6870?OpenDocument
+I84DS11;Generell Y75-kommunikation;Roger Andersson;Selwa Bahram;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/835e677cacc577b7c1257f34003367af?OpenDocument
+I84DS12;Generell PDB-kommunikation;Roger Andersson;Selwa Bahram;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/1e6e691b2f60eae3c1257f340033e566?OpenDocument
+I84DS13;Generell Edok-kommunikation;Roger Andersson;Selwa Bahram;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/03ca8328d863bd91c1257f34003dfd2b?OpenDocument
+I84DS20;Webbkampanjer;Roger Andersson;Selwa Bahram;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/18783177c14d0496c1257f76005061dd?OpenDocument
+I85;Polopoly;Roger Andersson;Selwa Bahram;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/17b7fa3a3611b788c125784d002937fe?OpenDocument
+I85DS02;Polopoly CMS;Roger Andersson;Selwa Bahram;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/cf3586bce1fe5e38c1257b75002db80e?OpenDocument
+I85DS03;Externa sajter;Roger Andersson;Selwa Bahram;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/b4e253b1c2252a81c1257c44005ce137?OpenDocument
+I85DS04;Folk1;Roger Andersson;Selwa Bahram;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/fd19e73b9d7a0c01c1257c44005d2103?OpenDocument
+I85DS05;MIS;Roger Andersson;Selwa Bahram;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/7883b31d43c20a89c1257c5b003e8620?OpenDocument
+I85DS07;Bilhandlarwebb;Roger Andersson;Selwa Bahram;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/acff5c9593789008c1257c5b003f9cd0?OpenDocument
+I85DS08;Tre Kronors intranät;Roger Andersson;Selwa Bahram;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/e819bc90c3967d76c1257c5b003f59ec?OpenDocument
+I85DS09;Tre Kronors webb;Roger Andersson;Selwa Bahram;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/9a906ff3a2ede4ecc1257c5b003ef0d6?OpenDocument
+I85DS10;Redaktörsgränssnitt Polopoly;Roger Andersson;Selwa Bahram;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/0bb2ac3b4d9d29a2c1257c44005d47c0?OpenDocument
+I85DS11;Nya Folksam.se;Roger Andersson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/e6bff2d00f949e71c1257dda00355e4d?OpenDocument
+I85DS12;Testdokument och test av folksam.se;Roger Andersson;Björn Blomberg;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/8a9c74d67756468dc1257ea60039be1c?OpenDocument
+I85DS13;Contentmanager;Roger Andersson;Selwa Bahram;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/f9a07b8fb1b3c48bc1257f01004a04db?OpenDocument
+I85DS14;Contentdelivery;Roger Andersson;Selwa Bahram;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/45a7ededd7469649c1257f0100494aba?OpenDocument
+I85DS15;Nya intern.3kronro.se;Roger Andersson;Selwa Bahram;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/11079eee910f4237c1257f990041f780?OpenDocument
+I85DS16;Nya 3kronor.se;Roger Andersson;Selwa Bahram;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/92da07e3786addb4c1257f9900416bc7?OpenDocument
+I88DS01;Webbgränssnitt ITJP;Roger Andersson;Selwa Bahram;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/9294de5b562e9106c1257bd400242423?OpenDocument
+I88DS02;Tjänstesystem webb-inca;Roger Andersson;Selwa Bahram;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/c7d2e9ac35043fb3c1257d720027b05e?OpenDocument
+I89;Tjänster upphandlade av Digitala kanaler;Roger Andersson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/c632cc289f6938a5c1257da1003fcf11?OpenDocument
+I89DS01;Adm-system för kostnadsuppföljning;Roger Andersson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/566e121131a7b8d2c1257da100450f5d?OpenDocument
+I89DS02;Trafikbarometern;Roger Andersson;Selwa Bahram;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/f381cad9efdc73fbc1257dfe0033ffaa?OpenDocument
+I89DS03;media.folksam.se;Roger Andersson;Selwa Bahram;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/6ad4c9923ff58a3ec1257e0d004469d8?OpenDocument
+I89DS04;Webbanalys;Roger Andersson;Björn Blomberg;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/80764ae114af82c0c1257eb600396de0?OpenDocument
+I89DS05;Webbanalys;Roger Andersson;Björn Blomberg;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/b19ed6736b524eacc1257eb60037548f?OpenDocument
+I89DS06;Geografisk översikt Storskador;Rober Andersson;Selwa Bahram;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/2dcf25930fb05e67c1257f5500470ac0?OpenDocument
+I90;SFTP;Maja Panova;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/600305f2ebffee05c1257f9d003e9b9c?OpenDocument
+J05;Debiteringssystem;Ulf Pettersson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/9021be261d8eed60c1257a1e0033f914?OpenDocument
+J11;Itext;Jörgen A Larsson;Agnetha Lönnroos/FOL/SE;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/b4ed1a3ef8546dcfc125784d00293807?OpenDocument
+J11DS01;PDF;Jörgen A Larsson;Agnetha Lönnroos/FOL/SE;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/7d25281c5be13be2c1257a1e0033df69?OpenDocument
+J12;Printserver;Ulf Pettersson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/c0450e6d17e8f904c1257a1e00339c71?OpenDocument
+J13;Trycksakssystem GKS3;Pär Elmqvist/FOL/SE;Mattias Soneby/FOL/SE;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/483ed097686dd50fc125797a0052233f?OpenDocument
+J14;JES Connect;Ulf Pettersson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/04c42767f30717ebc1257bb7003fe5e5?OpenDocument
+J16;Cumulus;Roger Andersson;Selwa Bahram;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/f7749477064718f2c125784d00293809?OpenDocument
+J17;Repository texter i villkorshandlingar;Jörgen A Larsson;Catarina Sörensen;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/99f01a4598d723e6c1257cc4002b97ba?OpenDocument
+J25;Print2PDF;Ulf Pettersson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/02b4bc69d178639ec125798300420a3c?OpenDocument
+J25DS01;Print2PDF - webbtjänst;Ulf Pettersson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/10b619e24ba9b46cc12579830042323d?OpenDocument
+J25DS02;"Print2PDF - ""printer""";Joakim Jernberg;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/7e7c6ffd315ab4ecc125798300425ed9?OpenDocument
+J50;Utskriftredigering -Apios;Jörgen A Larsson;Maria Beiron/FOL/SE;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/6386dc7e985eb738c1257a1e00334e38?OpenDocument
+J60;Redigeringsmotor;Jörgen A Larsson;Maria Beiron/FOL/SE;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/21755a337826c2afc125796e0041fe4c?OpenDocument
+J80;Generella utskriftskomponenter;Jörgen A Larsson;Maria Beiron/FOL/SE;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/3587a6dd332631bbc1257979004f08ef?OpenDocument
+J90;Treffutskrifter;Spiros Spiropoulos;Huong Lam;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/bb14d55bb36fdd07c1257a1e0032b888?OpenDocument
+K01;Manuell registrering;Annsofi Viklund;Cecilia Brick;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/fe7b7af21406a421c125797b002af8e4?OpenDocument
+K50;Hantering av byggskador;Anders Knutsson/Konsult/FOL/SE;Mikael Nyström;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/c04e7f07f0004728c1257b3a00365c27?OpenDocument
+K51;Tjänst mot externt bolag;Anders Knutsson/Konsult/FOL/SE;Mikael Nyström;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/09f08678a87a0e56c1257e22002ac1c0?OpenDocument
+K60;Sakskador (Båtskador);Anders Knutsson/Konsult/FOL/SE;Mikael Nyström;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/913b4cd4e38f5b9bc125784d0029387a?OpenDocument
+K61;Sakskador (Båtskador);Anders Knutsson/Konsult/FOL/SE;Mikael Nyström;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/b59c3dbb515849a4c125797f0049c7c8?OpenDocument
+K63;Sakskador (Båtskador);Anders Knutsson/Konsult/FOL/SE;Mikael Nyström;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/5fc2b9cd52f97076c125797f0049c9cd?OpenDocument
+K80;Winbygg;Anders Knutsson/Konsult/FOL/SE;Mikael Nyström;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/56a163f68a76a8f7c125784d0029387c?OpenDocument
+K80DS02;Winbygg - behörigheter;Anders Knutsson/Konsult/FOL/SE;Mikael Nyström;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/2252ae5a1da5df1ac1257b11002943b6?OpenDocument
+K84;PSS Wordmallar;Anders Knutsson/Konsult/FOL/SE;Mikael Nyström;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/edba76c620e05846c1257af4003402f4?OpenDocument
+K85;PSS;Anders Knutsson/Konsult/FOL/SE;Mikael Nyström;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/2c7480d864d88094c125784d0029387d?OpenDocument
+K85DS01;PSS .Net;Anders Knutsson/Konsult/FOL/SE;Mikael Nyström;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/1c82f58e8df834a5c1257e4d0036897d?OpenDocument
+KA0;Slutberäkning (BERS);Spiros Spiropoulos;Huong Lam;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/5c3693d80c8eda49c125784d002938c3?OpenDocument
+KA1;Slutberäkning (BOB);Spiros Spiropoulos;Huong Lam;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/b6913c1827e46d7cc125784d002938c6?OpenDocument
+KA2;Beräkningsunderlag (BURS);Spiros Spiropoulos;Huong Lam;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/dad50d6a550bcb15c125784d002938c5?OpenDocument
+KA3;Bevakning pensionsärenden (BIB);Spiros Spiropoulos;Huong Lam;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/4ca3d34642f4ad42c125784d002938c4?OpenDocument
+KA4;Lagring förmåner (IPR och Årsliv);Spiros Spiropoulos;Huong Lam;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/943f15d4479b5322c125784d002938c7?OpenDocument
+KA5;Delfinansiering (Delfin);Spiros Spiropoulos;Huong Lam;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/3153c2c51ba880d0c125784d002938ca?OpenDocument
+KA6;Fakturering arbetsgivarkund (HMFakt);Spiros Spiropoulos;Huong Lam;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/797743c59f4eb002c125784d002938a4?OpenDocument
+KA7;Arbetsgivarkunder (HMREG);Spiros Spiropoulos;Huong Lam;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/d0e2220798939680c125784d0029389d?OpenDocument
+KA8;Inrapportering BURS/Treff/PV (Inrapp);Spiros Spiropoulos;Huong Lam;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/19951fce852188c5c125784d002938a8?OpenDocument
+KA9;Kund- och avtalssystem (KAS-1);Spiros Spiropoulos;Huong Lam;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/f5643cbd5e87a324c125784d0029389e?OpenDocument
+KAA;Juridisk person (KAS Kund);Spiros Spiropoulos;Huong Lam;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/f5b1e5058a66835dc125784d002938a0?OpenDocument
+KAB;Kundavtal (KAS);Spiros Spiropoulos;Huong Lam;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/033f343a89a450bcc125784d0029389f?OpenDocument
+KAC;Tjänste/produktregister (KAS Produkt);Spiros Spiropoulos;Huong Lam;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/3ed2fb61f0937632c125784d002938a1?OpenDocument
+KAD;Kostnadsbidrag (KBR);Spiros Spiropoulos;Huong Lam;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/cb02c5a8a5d02d79c125784d002938d1?OpenDocument
+KAE;Planering/ärendehantering (Planär/Plupp);Spiros Spiropoulos;Huong Lam;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/5676a25130a0bb4ac125784d002938a7?OpenDocument
+KAF;Pensionsskuld (P-skuld MF);Spiros Spiropoulos;Huong Lam;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/db65b5822778263ac125784d002938a5?OpenDocument
+KAG;Beräkning TP/PP/TGL (PUB);Spiros Spiropoulos;Huong Lam;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/f106b116a5b5dbbfc125784d002938bc?OpenDocument
+KAH;Pensionsvalet (individ) (PV/KO);Spiros Spiropoulos;Huong Lam;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/f49af0f7ce1fae8bc125784d002938bd?OpenDocument
+KAHDS01;PV flytträtt;Marie C Karlsson;Dennis Linder/KPA/FOL/SE;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/14582cecf66dc5f1c1257a8e00450c6e?OpenDocument
+KAHDS04;PVValcentralService;Marie C Karlsson;Dennis Linder/KPA/FOL/SE;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/b60afac09174a602c1257b980049f2f0?OpenDocument
+KAI;Grunddata individ (REF);Spiros Spiropoulos;Huong Lam;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/5ef1e5d94420c12ec125784d002938a6?OpenDocument
+KAJ;Fribrevshantering (SKP1);Spiros Spiropoulos;Huong Lam;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/12099afb7df2cc0dc125784d002938dd?OpenDocument
+KAK;Stödsystem stordator (STÖD);Spiros Spiropoulos;Huong Lam;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/2c6d5de9cf46dbbac125784d002938de?OpenDocument
+KAL;Anställning;Spiros Spiropoulos;Huong Lam;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/e6f590d667881a27c12578930039f56f?OpenDocument
+KALDS01;KPAAnställningStorageService;Marie C Karlsson;Dennis Linder/KPA/FOL/SE;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/16aca5ce58d83e02c1257bb7003a1dc9?OpenDocument
+KAM;Fortsättningsförsäkring TGL (Tyfon);Lennart Rosberg;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/d6d6264863e91d34c125784d002938c1?OpenDocument
+KAN;Löneskatt;Marie C Karlsson;Dennis Linder/KPA/FOL/SE;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/793bd7a9f623d3a4c1257a1e00323808?OpenDocument
+KAO;Premiebestämd förmån (FÖRMÅN);Spiros Spiropoulos;Huong Lam;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/a4d16723aa728aa7c12579a400401a67?OpenDocument
+KD0;Offertberäkningssystem (Offert);Spiros Spiropoulos;Huong Lam;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/e0e271f811d3fd94c125784d002938a9?OpenDocument
+KD1;Försäkringssystem (Treff);Spiros Spiropoulos;Huong Lam;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/48bb975ae0fad137c125784d002938aa?OpenDocument
+KE2;Pensionsportalen MIP.SE;Spiros Spiropoulos;Huong Lam;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/576eb5221ae61e63c125784d002938d2?OpenDocument
+KE4;RACF-rapporter;Lennart Rosberg;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/0b19bb3f43a0b93ac125784d002938d9?OpenDocument
+KE5;TGL-avtal (Bravo);Lennart Rosberg;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/0c25c9a64920e359c125784d002938be?OpenDocument
+KE6;Försäkringstagarregister (GLF);Lennart Rosberg;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/4ce5f36bde20cd2bc125784d002938bf?OpenDocument
+KE7;Dino/Livvakten (DW);Lennart Rosberg;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/994059a43b480915c125784d002938cb?OpenDocument
+KEA;PV Värdebesked;Spiros Spiropoulos;Huong Lam;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/2b96ee102f4b54aec125786c00219606?OpenDocument
+KEADS01;PVVärdebeskedStorageService;Marie C Karlsson;Dennis Linder/KPA/FOL/SE;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/b51a2e0dbd8644b9c1257b98004a4400?OpenDocument
+KEB;Omställningsfonden;Lennart Rosberg;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/91d4ddc5842395b1c1257c0b00421f49?OpenDocument
+KEC;Säljstödssystem (Abalon/Sellplan);Lennart Rosberg;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/fd437ade19693e07c125784d002938c2?OpenDocument
+KED;Scanningssystem (Cyklop);Lennart Rosberg;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/85f9f1985d96c922c125784d002938c9?OpenDocument
+KEE;Kundreskontra för KPA;Lennart Rosberg;Lennart Rosberg;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/ef55bec946a47034c1257c9e00313ad5?OpenDocument
+KEF;Inscanning (Comprima);Lennart Rosberg;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/f25ff87b6d5a9a62c125784d002938c8?OpenDocument
+KEG;Scanning och lagring (HL);Lennart Rosberg;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/a428b2c9ca31bd74c125784d002938cd?OpenDocument
+KEI;Kundreskontra (IFS);Lennart Rosberg;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/671b94cee1a48afbc125784d002938cf?OpenDocument
+KEJ;Dödsfall TGL (Kurir);Lennart Rosberg;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/94fbb2e577f4fdc8c125784d002938c0?OpenDocument
+KEK;Scanningssystem (Monokel);Lennart Rosberg;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/55da13bc43207beec125784d002938d7?OpenDocument
+KEL;Kontohanteringssystem (RBS);Lennart Rosberg;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/9450f58255c6f1f2c125784d002938da?OpenDocument
+KEM;Mallsystem Word (OfficeKey);Lennart Rosberg;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/6b4572e4adf47d60c125784d002938d8?OpenDocument
+KEN;Printfiler PUB;Spiros Spiropoulos;Huong Lam;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/2ecc61e1bf698acbc1257880004665cc?OpenDocument
+KEO;Kalkylprogram aktuarier (MathCad);Lennart Rosberg;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/8b783c4e5952b9b2c125784d002938d6?OpenDocument
+KEP;Flextidshantering (Flex);Lennart Rosberg;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/b00a1b4699dcb3f6c125784d002938cc?OpenDocument
+KEQ;Diverse Ramverktjänster;Marie C Karlsson;Dennis Linder/KPA/FOL/SE;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/3e7e28578c8a9109c1257b78002fd9e6?OpenDocument
+KER;KPAFilhanteringStorageService;Marie C Karlsson;Dennis Linder/KPA/FOL/SE;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/33d245666bdd0665c1257b78002fb72b?OpenDocument
+KES;KPAMessageStorageService;Marie C Karlsson;Dennis Linder/KPA/FOL/SE;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/49247b4ab3dda0cec1257b78002f4d15?OpenDocument
+KESDS01;KPASendMailBatch;Marie C Karlsson;Dennis Linder/KPA/FOL/SE;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/024bc19036a481e2c1257b81004bf93f?OpenDocument
+KEV;KPAUtskriftfilParserService;Marie C Karlsson;Dennis Linder/KPA/FOL/SE;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/a19ca8f76f996676c1257b7c003ce1d7?OpenDocument
+KF0;Ekonomisystem;;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/e782c3750c4270adc1257a1e0032167f?OpenDocument
+KF2;Brev;;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/97bdd871957a494dc1257a1e0031fd32?OpenDocument
+KF4;Tilläggspension (A KTP);Lennart Rosberg;Gunilla Molin;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/f842da1c6f897cfdc125784d002938e1?OpenDocument
+KF5;Tilläggspension (A KTP 1987);Lennart Rosberg;Gunilla Molin;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/08fb3f5542c9ac87c125784d002938e2?OpenDocument
+KF6;Kollektivavtalad tilläggspension (A KTP FTU);Lennart Rosberg;Gunilla Molin;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/07175adb6335aabcc125784d002938e3?OpenDocument
+KF7;Aktuariellt informationsuttag (A KTP AIU);Lennart Rosberg;Gunilla Molin;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/9fad640f0a9241a5c125784d002938e4?OpenDocument
+KF9;Debitering (A KTP Deb);Lennart Rosberg;Gunilla Molin;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/6ec128a4ed7ce2eec125784d002938e6?OpenDocument
+KFA;Försäkringstagare (B FTA);Lennart Rosberg;Gunilla Molin;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/e48124a89fc149fac125784d002938e7?OpenDocument
+KFB;Utbetalning (C UTB);Lennart Rosberg;Gunilla Molin;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/769b0da9b79c914dc125784d002938e8?OpenDocument
+KFC;Utbetalning (C UTB 1997);Lennart Rosberg;Gunilla Molin;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/544525cd9af305efc125784d002938e9?OpenDocument
+KFD;Fakturering (D FAKT);Lennart Rosberg;Gunilla Molin;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/a794b087749ee169c125784d002938ea?OpenDocument
+KFE;Avräkning (D AVR);Lennart Rosberg;Gunilla Molin;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/d4e9fee5579064e0c125784d002938eb?OpenDocument
+KFF;Debitering premier/avgifter (D DPA);Lennart Rosberg;Gunilla Molin;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/2037e261e683628cc125784d002938ec?OpenDocument
+KFG;Företagsanknutna medel (D FAM);Lennart Rosberg;Gunilla Molin;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/dcd68199911739efc125784d002938ed?OpenDocument
+KFH;Stiftelse (D STIFT);Lennart Rosberg;Gunilla Molin;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/d87565bce485d861c125784d002938ee?OpenDocument
+KFI;Särskild tilläggspension (E STPK);Lennart Rosberg;Gunilla Molin;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/72d8404f45bf5ef8c125784d002938ef?OpenDocument
+KFJ;Egenpension (F EGP);Lennart Rosberg;Gunilla Molin;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/2b4aec0aec116ea8c125784d002938f0?OpenDocument
+KFK;Trygghetsavtal (G THA);Lennart Rosberg;Gunilla Molin;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/d618c53cdba99d61c125784d002938f1?OpenDocument
+KFL;Gruppliv (H GLU);Lennart Rosberg;Gunilla Molin;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/25cbfff9c31b6b77c125784d002938f2?OpenDocument
+KFM;Kundinformation (I INFO);Lennart Rosberg;Gunilla Molin;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/700ea877d20d6f16c125784d002938f3?OpenDocument
+KFN;Kundutskrifter (I INFO Utskrifter);Lennart Rosberg;Gunilla Molin;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/c57c5dfbd1dfaa05c125784d002938f4?OpenDocument
+KFP;Allbrev (I INFO Allbrev);Lennart Rosberg;Gunilla Molin;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/2c346a8b6db43cfdc125784d002938f6?OpenDocument
+KFQ;Maskinella mallbrev (I INFO Mallbrev);Lennart Rosberg;Gunilla Molin;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/e20c78761045dfa9c125784d002938f7?OpenDocument
+KFR;Kundinformation (K KUND);Lennart Rosberg;Gunilla Molin;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/d4bd21f325040a68c125784d002938f8?OpenDocument
+KFS;Försäkringskassan (K FK);Lennart Rosberg;Gunilla Molin;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/02c8f89e0a29d71bc125784d002938f9?OpenDocument
+KFT;Försäkringskassan (K RFV2);Lennart Rosberg;Gunilla Molin;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/f597036fa4d044dec125784d002938fc?OpenDocument
+KFU;Riksförsäkringsverket (K RFV1);Lennart Rosberg;Gunilla Molin;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/aeadb3fbe09c80c6c125784d002938fa?OpenDocument
+KFV;Personuppgifter (K PRS);Lennart Rosberg;Gunilla Molin;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/b2d338551aaf1e4cc125784d002938fb?OpenDocument
+KFW;Rådgivning (K RÅDG);Lennart Rosberg;Gunilla Molin;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/d719c54b96194ddfc125784d002938fd?OpenDocument
+KFX;Särskild upplysning (K SUPL);Lennart Rosberg;Gunilla Molin;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/a80b8710c533b168c125784d002938fe?OpenDocument
+KFY;Ekonomi (L EKO);Lennart Rosberg;Gunilla Molin;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/44ace844d0994928c1257865002c3c6a?OpenDocument
+KFZ;Adresser (N ATT);Lennart Rosberg;Gunilla Molin;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/2035e1763fdd442ac125784d00293900?OpenDocument
+KG0;Gamla KTP-bilder (N KTP);Lennart Rosberg;Gunilla Molin;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/7d89cbc9e33eba2cc125784d00293901?OpenDocument
+KG1;Elektroniskt dokumentarkiv (P REDA);Lennart Rosberg;Gunilla Molin;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/30490bdad122557ec125784d00293902?OpenDocument
+KG2;Inrapportering inkomstuppgifter (R RAP);Lennart Rosberg;Gunilla Molin;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/07a3bd9a38aa70bec125784d00293903?OpenDocument
+KG4;Verksamhetsregler (TX REGEL);Lennart Rosberg;Gunilla Molin;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/d8934b5394318ce3c125784d00293905?OpenDocument
+KG5;Andelsadministration (U ULMS);Lennart Rosberg;Gunilla Molin;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/dad5378f2450cfb3c125784d00293906?OpenDocument
+KG7;Avtalspension (V KAP);Lennart Rosberg;Gunilla Molin;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/c345ba5984e5b38ac125784d00293908?OpenDocument
+KG8;Webbehörighet (W BEH);Lennart Rosberg;Gunilla Molin;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/0f917a5fc1cf8b54c125784d00293909?OpenDocument
+KG9;Externa kopplingar (W EXT);Lennart Rosberg;Gunilla Molin;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/37ee508c694876a7c125784d0029390a?OpenDocument
+KGB;Internettjänster arbetsgivare (W KP ABG);Lennart Rosberg;Gunilla Molin;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/66a53381c1cbe7d3c125784d0029390c?OpenDocument
+KGC;Internettjänster individer (W KP IND);Lennart Rosberg;Gunilla Molin;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/e4d1bc51e2921e35c125784d0029390d?OpenDocument
+KGE;Flytt (X FLYTT);Lennart Rosberg;Gunilla Molin;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/5ff7eb2e7f8d3a6bc125784d0029390f?OpenDocument
+KGF;Generella stödsystem (X GEN);Lennart Rosberg;Gunilla Molin;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/e7bc3e1794ed14d9c125784d00293910?OpenDocument
+KGG;Jobbhantering iSeries (X JOB);Lennart Rosberg;Gunilla Molin;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/5dc5733e6ea85be9c125784d00293911?OpenDocument
+KGI;Loggningssystem (Z LOGG);Lennart Rosberg;Gunilla Molin;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/fccd5c284b31613bc125784d00293916?OpenDocument
+KGJ;Transkodshanterare (X TRK);Lennart Rosberg;Gunilla Molin;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/bcd081de93726700c125784d00293914?OpenDocument
+KGK;Sökmotorer (X SÖK);Lennart Rosberg;Gunilla Molin;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/9077b70ad469c4bbc125784d00293915?OpenDocument
+KGL;Systeminloggning (iSeries);Lennart Rosberg;Gunilla Molin;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/0a45687be8f8c50bc1257865002b6d3f?OpenDocument
+KGM;Bure;Lennart Rosberg;Gunilla Molin;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/e4d06ec431927d59c1257a1e0031e384?OpenDocument
+KGO;Content Manager (CM);Lennart Rosberg;Gunilla Molin;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/fa8cbd9aa513c5efc1257865002b5802?OpenDocument
+KGP;CA-2E Div Prod (avtal 980304);Lennart Rosberg;Gunilla Molin;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/26a2ec5898c6e538c1257d81002a5417?OpenDocument
+KGQ;Utskriftshantering (iSeries);Lennart Rosberg;Gunilla Molin;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/e0630fbb46f39b9fc1257865002b7ce6?OpenDocument
+KGR;Specialfunktioner (TN Bridge);Lennart Rosberg;Gunilla Molin;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/54173257134fa4c3c1257865002b8d7e?OpenDocument
+KGS;TN Bridge Int Pack;Lennart Rosberg;Gunilla Molin;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/ad28e55549baa49ac1257865002be389?OpenDocument
+KGT;Excelkonverterare (Excel-erator);Lennart Rosberg;Gunilla Molin;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/94d965f34380d6e7c1257865002c036d?OpenDocument
+KGU;Filkonverterare (Spoolamatic);Lennart Rosberg;Gunilla Molin;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/fc56caa90558a1b2c1257865002c1daf?OpenDocument
+KGV;Doc1;Lennart Rosberg;Gunilla Molin;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/5dc65605133f1f74c1257a1e0031c4d1?OpenDocument
+KGW;Testdataframställning (X NYX);Lennart Rosberg;Gunilla Molin;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/2bb48edc8a8713fcc125784d00293913?OpenDocument
+KGY;CA-2E 400 Toolkit;Lennart Rosberg;Gunilla Molin;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/1577bbf01c7a84bec1257d81002af4e3?OpenDocument
+KGZ;KPAImportService/KPAExportService;Marie C Karlsson;Dennis Linder/KPA/FOL/SE;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/e94ba49e96d45906c1257bb700403f3f?OpenDocument
+KI0;KPA Hemsida;Marie C Karlsson;Dennis Linder/KPA/FOL/SE;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/76449fdba47b406ec125784d002938b0?OpenDocument
+KI1;PV Hemsida;Marie C Karlsson;Dennis Linder/KPA/FOL/SE;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/16f2ed7b3c1dc7cbc125784d002938ba?OpenDocument
+KI2;PV Extranät;Marie C Karlsson;Dennis Linder/KPA/FOL/SE;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/0cd412cfa4cbb382c125784d002938b9?OpenDocument
+KI2DS01;PVAvstämningslistorBatch;Marie C Karlsson;Dennis Linder/KPA/FOL/SE;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/b19635a1457e7b17c1257b7c003b422c?OpenDocument
+KI2DS02;PVBeställningarBatch;Marie C Karlsson;Dennis Linder/KPA/FOL/SE;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/509b6921eb8b7682c1257b7c003b7bd9?OpenDocument
+KI2DS03;PVPensionsavgifterBatch;Marie C Karlsson;Dennis Linder/KPA/FOL/SE;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/89e408b060adec7ac1257b7c003bb0b0?OpenDocument
+KI2DS04;Rapportfiler;Marie C Karlsson;Dennis Linder/KPA/FOL/SE;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/57fafd14c616a138c1257b7c003bde24?OpenDocument
+KI2DS05;PVExtranetStorageService;Marie C Karlsson;Dennis Linder/KPA/FOL/SE;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/088f5495425c9dd8c1257bb7003d894b?OpenDocument
+KI2DS06;PVExtranetUtilityService;Marie C Karlsson;Dennis Linder/KPA/FOL/SE;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/3724d1b3eb88f73ac1257bb7003db9f0?OpenDocument
+KI3;KPA Direkt;Marie C Karlsson;Dennis Linder/KPA/FOL/SE;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/7b209cb5eb15d557c125784d002938af?OpenDocument
+KI3DS01;P-skuld (webb);Marie C Karlsson;Dennis Linder/KPA/FOL/SE;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/69658d66fb8c5ed4c12579ba004fdb9a?OpenDocument
+KI3DS02;KPA Direkt Handbok;Marie C Karlsson;Dennis Linder/KPA/FOL/SE;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/77ca7c8a3f9f4637c12579ba005013ed?OpenDocument
+KI3DS03;Pension Direkt (webb);Marie C Karlsson;Dennis Linder/KPA/FOL/SE;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/d10e98fe2a763835c12579ba005031f6?OpenDocument
+KI3DS04;KPAMaskinelltEpostutskickBatch;Marie C Karlsson;Dennis Linder/KPA/FOL/SE;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/50c7d9478d1913e3c1257b7c0039d5dc?OpenDocument
+KI3DS05;KPAPlanarBatch;Marie C Karlsson;Dennis Linder/KPA/FOL/SE;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/01cec315bd6d3e46c1257b7c00391b5c?OpenDocument
+KI3DS06;KPA.Arbetsgivare.TreffInrapportering.Batch;Marie C Karlsson;Dennis Linder/KPA/FOL/SE;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/97e3a35e7a710ee9c1257b7c003a314c?OpenDocument
+KI3DS07;KPASignallistorBatch;Marie C Karlsson;Dennis Linder/KPA/FOL/SE;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/870e1e1b7fb9f6d9c1257b7c003ad3dc?OpenDocument
+KI3DS08;KPAHandbokSecurityService;Marie C Karlsson;Dennis Linder/KPA/FOL/SE;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/0bc41d2fd4d72b06c1257bcc002a72f0?OpenDocument
+KI3DS09;KPAPensionDirektSecurityService;Marie C Karlsson;Dennis Linder/KPA/FOL/SE;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/642cd8690dcad98ec1257bcc002acfdb?OpenDocument
+KI3DS10;KPAPensionDirektStorageService;Marie C Karlsson;Dennis Linder/KPA/FOL/SE;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/e40205c4cfe6dd11c1257bcc002b301d?OpenDocument
+KI3DS11;KPAPlanarStorageService;Marie C Karlsson;Dennis Linder/KPA/FOL/SE;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/8c79655a77a0cd11c1257bcc002b6cf2?OpenDocument
+KI3DS12;KPADirektStorageService;Marie C Karlsson;Dennis Linder/KPA/FOL/SE;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/ee359730dec32df1c1257bd5004c3f58?OpenDocument
+KI5;KPA Intranät;Marie C Karlsson;Dennis Linder/KPA/FOL/SE;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/4c10c6a6dd55aed5c125784d002938b1?OpenDocument
+KI6;Inrapportering BURS/Treff/PV (Admin);Spiros Spiropoulos;Huong Lam;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/48e85daf1b7e8691c12578650029b397?OpenDocument
+KI6DS01;InrapporteringNotificationEmailBatch;Marie C Karlsson;Dennis Linder/KPA/FOL/SE;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/fb69f7e588cb788dc1257b7c00397a26?OpenDocument
+KI6DS02;KPAInrapporteringStorageService;Marie C Karlsson;Dennis Linder/KPA/FOL/SE;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/d3ed3d11c43213aac1257bb7003a6b9d?OpenDocument
+KI6DS03;KPA Inrapportering OPFKL Service;Marie C Karlsson;Dennis Linder/KPA/FOL/SE;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/c707ec801948b0a9c1257d85004d3fbe?OpenDocument
+KI7;Administration (KAS Webb);Spiros Spiropoulos;Huong Lam;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/6da7824aeb463166c125784d002938a2?OpenDocument
+KI7DS01;KPAKASStorageService;Marie C Karlsson;Dennis Linder/KPA/FOL/SE;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/0bee708626446bc5c1257bb7003aec62?OpenDocument
+KI7DS02;KPAKASExternStorageService;Marie C Karlsson;Dennis Linder/KPA/FOL/SE;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/0bc1259d384eceb6c1257bb7003b3271?OpenDocument
+KI8;Plupp;Marie C Karlsson;Dennis Linder/KPA/FOL/SE;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/7e2c285b90eba67fc125784d00293917?OpenDocument
+KI8DS01;PluppExcel;Marie C Karlsson;Dennis Linder/KPA/FOL/SE;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/28242b9d68b2bde6c1257b81004976c0?OpenDocument
+KIG;PUB-signaler;Marie C Karlsson;Dennis Linder/KPA/FOL/SE;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/4c24311f82e4c5f1c125784d002938b7?OpenDocument
+KII;UPP;Marie C Karlsson;Dennis Linder/KPA/FOL/SE;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/2fc4316579938bacc125784d002938bb?OpenDocument
+KIM;KPA Admin;Marie C Karlsson;Dennis Linder/KPA/FOL/SE;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/1b2ddb28d4bc1d8bc125786b00245736?OpenDocument
+KIMDS01;KPAApplicationStorageService;Marie C Karlsson;Dennis Linder/KPA/FOL/SE;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/a10aec86bf2088b5c1257bb7003c399d?OpenDocument
+KIMDS02;KPAApplicationUserDomainStorageService;Marie C Karlsson;Dennis Linder/KPA/FOL/SE;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/3c32ca767a88ac33c1257bb7003c7869?OpenDocument
+KIMDS03;KPALoggingStorageService;Marie C Karlsson;Dennis Linder/KPA/FOL/SE;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/29e5220cac4a759dc1257bb7003cf1b6?OpenDocument
+KIO;Textadministration;Marie C Karlsson;Dennis Linder/KPA/FOL/SE;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/ba8ceaeb694fa8d6c12578a1004d1f09?OpenDocument
+KIODS01;KPATextBusinessService;Marie C Karlsson;Dennis Linder/KPA/FOL/SE;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/5967b22e4894cee0c1257bb7003d1e08?OpenDocument
+KIODS02;KPATextStorageService;Marie C Karlsson;Dennis Linder/KPA/FOL/SE;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/c0549e25b49c4104c1257bb7003d45b5?OpenDocument
+KIQ;Pskuld Admin;Marie C Karlsson;Dennis Linder/KPA/FOL/SE;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/7db1aae2433e2e79c125789300395720?OpenDocument
+KIU;IKDB (Individkunddatabas);Marie C Karlsson;Dennis Linder/KPA/FOL/SE;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/9e50fddf2655ff13c12578a1003b68b1?OpenDocument
+KIW;Interna verktyg;Marie C Karlsson;Dennis Linder/KPA/FOL/SE;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/3da10019de865ec9c12579c70054ae0d?OpenDocument
+KIX;KPA Handbok;Marie C Karlsson;Dennis Linder/KPA/FOL/SE;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/2c508a28567badb5c12579c700547ad4?OpenDocument
+KIY;LPS Handbok;Marie C Karlsson;Dennis Linder/KPA/FOL/SE;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/c3b53daa1c39637dc12579c7005433d8?OpenDocument
+KIZ;KPA Mina sidor;Marie C Karlsson;Dennis Linder/KPA/FOL/SE;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/0244eb1ca619f1f6c1257b4b0049c306?OpenDocument
+KIZDS01;KPAEngaService;Marie C Karlsson;Dennis Linder/KPA/FOL/SE;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/7bfacec3c3f042d7c1257c0b003ba385?OpenDocument
+KIZDS02;KPAMinaSidorService;Marie C Karlsson;Dennis Linder/KPA/FOL/SE;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/6fb78a7950780daac1257c0b0042a9bd?OpenDocument
+KIZDS03;KPAMinaSidorKontaktlagerExportBatch;Marie C Karlsson;Dennis Linder/KPA/FOL/SE;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/7e020f1fba24380fc1257c0b0042dc50?OpenDocument
+KPP;Pensionsadminstration;Ann-Charlotte Altenburg;Anita Heed;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/c135522eae51717dc1257bb70040f15a?OpenDocument
+KSP;Pensionsadministration;Ann-Charlotte Altenburg;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/b4eb6ec82e394881c1257b75002a57c1?OpenDocument
+L00;Gemensamma funktioner;Susanne Källén;Susan Krüger;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/1f1ad62894badf15c125784d00293810?OpenDocument
+L00DS01;Integration;Susanne Källén;Susan Krüger;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/cd05a41eb847cbfdc12579de0041ab35?OpenDocument
+L00DS02;Integration;Susanne Källén;Susan Krüger;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/40e69b00165f0ef3c1257a75004a9a41?OpenDocument
+L00DS03;MQ-meddelanden;Susanne Källén;Susan Krüger;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/82f3c6996e00b0c4c1257a7900392471?OpenDocument
+L01;Produkt Liv;Mårten Marcus;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/9551152e8f8d7798c1257c47004aeb50?OpenDocument
+L04;LPS XML Schema;Annika Andersson/FOL/SE;Susan Krüger;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/d0e4195f0f3d0bf1c1257fc7002ce274?OpenDocument
+L09;Bokslut;Ulf Norström;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/e71ec1f9ebdc59adc1257a16004e1177?OpenDocument
+L12;Individuell tjänstepension (INCA);Jonas Unnerby;Elsa Haslum;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/3e1a18d9c5ad4504c1257aee0052537b?OpenDocument
+L13;Livräntor;Susanne Källén;Susan Krüger;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/7a3c9601093cd7a0c125784d00293811?OpenDocument
+L14;Tjänster för FoLo;Susanne Källén;Susan Krüger;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/c467ecd8a3181295c125807c003f9487?OpenDocument
+L25;Utskrift brev/listor;Susanne Källén;Susan Krüger;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/5acb13ac79b16b34c125784d00293812?OpenDocument
+L33;Riskbedömning/ärendehantering;Susanne Källén;Susan Krüger;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/2dc2e56aa4676d0fc125784d00293813?OpenDocument
+L35;Utbetalningar;Susanne Källén;Susan Krüger;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/82fd0194892a9e88c125784d00293814?OpenDocument
+L50;Statistik;Susanne Källén;Susan Krüger;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/940e1bdfaa7b71ecc125784d00293815?OpenDocument
+L50DS01;Livinformation i DW;Susanne Källén;Susan Krüger;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/bcc8341edba84b39c1257b110028fd54?OpenDocument
+L50DS02;Försäljningsstatistik;Susanne Källén;Susan Krüger;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/6187e07c80ee1cb3c1257b3a00553ec3?OpenDocument
+L73;Provisioner Liv;Sören Hedlund;Ann-Christine Nessling;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/51e5283484b0550ec125784d00293851?OpenDocument
+L80;Redovisning;Susanne Källén;Susan Krüger;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/7f694f994e10782bc125784d00293819?OpenDocument
+L81;Utfärdande;Susanne Källén;Susan Krüger;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/00829d8cdb9d083ec125784d0029381a?OpenDocument
+L82;Premieredovisning (nya);Susanne Källén;Susan Krüger;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/4cf2f62318fb50d0c125784d0029381b?OpenDocument
+L82Gamla;Premieredovisning (gamla);Susanne Källén;Susan Krüger;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/308b7a497429e28dc125784e00428b22?OpenDocument
+L85;Livoffert;Susanne Källén;Susan Krüger;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/eb2df27beb40dd56c125784d0029381c?OpenDocument
+L85DS01;Webblivoffert - gamla;Susanne Källén;Susan Krüger;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/95f88198dd77ee65c1257a1e00306543?OpenDocument
+L85DS02;Webblivoffert- nya;Susanne Källén;Susan Krüger;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/391138d7a424611ac1257ad40033fcb7?OpenDocument
+L85DS03;Livoffert (PB);Susanne Källén;Susan Krüger;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/833ef125973a93fdc1257b0f005144ab?OpenDocument
+L85DS04;Livoffert Folksamplan;Susanne Källén;Susan Krüger;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/b9017ee8f548068bc1257b0f0051b3c3?OpenDocument
+L85DS05;Livoffert Pipeline;Susanne Källén;Susan Krüger;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/11b3015d843f752dc1257b0f0051fa7e?OpenDocument
+L85DS10;Dok. av ansökan för tjänstepensionplan;Susanne Källén;Susan Krüger;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/0989441c5d0ba57dc1257eee00359723?OpenDocument
+L85DS20;Livoffert Multiuser;Susanne Källén;Susan Krüger;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/27faf4d4cff2cfbec1257b0f00522b7d?OpenDocument
+L86;Ändring;Susanne Källén;Susan Krüger;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/60eb11e54e531aebc125784d0029381d?OpenDocument
+L87;Avtalsunderhåll;Susanne Källén;Susan Krüger;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/e9a5e3d8641136fac125784d0029381e?OpenDocument
+L87DS01;Värdebesked;Susanne Källén;Susan Krüger;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/cc93b2adf91c56d0c125784d0029380f?OpenDocument
+L87DS03;L87-LAR;Susanne Källén;Susan Krüger;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/9c8500f3a4f7f02ec1257abe003f0600?OpenDocument
+L88;Fondunika funktioner;Susanne Källén;Susan Krüger;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/fccaae9a4fb76ea4c125784d0029381f?OpenDocument
+L88DS01;Fondbyte på Internet;Roger Andersson;Selwa Bahram;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/b964e7a5f58335ddc1257f0a003ede33?OpenDocument
+L89;Beräkning;Susanne Källén;Susan Krüger;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/4fc6092aa431655fc125784d00293820?OpenDocument
+L89DS03;Premieparameter;Susanne Källén;Susan Krüger;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/aaf9aaf0982495afc1257a1e003052da?OpenDocument
+L89DS04;Beräkningsstöd;Susanne Källén;Susan Krüger;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/517f9a9fa6c16f3dc1257a1e00303905?OpenDocument
+L89DS06;Gemensamma javakomponenter för l89ds03 och l89ds04;Susanne Källén;Susan Krüger;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/89fdca9e4a8e67a4c1257eea00445758?OpenDocument
+L90;Kollektivavtalad tjänstepension;Susanne Källén;Susan Krüger;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/91f19f3b18bae14cc125784d00293821?OpenDocument
+L90DS01;Gruppavtalad tjänstepension på webben;Roger Andersson;Selwa Bahram;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/8cc06a44e9a0eef4c1257f0a004106c1?OpenDocument
+L91;Pensionsplan;Susanne Källén;Susan Krüger;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/195d24582109fa89c125784d00293822?OpenDocument
+L91DS02;Dokumentation (Storm);Susanne Källén;Susan Krüger;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/faa8ac7da1139112c1257b87003a2b62?OpenDocument
+L91DS03;Extern webb;Susanne Källén;Susan Krüger;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/e9c55382060841bdc1257a1e00301c4a?OpenDocument
+L91DS04;Behörighetsadministration;Susanne Källén;Susan Krüger;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/39101dfbed93c6f4c1257a1e002ff764?OpenDocument
+L92;Rådgivningsverktyg (VISI);Pia Johnsson;Tomas Remmelg;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/fdfb9d2c269f4ac8c12578f50040af72?OpenDocument
+L93;Råd1;Pia Johnsson/Konsult/FOL/SE;Tomas Remmelg;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/3029682c01e89f62c1257db200400bb4?OpenDocument
+L96;Vital Historik;Susanne Källén;Susan Krüger;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/999aa57fa0dc27f0c125784d00293824?OpenDocument
+L97;Avtalsregister;Susanne Källén;Susan Krüger;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/7ab0635bda28972ac125784d00293825?OpenDocument
+L97DS01;ITP (FO LIV);Susanne Källén;Susan Krüger;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/f10747c048a74ed5c1257b3a0055020e?OpenDocument
+M11;Provisioner juridiska ombud;Sören Hedlund;Ann-Christine Nessling;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/58d859834cb2a1dac125784d00293852?OpenDocument
+Microbreak;Pausprogram;Oscar Unemo;Robert Radda;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/d18fed370881276dc125784d00293919?OpenDocument
+N-systemen;Födas;Anne Vainikainen;Karin Mild;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/9c1fb3f97f865a1dc125784d0029379c?OpenDocument
+N10;Tabeller;Anne Vainikainen;Karin Mild;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/15fdd1cb0c576e36c1257a1a004e70e8?OpenDocument
+N11;Tabeller;Anne Vainikainen;Karin Mild;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/0edc8660675aaf28c1257a1a004e5e82?OpenDocument
+N12;Tabeller;Anne Vainikainen;Karin Mild;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/63a2875e7ff49d7bc1257a1a004e4617?OpenDocument
+N15;Premieberäkning;Anne Vainikainen;Karin Mild;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/16bd546990c373d8c1257a1e002f9f9f?OpenDocument
+N20;Ansvarsförbindelser;Anne Vainikainen;Karin Mild;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/425f7675339ec443c1257a1e002f8f2d?OpenDocument
+N30;Huvudsystem TP;Anne Vainikainen;Karin Mild;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/230ba62efd37c85ec1257a1e002f7a59?OpenDocument
+N31;Huvudsystem TP;Anne Vainikainen;Karin Mild;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/98a40b7af33e34b3c1257a1a004cf1df?OpenDocument
+N32;Huvudsystem TP;Anne Vainikainen;Karin Mild;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/38ffd426d7a59a1cc1257a1a004c57ae?OpenDocument
+N33;Huvudsystem TP;Anne Vainikainen;Karin Mild;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/b764e51afaf82105c1257a1a004c4790?OpenDocument
+N34;Huvudsystem TP;Anne Vainikainen;Karin Mild;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/561128cf20f73831c1257a1a004c23cf?OpenDocument
+N35;Huvudsystem TP;Anne Vainikainen;Karin Mild;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/64db3c85f8be782ac1257a1e002f6071?OpenDocument
+N36;Huvudsystem TP;Anne Vainikainen;Karin Mild;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/d908a91509833b8fc1257a1a004c144a?OpenDocument
+N37;Huvudsystem TP;Anne Vainikainen;Karin Mild;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/3f7fe1740b02611fc1257a1a004bf8af?OpenDocument
+N38;Ansvarsförbindelse;Anne Vainikainen;Karin Mild;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/58261b21b5885288c1257a1a004be15d?OpenDocument
+N40;Ansvarsförbindelser;Anne Vainikainen;Karin Mild;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/3b974ec1986dd013c1257a1e002f4840?OpenDocument
+N41;Huvudsystem;Anne Vainikainen;Karin Mild;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/d94bb8df738e2c89c1257a1a004bb05d?OpenDocument
+N42;Födas system;Anne Vainikainen;Karin Mild;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/aa1ed735b057bd15c1257a1a004b9cbb?OpenDocument
+N43;Födas system;Anne Vainikainen;Karin Mild;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/32e666114f89f27ac1257a1a004b8b44?OpenDocument
+N44;Födas system;Anne Vainikainen;Karin Mild;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/f88b2ae6ba67de41c1257a1a004b7753?OpenDocument
+N45;Återförsäkring;Anne Vainikainen;Karin Mild;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/b2f2e09091f0717ac1257a1a004b64c5?OpenDocument
+N46;Födas;Anne Vainikainen;Karin Mild;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/9b649c2cbbe46eacc1257a1a004b5357?OpenDocument
+N50;Födas;Anne Vainikainen;Karin Mild;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/7b2ef8882105ec00c1257a1e002f37ec?OpenDocument
+N51;Födas;Anne Vainikainen;Karin Mild;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/c834e9e0295cac1cc1257a1a004b41be?OpenDocument
+N60;Födas;Anne Vainikainen;Karin Mild;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/06cc6bf7c0ba7525c1257a1e002f2667?OpenDocument
+N61;Huvudsystem BP;Anne Vainikainen;Karin Mild;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/667cad8e87d577b8c1257a1a004b0527?OpenDocument
+N64;Huvudsystem BP;Anne Vainikainen;Karin Mild;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/fbc6350891fd69c9c1257a1e002ef86f?OpenDocument
+N65;Huvudsystem BP;Anne Vainikainen;Karin Mild;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/87ae98e6e1398f9fc1257a1a004ad768?OpenDocument
+N70;Huvudsystem BP;Anne Vainikainen;Karin Mild;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/81e5fa5772fb8af0c1257a1e002e2577?OpenDocument
+N99;Subprogram;Anne Vainikainen;Karin Mild;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/702e2e78f7ad83afc1257a1c004f5cac?OpenDocument
+O01;Gruppavtal;Anneli Lindberg;Cecilia Nilsson;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/91d235675e2a78f8c125784d00293844?OpenDocument
+O02;Gruppavtal;Anneli Lindberg;Cecilia Nilsson;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/a519d23c6bba528bc125784d00293845?OpenDocument
+O03;Dokumentarkiv;Anneli Lindberg;Cecilia Nilsson;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/8f681af144bb852dc125784d00293846?OpenDocument
+O05;Erbjudandewebbar partner;Marie c Karlsson;Dennis Linder/KPA/FOL/SE;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/a262c7ea41cbf5d4c1257c44005caaf6?OpenDocument
+O21;Medlemshantering;Anneli Lindberg;Cecilia Nilsson;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/ed0b0be21e0f9672c125784d00293847?OpenDocument
+O22;Kollektiv redovisning;Anneli Lindberg;Cecilia Nilsson;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/0a24b80498f27822c125784d00293848?OpenDocument
+O24;Redovisning;Anneli Lindberg;Cecilia Nilsson;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/06d11b3de066f2e1c125784d00293849?OpenDocument
+O33;Gruppavtalshistorik;Anneli Lindberg;Cecilia Nilsson;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/bd8a2aeebd084f14c125784d0029384a?OpenDocument
+O35;Gruppskadesystem;Susanne Källén;Susan Krüger;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/2f86d443a7e1624fc125784d00293826?OpenDocument
+O36;Personskadeutbetalning;Anders Knutsson/Konsult/FOL/SE;Mikael Nyström;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/b96a9e74a5f2454dc125784d0029387e?OpenDocument
+O45;Idrottsförsäkring/licens (LUS);Anneli Lindberg;Cecilia Nilsson;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/13336f9198d18163c125784d0029384b?OpenDocument
+O46;Idrottsförsäkring;Anneli Lindberg;Cecilia Nilsson;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/e0a479a85445b579c125784d0029384c?OpenDocument
+O63;Kollektiv hemförsäkring;Anneli Lindberg;Cecilia Nilsson;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/a364a89a2a0a5e91c125784d0029384d?OpenDocument
+O66;Verksamhetsregler (O36);Anders Knutsson/Konsult/FOL/SE;Mikael Nyström;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/969e14bfc59a65b8c125784d0029387f?OpenDocument
+O68;Lärarförsäkring;Cecilia Nilsson;Stefan Eskelund;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/d7117596fc943079c125784d0029384e?OpenDocument
+P25;Ombudsregistret;Sören Hedlund;Ann-Christine Nessling;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/151f8fceae19c1f2c125797b004eb3f3?OpenDocument
+P30;Netigate;Oscar Unemo;Robert Radda;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/a9decb3331f2251fc125784d002937f6?OpenDocument
+P32;Maze;Oscar Unemo;Robert Radda;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/05128e8bf3d44fefc1257b41003986a4?OpenDocument
+P35;Saba;Oscar Unemo;Robert Radda;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/c823b1b273a908bdc125784d002937f7?OpenDocument
+P40;ReachMee;Oscar Unemo;Robert Radda;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/b966b2f488a07418c125784d002937f8?OpenDocument
+P50;Personal- och lönesystem;Oscar Unemo;Robert Radda;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/6b04ceca96f76fd7c125784d00293925?OpenDocument
+P60;Debitering Restaurangen;Oscar Unemo;Robert Radda;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/086b313f9e954907c125807c0040c071?OpenDocument
+Q00;Gemensamma systemdelar;Susanne Källén;Susan Krüger;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/a2de3b1e551026a6c125784d00293827?OpenDocument
+Q00DS01;Collectum;Susanne Källén;Susan Krüger;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/7fe6d59066170d1bc1257abe003e1fe4?OpenDocument
+Q00DS02;Användargränssnitt förmånsmappar;Susanne Källén;Susan Krüger;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/68fb3c042a422462c1257b0500278c5e?OpenDocument
+Q00DS03;Differenser från Collectum;Susanne Källén;Susan Krüger;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/2c4912910cb02930c12580c7004ef136?OpenDocument
+Q01;Min Pension;Susanne Källén;Susan Krüger;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/ebeaf00bc40166e9c1257c2e004cadfe?OpenDocument
+Q08;Utbetalning;Susanne Källén;Susan Krüger;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/2ab359025cade574c125784d00293828?OpenDocument
+Q10;ÖvergripandeITstöd försäkringsprodukter;Annette Hanse;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/b5ac73725a884885c1257ee4003fc293?OpenDocument
+Q20;Case1;Susanne Källén;Susan Krüger;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/d111276e7384ad2dc12580360034263c?OpenDocument
+Q50;Statistik;Susanne Källén;Susan Krüger;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/6432eb2ba0becc2bc125784d00293829?OpenDocument
+Q80;Leverantörswebb;Anders Knutsson/Konsult/FOL/SE;Mikael Nyström;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/5653a0a96c042ffcc125784d00293880?OpenDocument
+R05;Systeminformation;Tommy Källkvist;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/ec7536ca17ec70c4c1257a1c004db199?OpenDocument
+R10;Qualiware;Jörgen A Larsson;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/c2f4aaf54703ef63c1257a1c004d9218?OpenDocument
+R20;Quality center;Tommy Källkvist;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/03281995c845dc0ec1257a1c004d7112?OpenDocument
+R21;Time machine;Tommy Källkvist;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/3eeeed68fa077114c1257b7c003d44fb?OpenDocument
+R22;Jira - krav o verktyg;Tommy Källkvist;Tommy Källkvist;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/465c4e1cb4c80582c1257e44003701ef?OpenDocument
+R50;Test;Tommy Källkvist;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/ab7d08c4f15d0099c1257a1c004d5f00?OpenDocument
+R51;Endevor;Tommy Källkvist;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/bf7eef5d5a166414c1257a1c004d3e94?OpenDocument
+R52;Sysark;Tommy Källkvist;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/54947542358ebd7cc1257a1c004d2ae0?OpenDocument
+R53;Repository;Tommy Källkvist;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/6abeda026e32065bc1257a1c004d1148?OpenDocument
+R55;Repository;Tommy Källkvist;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/09355b0fa491bb89c1257a1c004cfd32?OpenDocument
+R55DS01;Webenablern;Tommy Källkvist;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/ed7cb2ab96c673f7c1257fa2002789e1?OpenDocument
+R59;Folksams Arkitektur Repository;Tommy Källkvist;Hans Westergren;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/5697e5b8eebd341cc12579ba00306a0c?OpenDocument
+R60;Stordator;Tommy Källkvist;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/2110180c328cc394c1257a1c004ca545?OpenDocument
+R61;Kommunikation;Tommy Källkvist;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/6cb18d59cd6fc2b4c125784d0029383c?OpenDocument
+R61DS01;Gemensam mailfunktion för z/OS;Tommy Källkvist;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/c399739becc71165c1257f6b00484c56?OpenDocument
+R61DS05;Hantera testdata applikationen;Tommy Källkvist/FOL/SE;källkvist Tommy;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/bde393c94274b992c1257fcb00427200?OpenDocument
+R61DS06 ;Testdatarutin påfyllnad;Tommy Källkvist/FOL/SE;källkvist Tommy;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/039f40db7e9e252cc1257fcb0041d7ae?OpenDocument
+R70;Casegen;Tommy Källkvist;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/d888608a371e74a7c1257a1c004c8571?OpenDocument
+R78;Dynatrace loggar;Tommy Källkvist;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/a81fd99d1ee78b05c1257cc30040f651?OpenDocument
+R80;Hjälpprogram;Tommy Källkvist;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/eb5f26f89a6574e7c1257a1c004c6df3?OpenDocument
+R98;Prognosverktyg (Moses);Johanna Gisterå/Konsult/FOL/SE;Anna-Karin Tallsten;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/e22df58fd27166e7c1257d5e002874ef?OpenDocument
+R99;SAS Grid;Johanna Gisterå/Konsult/FOL/SE;Anna-Karin Tallsten;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/1e14fc2b5c68644bc1257bc90047c476?OpenDocument
+S01;Civilförsäkring;Anders Bergwall/FOL/SE;Jane Hultqvist Stenius;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/4fd0f0c82a5b6bf2c1257a1c004c1228?OpenDocument
+S10;Civilförsäkring;Anders Bergwall/FOL/SE;Jane Hultqvist Stenius;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/8524b464c9464cb0c1257a1c004bf1f1?OpenDocument
+S22;Civilförsäkring (gamla);Anders Bergwall/FOL/SE;Jane Hultqvist Stenius;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/4a96a7428ee8e983c125797b00511e51?OpenDocument
+S51;Civilförsäkring (gamla);Anders Bergwall/FOL/SE;Jane Hultqvist Stenius;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/b790b62ac55affd5c125797b00511da2?OpenDocument
+S52;Civilförsäkring;Anders Bergwall/FOL/SE;Jane Hultqvist Stenius;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/c0883744d1f34440c1257a1c004bd0da?OpenDocument
+S70;Civilförsäkring;Anders Bergwall/FOL/SE;Jane Hultqvist Stenius;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/24dae003308ae715c125784d00293796?OpenDocument
+S70DS01;Civilförsäkring;Anders Bergwall/FOL/SE;Jane Hultqvist Stenius;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/9db62b72dfb0e813c1257a1c004bb015?OpenDocument
+S71;Motorförsäkring;Anders Bergwall/FOL/SE;Jane Hultqvist Stenius;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/150c7753e0f11c86c125797b005140a9?OpenDocument
+S72;Statistik;Anders Bergwall/FOL/SE;Jane Hultqvist Stenius;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/45623c6c6b84275dc125797b00514115?OpenDocument
+S73;Personförsäkring;Anders Bergwall/FOL/SE;Jane Hultqvist Stenius;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/50ec1514fae53229c12579330037e56d?OpenDocument
+S99;Civilförsäkring;Anders Bergwall/FOL/SE;Jane Hultqvist Stenius;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/d27961b45877431ac1257a1c004b93bb?OpenDocument
+U02;Utvärdering av ny teknik;Lars Wedin;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/461e782a2fc0deeac1257c610033640b?OpenDocument
+V02;Uppdragstagare;Oscar Unemo;Robert Radda;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/5a9d1a7b0926776dc125784d002937f9?OpenDocument
+V40;Årsbearbetning;Oscar Unemo;Robert Radda;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/86815d4c5cf7fcc0c1257996002e736a?OpenDocument
+V99;SAS Visual Analytics;Johanna Gisterå/Konsult/FOL/SE;Anna-Karin Tallsten/FOL/SE;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/fdfe2b3912a0c8b3c12580830053d91d?OpenDocument
+X10;Nessus;Jim Franzén;Lars Engvall;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/42ab16e389fbcea5c125804c003f03f2?OpenDocument
+Y01;Skadekostnader;Anders Knutsson/Konsult/FOL/SE;Mikael Nyström;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/f7cf64f521f5cdbac1257b97003e830e?OpenDocument
+Y02;Internetkontoret (Mina sidor);Roger Andersson;Selwa Bahram;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/4759d88e9ad38690c125797a00544fcb?OpenDocument
+Y02DS01;Återrapportering;Roger Andersson;Selwa Bahram;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/0bf0fe9ace9723ccc1257b50004eda28?OpenDocument
+Y02DS02;Fasad mot Indecap;Roger Andersson;Björn Blomberg;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/35d090b1e57e5bd3c1257ed80031f5e9?OpenDocument
+Y02DS03;Kundsammanställningsbild med möjlighet att förändra uppgifter;Roger Andersson;Björn Blomberg;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/bc28f93dc0fde60cc1257e52004d27db?OpenDocument
+Y03;Internetkontoret (Mina sidor);Roger Andersson;Selwa Bahram;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/28652f37b347b202c125797a0054506e?OpenDocument
+Y04;Partnerssystemet;Sören Hedlund;Ann-Christine Nessling;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/f48297bee95d1dc9c125784d00293854?OpenDocument
+Y05;Masterdata Person/aktör;Åsa Glavér;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/2876857056e5bdf4c125784d002937a8?OpenDocument
+Y05DS90;Masterdata;Åsa Glavér;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/f55321e33afd54ebc1257a1c004a9209?OpenDocument
+Y06;E-faktura Kundpreferenshanteraren;Roger Andersson;Selwa Bahram;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/7563657185192fe3c1257d72003a75d1?OpenDocument
+Y06DS01;Kundpreferenshanterare;Roger Andersson;Selwa Bahram;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/c8805d487ab7f5a6c1257d9500315db7?OpenDocument
+Y08;ISÄK;Roger Andersson;Selwa Bahram;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/58cff823d56b97dac125797a00540fa1?OpenDocument
+Y09;Fullmaktregister;Sören Hedlund;Ann-Christine Nessling;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/26868931179542adc125784d00293855?OpenDocument
+Y10;Ekonomiska transaktioner;Anneli Lindberg;Cecilia Nilsson;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/ad55b7df24fa5087c125784d0029384f?OpenDocument
+Y12;Skattemodulen;Susanne Källén;Susan Krüger;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/40b875b95454448dc125784d002937ea?OpenDocument
+Y13;Gemensam produktionsmodell;Therése Fröberg;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/3b0531276606d438c12579e6004a2002?OpenDocument
+Y16;Fastighetsdata;Anders Bergwall/FOL/SE;Jane Hultqvist Stenius;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/00c416a71d76d3d5c125784d00293833?OpenDocument
+Y22;Landskoder;Åsa Glavér;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/d548906344e6acdec125784d002937a9?OpenDocument
+Y25;Hantering bankfiler;Annsofi Viklund;Cecilia Brick;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/52a02ae05bc526eac125784d0029383d?OpenDocument
+Y30;Betalhanteraren;Annsofi Viklund;Cecilia Brick;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/384b616137f39c08c125784d0029383e?OpenDocument
+Y30DS01;Rättelserutin;Annsofi Viklund;Cecilia Brick;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/81c49783cbc92741c1257a1c004a1639?OpenDocument
+Y30DS02;Transaktionsdialogen;Annsofi Viklund;Cecilia Brick;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/c81c434ab3300dfbc1257a1c004a3442?OpenDocument
+Y32;CD;Annsofi Viklund;Cecilia Brick;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/148a2cdbb10e842fc125784d0029383f?OpenDocument
+Y35;Återbäring;Annsofi Viklund;Cecilia Brick;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/652ff9d93219f6d0c12579a3002eaa09?OpenDocument
+Y35DS01;Återbäringsberäkning;Annsofi Viklund;Cecilia Brick;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/6e324e0d976df0ddc1257c350051dcbd?OpenDocument
+Y35DS02;;Annsofi Viklund;Annsofi Viklund;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/9183c1cc503834a2c1257f1f00306322?OpenDocument
+;Hantera jms-meddelanden från Y35's webbapplikation;;;
+Y40;Medgivande;Annsofi Viklund;Cecilia Brick;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/43c4d88385943da4c125784d00293840?OpenDocument
+Y40DS01;AG-medgivanden;Annsofi Viklund;Cecilia Brick;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/cac3a9bb9fc7ac3ec1257b750029f7c8?OpenDocument
+Y45;Partnersamarbete bolån;Susanne Källén;Susan Krüger;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/6f9a82c26b200f10c125784d00293865?OpenDocument
+Y48;PROFS;Richard Elg;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/442d279dd1ef95fac1257b24002a0d75?OpenDocument
+Y49;PPSonline;Richard Elg;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/45df1809d7fc8303c1257b2800523e76?OpenDocument
+Y50;Vägtrafikregister;Anders Bergwall/FOL/SE;Jane Hultqvist Stenius;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/981681667c772bf3c125784d00293834?OpenDocument
+Y50DS01;Folksam/dotterbolags koppling till Transsportstyrelsen;Anders Bergwall/FOL/SE;Jane Hultqvist Stenius;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/b5d4bf72d86534eec1257f4500519b5c?OpenDocument
+Y60;Gemensamt skaderegister (GSR);Anders Knutsson/Konsult/FOL/SE;Mikael Nyström;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/09d80b619903583ec125784d00293881?OpenDocument
+Y64;Check Image;Anders Knutsson/Konsult/FOL/SE;Mikael Nyström;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/270c51ca5fbd5e00c12580bb002994c6?OpenDocument
+Y65;FRISS;Anders Knutsson/Konsult/FOL/SE;Mikael Nyström;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/ef0b073c8f3bd825c1257e6d00447a4e?OpenDocument
+Y69;Finansiell information;Oscar Unemo/FOL/SE;Robert Radda;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/2aba7732d6be5c50c12579bb0046c594?OpenDocument
+Y70;DW;Johanna Gisterå/Konsult/FOL/SE;Anna-Karin Tallsten;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/21074765c1d9e6dac125784d00293924?OpenDocument
+Y71;Information server;Johanna Gisterå/Konsult/FOL/SE;Anna-Karin Tallsten;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/6593763118454fb3c1257b97003ec5ee?OpenDocument
+Y72;PoC gemensam beslutsmodell;Johanna Gisterå/Konsult/FOL/SE;;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/3371d5cfc2f92164c1257d930047f15b?OpenDocument
+Y75;Halo;Anders Knutsson/Konsult/FOL/SE;Mikael Nyström;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/ee42bf2cacfd894fc125784d00293867?OpenDocument
+Y75DS01;System för stubbade tjänster;Anders Knutsson/Konsult/FOL/SE;Mikael Nyström;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/06949ede2e761a86c1257ed80032aa26?OpenDocument
+Y80;Apios;Jörgen A Larsson;Maria Beiron/FOL/SE;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/3f67b8a6a1e8fd54c1257a1c0049fcd6?OpenDocument
+Y86;Gateway;Anders Knutsson/Konsult/FOL/SE;Mikael Nyström;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/b9607d37f8568a50c1257b24002a563f?OpenDocument
+Y90;Sambandsobjektet;Anders Bergwall/FOL/SE;Jane Hultqvist Stenius;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/9cf94f871d777185c125784d00293835?OpenDocument
+Y95;Folksam försäkring;Pia Johnsson/Konsult/FOL/SE;Tomas Remmelg;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/28cc585e49fb3d2fc1257b1f0054883e?OpenDocument
+Y98;Söktjänst mot e-Arkiv;Dan Wetterström/FOL/SE;Bengt Mortensen;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/bb93788c9d2b73ebc1258048002753c0?OpenDocument
+Y99;e-Arkiv;Dan Wetterström/FOL/SE;Bengt Mortensen;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/36c6233239e0aa2dc1257f5d004b2bda?OpenDocument
+Z03;ASF;Jörgen A Larsson;Agnetha Lönnroos/FOL/SE;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/263ee3c817020baac125784d00293882?OpenDocument
+Z11;IC-systembibliotek;Tommy Källkvist;Tommy Källkvist;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/dd4a00f6eb144e29c1257a1c00496bca?OpenDocument
+Z70;IBM Netezza Analytics/Pure data system;Johanna Gisterå/Konsult/FOL/SE;Anna-Karin Tallsten/FOL/SE;http://wdac.intern.folksam.se/appl/a1175.nsf/24e2bf0785987708c12579c0005441ee/e530824367f6ce5fc1258083005382d3?OpenDocument
+;;;;
