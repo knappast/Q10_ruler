@@ -1,7 +1,7 @@
 package se.kaskware.q10.navigator.nodes.product;
 
 import se.kaskware.q10.annotations.TermAlias;
-import se.kaskware.q10.navigator.PleGroupNode;
+import se.kaskware.gui.PleGroupNode;
 import se.kaskware.q10.navigator.nodes.rule.AccountingRule;
 import se.kaskware.q10.navigator.nodes.rule.AgreementRule;
 

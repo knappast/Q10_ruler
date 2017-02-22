@@ -1,8 +1,8 @@
 package se.kaskware.q10.navigator.nodes.rule;
 
+import se.kaskware.gui.PleGroupNode;
+import se.kaskware.gui.PleNode;
 import se.kaskware.q10.annotations.TermAlias;
-import se.kaskware.q10.navigator.PleGroupNode;
-import se.kaskware.q10.navigator.PleNode;
 
 /**
  * Created with pride by: per on: 2016-01-30 at: 13:32
